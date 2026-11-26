@@ -174,8 +174,8 @@ python3 tools/sqr_check.py sqr_gd/<相对路径>.gd
 python3 tools/sqr_dedupe_consts.py   # 删掉与 SqrConsts 重名的 const（会报 already exists）
 python3 tools/sqr_stubs.py           # 重新生成 sqr_script.gd 的宿主桩表（479 个，16 参）
 python3 tools/sqr_xref.py            # 给跨文件公共函数调用补 xg. 前缀 + var xg := SqrGlobals.new()
-rsync -a --delete --exclude '.godot' sqr_gd/ /mnt/e/godot_proj/dnf_like/sqr_gd/
-XDG_DATA_HOME="$PWD/.tmp_udata" GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+rsync -a --delete --exclude '.godot' sqr_gd/ client//sqr_gd/
+XDG_DATA_HOME="$PWD/.tmp_udata" GODOT_PROJECT=$PWD/client \
   ./tools/godot.sh --headless --script res://tests/check_sqr.gd   # 权威判据：失败数必须为 0
 ```
 

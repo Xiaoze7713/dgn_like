@@ -15,8 +15,8 @@ func _check(name: String, cond: bool, extra := "") -> void:
 func _init() -> void:
 	_check("\\mnt\\d → D:", PathUtil.to_windows("/mnt/d/dnf_latest") == "D:/dnf_latest",
 			PathUtil.to_windows("/mnt/d/dnf_latest"))
-	_check("\\mnt\\e → E:", PathUtil.to_windows("/mnt/e/godot_proj/dnf_like") == "E:/godot_proj/dnf_like",
-			PathUtil.to_windows("/mnt/e/godot_proj/dnf_like"))
+	_check("/mnt/c → C:", PathUtil.to_windows("/mnt/c/Windows") == "C:/Windows",
+			PathUtil.to_windows("/mnt/c/Windows"))
 	_check("D: → /mnt/d", PathUtil.to_linux("D:/dnf_latest") == "/mnt/d/dnf_latest",
 			PathUtil.to_linux("D:/dnf_latest"))
 	_check("res:// 不动", PathUtil.to_windows("res://a.gd") == "res://a.gd")

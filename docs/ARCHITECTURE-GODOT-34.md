@@ -1,7 +1,7 @@
 # dnf_like（Godot）现有架构说明书
 
 > 目的：给接手做架构优化的人一份「哪个文件负责哪件事、从哪进、数据从哪来、哪里已经烂了」的完整地图。
-> 实测基准：`/mnt/e/godot_proj/dnf_like`（工作区符号链接 `dnf_like/dnf_like`），2026-11-15，Godot 4.7.2。
+> 实测基准：`client/`（工作区符号链接 `dnf_like/dnf_like`），2026-11-15，Godot 4.7.2。
 > 全部结论来自源码 grep + headless 实跑，不是推测；推测处会标「推断」。
 
 ---
@@ -406,7 +406,7 @@ Sf85Pvf.build_player()/build_monster()/build_room()
 cd /home/sunmingze/dnf_like && DISPLAY=:0 ./tools/godot.sh
 
 # 无头冒烟（应 0 个 SCRIPT ERROR；sqr_gd 的解析错误是既存噪音）
-GODOT_PROJECT=/mnt/e/godot_proj/dnf_like ./tools/godot.sh --headless --quit-after 90
+GODOT_PROJECT=$PWD/client ./tools/godot.sh --headless --quit-after 90
 
 # 键位 / 手柄自测
 ./tools/godot.sh --headless --script res://tests/test_dnf_keys.gd   # 25 项

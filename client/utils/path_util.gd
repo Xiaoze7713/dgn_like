@@ -2,7 +2,7 @@ class_name PathUtil
 extends RefCounted
 ## 跨平台路径：WSL 的 `/mnt/d/...` 与 Windows 的 `D:/...` 互转。
 ##
-## 为什么需要它：工程在 WSL 里用 `/mnt/e/godot_proj/dnf_like` 打开，但 Windows
+## 为什么需要它：工程在 WSL 里用 `~/dnf_like/client` 打开，但 Windows
 ## 编辑器 F5 是 Windows 进程，`/mnt/d/dnf_latest` 这种路径在 Godot 里等于不存在。
 ## 入口统一走这里，按当前进程返回能打开的路径。
 ##

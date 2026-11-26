@@ -1,6 +1,6 @@
 # DNF 式底部 HUD + 全局键盘绑定（临时方案）
 
-> 交付日期：2026-11-15 / 引擎：Godot 4.7.2 / 工程：`/mnt/e/godot_proj/dnf_like`
+> 交付日期：2026-11-15 / 引擎：Godot 4.7.2 / 工程：`client/`
 > 数据源：`Script.pvf:clientonly/hotkeysystem_ver3.co`（国服 34.3.13.22）
 
 ## 1. 这次做了什么
@@ -231,11 +231,11 @@ hud_bottom.toast("提示文字")
 
 ```bash
 # 键位系统自测（25 项）
-XDG_DATA_HOME=.tmp_udata GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+XDG_DATA_HOME=.tmp_udata GODOT_PROJECT=$PWD/client \
   ./tools/godot.sh --headless --script res://tests/test_dnf_keys.gd
 
 # 出图（WSLg）
-GODOT_PROJECT=/mnt/e/godot_proj/dnf_like SF85_UI_SHOT=/tmp/hud.png \
+GODOT_PROJECT=$PWD/client SF85_UI_SHOT=/tmp/hud.png \
   SF85_UI_SHOT_FRAMES=200 DISPLAY=:0 ./tools/godot.sh --quit-after 260
 # 打开键盘设置窗口再截图：加 SF85_UI_KEYBINDS=1
 ```

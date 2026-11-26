@@ -62,8 +62,8 @@
 | 知识树索引 | `docs/KB-INDEX.md` | 查 PVF 格式/机制/公式「结论 + 出处」，先看它的 §0 入口表 |
 | **踩坑记录（地图）** | `docs/PVF-MAP-PITFALLS.md` | 做地图/渲染前先扫：z_index 越界、两套坐标、`[img pos]` 是顶部空白、NPC 画布原点、F 键冲突；§5 是流程纪律，§6 是 2026-11-25 增量，§7 是复查命令 |
 | **地图内容包编译（旧）** | `python3 tools/pvf_world/build_pack.py --town hendonmyre ... --out .../assets/pvf/world` | 已不是运行时路径：`WorldDirector` 改为 `LivePvfContent` 直接读 `/mnt/d/dnf_latest/Script.pvf`。脚本保留用于对照/调试；`--dry-run` 只验证。规则见 `docs/PVF-MAP-LOADING.md` |
-| **地图全量审计** | `XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=/mnt/e/godot_proj/dnf_like ./tools/godot.sh --headless --script res://tests/audit_maps.gd` | 加载 twn 489 + dgn 目录 15,700 张 map，输出 `dnf_like/data/debug/audit_maps.{json,md}`；当前 114 张空文件、302 个未解析 label。约 72 s |
-| **地图运行时（Godot）** | `/mnt/e/godot_proj/dnf_like`：`game/world/**`、`scenes/world.tscn`；`XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=/mnt/e/godot_proj/dnf_like ./tools/godot.sh --headless --script res://tests/world_smoke.gd` | 城镇/副本装载、换图、回城、NPC 立绘、城镇列表 UI。冒烟 `world_smoke.gd`（669 项：128 城镇全部 area）、手感 `world_walk.gd`（8/2，副本待接）、UI/跨城/缓存 `world_ui.gd`（53 项）、怪物/对象解析 `world_entities.gd`（12 项）、地砖帧号 `tile_frames.gd`（6 项）、NPK DDS 回归 `npk_dds.gd`（6 项）、DXT 单测 `npk_dxt.gd`（14 项）、引用资源批量扫描 `npk_scan.gd`（4,343 图/约 5 分钟）、截图 `world_shot.gd`（非 headless + WSLg，`--ui=1` 城镇列表，`--map=...` 单图，`--walk=area` 只走 area，`--movable-y=N`）。**运行时直接读** `Script.pvf` + `ImagePacks2`，不读 JSON、不读 `assets/npk-index-latest.bin`；路径常量在 `world_director.gd` 顶部 |
+| **地图全量审计** | `XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=$PWD/client ./tools/godot.sh --headless --script res://tests/audit_maps.gd` | 加载 twn 489 + dgn 目录 15,700 张 map，输出 `client/data/debug/audit_maps.{json,md}`；当前 114 张空文件、302 个未解析 label。约 72 s |
+| **地图运行时（Godot）** | `client/`：`game/world/**`、`scenes/world.tscn`；`XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=$PWD/client ./tools/godot.sh --headless --script res://tests/world_smoke.gd` | 城镇/副本装载、换图、回城、NPC 立绘、城镇列表 UI。冒烟 `world_smoke.gd`（669 项：128 城镇全部 area）、手感 `world_walk.gd`（8/2，副本待接）、UI/跨城/缓存 `world_ui.gd`（53 项）、怪物/对象解析 `world_entities.gd`（12 项）、地砖帧号 `tile_frames.gd`（6 项）、NPK DDS 回归 `npk_dds.gd`（6 项）、DXT 单测 `npk_dxt.gd`（14 项）、引用资源批量扫描 `npk_scan.gd`（4,343 图/约 5 分钟）、截图 `world_shot.gd`（非 headless + WSLg，`--ui=1` 城镇列表，`--map=...` 单图，`--walk=area` 只走 area，`--movable-y=N`）。**运行时直接读** `Script.pvf` + `ImagePacks2`，不读 JSON、不读 `assets/npk-index-latest.bin`；路径常量在 `world_director.gd` 顶部 |
 | **latest .stk / .chr 字典** | `python3 tools/stk_dict.py`、`python3 tools/chr_scan.py`、`python3 tools/pvf_refs.py` | 全量道具字段字典（199,043 个 .stk、727 字段）、55 个 .chr 结构树、引用图（115,496 条边）。产物在 `analysis/pvf-new/items/`、`analysis/pvf-new/chr/`。规则与枚举见 `docs/PVF-NEW-STK-CHR-SPEC.md` |
 
 ## 产出登记规则（2026-11-17，用户提「新窗口别忘」）
@@ -75,8 +75,8 @@
 
 ## 真实项目位置
 
-- **真实 Godot 项目：`/mnt/e/godot_proj/dnf_like`**（WSL 下的 Windows E 盘）。
-- 工作区里 `/home/sunmingze/dnf_like/dnf_like` 是它的**符号链接**；`res://` 根 = 该目录。
+- **Godot 工程：仓库里的 `client/`**（WSL ext4 上；Windows 侧用 `E:\godot_proj\dnf_like` 符号链接指过来）。
+- 工作区里 `/home/sunmingze/dnf_like/dnf_like` 是 `client/` 的**符号链接**；`res://` 根 = 该目录。
 - 项目形态：Godot 4.7 / Forward Plus / .NET（C#，`project/assembly_name="dnf_like"`）/ Jolt Physics；目录有 `core/ game/ services/ models/ resources/ utils/ tests/`。
 - 已有的 `core/config.gd`、`core/constants.gd`、`core/global.gd` 是项目原有模块，和日志/环境组件不是一套东西，改名前先看清楚。
 
@@ -97,14 +97,14 @@
   验证方式（headless 跑真实项目，42 项自测全绿）：
 
   ```bash
-  XDG_DATA_HOME="$PWD/.tmp_udata" GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+  XDG_DATA_HOME="$PWD/.tmp_udata" GODOT_PROJECT=$PWD/client \
     ./tools/godot.sh --headless --script res://tests/test_logger.gd
   ```
 
 - `core/app_env.gd` 的 `version` 现在会在 `application/config/version` 为空时回退 `"0.0.0"`（真实项目没设版本号）。
 - 检测/自测脚本 `tests/probe_scene.*`、`tests/test_logger.gd` 留在真实项目里；不想要可删，不影响 logger 本体。
 
-- 工作区里的 `src/game/` 是当时的脚手架副本（含自测与 README 源），仅作参考/回归用；改真实项目时以 `/mnt/e/godot_proj/dnf_like` 为准。
+- 工作区里的 `src/game/` 是当时的脚手架副本（含自测与 README 源），仅作参考/回归用；改真实项目时以 `client/` 为准。
 
 ## 本机调试注意（2026-11-14，用户提出后记）
 

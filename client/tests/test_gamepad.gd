@@ -1,6 +1,6 @@
 ## GamepadKeys 自测：动作注册、按键/轴绑定、布局表、键帽、两种模式 × 两套预设
 ##
-##   XDG_DATA_HOME=.tmp_udata GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+##   XDG_DATA_HOME=.tmp_udata GODOT_PROJECT=$PWD/client \
 ##     ./tools/godot.sh --headless --script res://tests/test_gamepad.gd
 extends SceneTree
 

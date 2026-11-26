@@ -11,7 +11,7 @@
 产物：<out>/index.json + <out>/png/*.png（PNG 按 (img,帧号) 去重）
 
 用法：
-    python3 tools/sf85_export.py --room map/mirkwood/n201.map --out /mnt/e/godot_proj/dnf_like/assets/sf85
+    python3 tools/sf85_export.py --room map/mirkwood/n201.map --out client/assets/sf85
 """
 import argparse
 import gzip

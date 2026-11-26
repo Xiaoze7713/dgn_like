@@ -41,7 +41,7 @@ store.open_live()          # 不读任何 .bin；NpkLiveIndex 按需读包表
 python3 tools/mk_npk_index.py \
   --pack-dir "/mnt/e/dnf-sf/sf85/老牛DNF客户端/ImagePacks2" \
   --out "analysis/sf85/npk-index.jsonl.gz" \
-  --bin "/mnt/e/godot_proj/dnf_like/assets/npk-index.bin"
+  --bin "client/assets/npk-index.bin"
 ```
 
 - **.bin 布局（小端）**：`"NPKIDX02"`(8) + `u32 count` + `u32 0` +

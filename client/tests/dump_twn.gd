@@ -2,7 +2,7 @@ extends SceneTree
 ## 本地调试用：把一个 .twn 及其递归引用的 .map/.til/.ani/.npc 原样 dump 成文本+二进制。
 ## 不做任何修复，只暴露“哪些引用找不到、哪些标签当前解析器没处理”。
 ## 跑法：
-##   XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+##   XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=$PWD/client \
 ##     ./tools/godot.sh --headless --script res://tests/dump_twn.gd -- \
 ##       --town=town/gent.twn --out=/home/sunmingze/dnf_like/data/debug/gent
 

@@ -149,7 +149,7 @@
 
 ```bash
 cd /home/sunmingze/dnf_like
-XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=$PWD/client \
   ./tools/godot.sh --headless --script res://tests/audit_maps.gd
   ./tools/godot.sh --headless --script res://tests/world_entities.gd   # 12 项：怪物/对象解析
 ```

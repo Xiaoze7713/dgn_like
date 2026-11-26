@@ -37,7 +37,7 @@ TOOLS = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(TOOLS))
 from pvf_script import Pvf, parse  # noqa: E402
 
-DEFAULT_OUT = "/mnt/e/godot_proj/dnf_like/assets/pvf/world"
+DEFAULT_OUT = str(TOOLS.parent / "client" / "assets" / "pvf" / "world")
 
 # ---- 语义登记表（只登记 PVF 里出现的「控制 token」，其余一律按位置解释）-------
 

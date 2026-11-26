@@ -136,7 +136,7 @@ python3 tools/pvf_to_utf8.py \
 
 # Godot 验证
 PVF_UTF8=$PWD/build/sf85.Script.utf8.pvf XDG_DATA_HOME="$PWD/.tmp_udata" \
-  GODOT_PROJECT=/mnt/e/godot_proj/dnf_like ./tools/godot.sh --headless \
+  GODOT_PROJECT=$PWD/client ./tools/godot.sh --headless \
   --script res://tests/probe_dbg.gd
 ```
 

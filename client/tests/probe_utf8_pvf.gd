@@ -3,7 +3,7 @@ extends SceneTree
 ## 打印中文，确认 GDScript 侧不需要任何 GBK 解码器也能正确显示。
 ##
 ## 跑法：
-##   XDG_DATA_HOME="$PWD/.tmp_udata" GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+##   XDG_DATA_HOME="$PWD/.tmp_udata" GODOT_PROJECT=$PWD/client \
 ##     ./tools/godot.sh --headless --script res://tests/probe_utf8_pvf.gd
 
 

@@ -46,7 +46,7 @@ python3 tools/mk_npk_index.py        # 产出 analysis/sf85/npk-index.jsonl.gz�
 python3 tools/sf85_export.py \
   --room map/mirkwood/n201.map \
   --weapon equipment/character/swordman/weapon/ssword/sswd_shockwave.equ \
-  --out /mnt/e/godot_proj/dnf_like/assets/sf85
+  --out client/assets/sf85
 ```
 
 它做的事：
@@ -156,18 +156,18 @@ python3 tools/mk_npk_index.py
 # 2) 导出房间
 python3 tools/sf85_export.py --room map/mirkwood/n201.map \
   --weapon equipment/character/swordman/weapon/ssword/sswd_shockwave.equ \
-  --out /mnt/e/godot_proj/dnf_like/assets/sf85
+  --out client/assets/sf85
 
 # 3) 让 Godot 认新文件（新增脚本/贴图后必跑）
-XDG_DATA_HOME="$PWD/.tmp_udata" GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
-  ./tools/godot/godot --headless --path /mnt/e/godot_proj/dnf_like --editor --quit
+XDG_DATA_HOME="$PWD/.tmp_udata" GODOT_PROJECT=$PWD/client \
+  ./tools/godot/godot --headless --path client/ --editor --quit
 
 # 4) 跑
-XDG_DATA_HOME="$PWD/.tmp_udata" GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+XDG_DATA_HOME="$PWD/.tmp_udata" GODOT_PROJECT=$PWD/client \
   ./tools/godot.sh res://scenes/sf85_mirkwood.tscn
 
 # 5) 不接显示器出图（SF85_DEMO=1 自动走/跳/砍）
-SF85_DEMO=1 XDG_DATA_HOME="$PWD/.tmp_udata" GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+SF85_DEMO=1 XDG_DATA_HOME="$PWD/.tmp_udata" GODOT_PROJECT=$PWD/client \
   ./tools/godot.sh --write-movie /tmp/mv/f.png --quit-after 380 res://scenes/sf85_mirkwood.tscn
 ```
 

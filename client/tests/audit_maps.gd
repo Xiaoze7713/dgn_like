@@ -2,7 +2,7 @@ extends SceneTree
 ## 全量地图审计：twn 引用的所有 map + dgn 目录下的所有 map。
 ## 只读；输出 data/debug/audit_maps.json / .md。
 ## 跑法：
-##   XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+##   XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=$PWD/client \
 ##   ./tools/godot.sh --headless --script res://tests/audit_maps.gd
 
 const OUT_DIR := "res://data/debug"

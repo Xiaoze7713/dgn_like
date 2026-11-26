@@ -4,7 +4,7 @@
 >
 > **配套文档**：`docs/PVF-MAP-LOADING.md`（规则与架构，正面描述）、`docs/PVF-NEW-STK-CHR-SPEC.md`（.stk/.chr 格式）。本文只记**错在哪、为什么错、怎么验证**。
 >
-> **工程根**：PVF 内容包与脚本在 `/home/sunmingze/dnf_like`；Godot 工程在 `/mnt/e/godot_proj/dnf_like`（下文 `game/...`、`assets/...` 都是相对 Godot 工程根）。
+> **工程根**：PVF 内容包与脚本在 `/home/sunmingze/dnf_like`；Godot 工程在 `client/`（下文 `game/...`、`assets/...` 都是相对 Godot 工程根）。
 
 ---
 
@@ -286,7 +286,7 @@ gent 的 `imperial_palace_tile00..04.til` 共用 `Imperial_Palace_Tile.img` 的 
 #    （旧 build_pack.py 只用于对照 token 解析）
 
 # 2) 逻辑冒烟（657 项：128 城镇全部 area 装载）
-cd /mnt/e/godot_proj/dnf_like
+cd client/
 XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=$PWD \
   /home/sunmingze/dnf_like/tools/godot.sh --headless --script res://tests/world_smoke.gd
 #  手感：res://tests/world_walk.gd（城镇 8 通过；副本 2 失败，待接 .dgn）

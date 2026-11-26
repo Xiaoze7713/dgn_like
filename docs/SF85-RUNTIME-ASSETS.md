@@ -77,11 +77,11 @@ n201 的 7 只：`4@(796,202) 10@(961,218) 1@(1259,221) 3@(1321,251) 1@(1210,266
 
 ```bash
 # 首次/新增脚本后：让编辑器扫一遍（否则 res:// 找不到新文件）
-XDG_DATA_HOME="$PWD/.tmp_udata" GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+XDG_DATA_HOME="$PWD/.tmp_udata" GODOT_PROJECT=$PWD/client \
   ./tools/godot.sh --headless --editor --quit
 
 # 逻辑探针（不开窗口）
-XDG_DATA_HOME="$PWD/.tmp_udata" GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+XDG_DATA_HOME="$PWD/.tmp_udata" GODOT_PROJECT=$PWD/client \
   ./tools/godot.sh --headless --script res://tests/probe_mirkwood.gd
 
 # 逐帧出图（自动驾驶：走 → 跳 → 三连击 → 上挑）

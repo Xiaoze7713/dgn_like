@@ -1,6 +1,6 @@
 ## DnfKeys 自测：默认键位 → 改键 → 存盘 → 读回 → 恢复默认
 ##
-##   XDG_DATA_HOME=.tmp_udata GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+##   XDG_DATA_HOME=.tmp_udata GODOT_PROJECT=$PWD/client \
 ##     ./tools/godot.sh --headless --script res://tests/test_dnf_keys.gd
 extends SceneTree
 

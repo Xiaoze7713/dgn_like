@@ -1,7 +1,7 @@
 extends SceneTree
 ## 逐个城镇/area 做“数据层”体检：只记录明确缺失/异常，不改代码。
 ## 用法：
-##   XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+##   XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=$PWD/client \
 ##     ./tools/godot.sh --headless --script res://tests/audit_towns.gd
 ## 产物：data/debug/audit_towns.json + 终端摘要。
 

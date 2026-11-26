@@ -2,7 +2,7 @@ extends SceneTree
 ## 地砖“拼接宽度”体检：RoomBuilder 目前按固定 224 像素铺一块地砖，
 ## 但 NPK 帧宽不全是 224。这里列出所有非 224 的贴图，供位置后处理前核对。
 ## 用法：
-##   XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+##   XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=$PWD/client \
 ##     ./tools/godot.sh --headless --script res://tests/tile_width_audit.gd
 
 func _init() -> void:

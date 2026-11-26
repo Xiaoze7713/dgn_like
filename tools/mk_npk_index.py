@@ -25,7 +25,8 @@ import time
 
 PACK = "/mnt/e/dnf-sf/sf85/老牛DNF客户端/ImagePacks2"
 OUT_JSONL = "analysis/sf85/npk-index.jsonl.gz"
-OUT_BIN = "/mnt/e/godot_proj/dnf_like/assets/npk-index.bin"
+REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+OUT_BIN = os.path.join(REPO, "client", "assets", "npk-index.bin")
 KEY = (b"puchikon@neople dungeon and fighter " + b"DNF" * 256)[:255] + b"\x00"
 XOR_TABLE = bytes(KEY[i % 256] for i in range(256))
 

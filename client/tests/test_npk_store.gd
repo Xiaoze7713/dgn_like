@@ -1,7 +1,7 @@
 ## 运行时 NPK 读取自测：索引查询 / IMG 解码 / 像素摘要
 ##
 ## 跑法：
-##   XDG_DATA_HOME="$PWD/.tmp_udata" GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+##   XDG_DATA_HOME="$PWD/.tmp_udata" GODOT_PROJECT=$PWD/client \
 ##     ./tools/godot.sh --headless --script res://tests/test_npk_store.gd
 ##
 ## 输出每帧的 md5(名字:帧号:宽度:高度:RGBA字节)，用来和 Python 侧

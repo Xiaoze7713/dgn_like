@@ -1,7 +1,7 @@
 # 手柄键位方案（第一版）
 
 > 2026-11-15 / 依据：你给的《键位设计思路》（2.5D + 俯视 45°）+ 客户端原生手柄表
-> 工程：`/mnt/e/godot_proj/dnf_like` · 代码：`core/input/gamepad_keys.gd`（`GamepadKeys`）
+> 工程：`client/` · 代码：`core/input/gamepad_keys.gd`（`GamepadKeys`）
 
 ## 0. 一句话
 
@@ -90,11 +90,11 @@ var it := GamepadKeys.read()
 
 ```bash
 # 手柄布局自测（50 项：按键/轴绑定、两预设、两模式、键帽、describe）
-XDG_DATA_HOME=.tmp_udata GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+XDG_DATA_HOME=.tmp_udata GODOT_PROJECT=$PWD/client \
   ./tools/godot.sh --headless --script res://tests/test_gamepad.gd
 
 # 出图（没有实体手柄时用 SF85_HUD_PAD=1 强制手柄显示）
-GODOT_PROJECT=/mnt/e/godot_proj/dnf_like SF85_HUD_PAD=1 SF85_UI_SHOT=/tmp/hud.png \
+GODOT_PROJECT=$PWD/client SF85_HUD_PAD=1 SF85_UI_SHOT=/tmp/hud.png \
   SF85_UI_SHOT_FRAMES=200 DISPLAY=:0 ./tools/godot.sh --quit-after 260
 # 打开设置的手柄页：加 SF85_UI_KEYBINDS=1 SF85_UI_KEYBINDS_PAD=1
 ```

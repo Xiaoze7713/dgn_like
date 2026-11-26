@@ -1,6 +1,6 @@
 extends SceneTree
 ## 全量通行表体检：列出所有「整张图 pass 全为 2」的 area，以及各种行数/列数。
-## 用法：XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+## 用法：XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=$PWD/client \
 ##   ./tools/godot.sh --headless --script res://tests/audit_pass.gd
 
 const PassGridScript := preload("res://game/world/build/pass_grid.gd")

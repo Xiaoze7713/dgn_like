@@ -143,7 +143,7 @@
 # 指定城镇 + 副本（副本可用 path 或注册表 id）
 python3 tools/pvf_world/build_pack.py --town hendonmyre --town centralpark \
     --town metrocenter --town devildom_contact \
-    --dungeon dungeon/act1/lorien.dgn --out /mnt/e/godot_proj/dnf_like/assets/pvf/world
+    --dungeon dungeon/act1/lorien.dgn --out client/assets/pvf/world
 # 只验证解析不写盘
 python3 tools/pvf_world/build_pack.py --town hendonmyre --dry-run
 ```
@@ -176,7 +176,7 @@ npcs/<key>.json            {id,path,name,field_name,role,ani,face}
 
 ---
 
-## 5. 运行时结构（`/mnt/e/godot_proj/dnf_like`）
+## 5. 运行时结构（`client/`）
 
 ```
 game/world/

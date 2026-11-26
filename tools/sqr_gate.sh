@@ -12,8 +12,8 @@ echo "== 3/5 桩表 + 交叉引用"
 python3 tools/sqr_stubs.py || exit 1
 python3 tools/sqr_xref.py || exit 1
 echo "== 4/5 同步到 Godot 工程"
-rsync -a --delete --exclude '.godot' sqr_gd/ /mnt/e/godot_proj/dnf_like/sqr_gd/ || exit 1
+rsync -a --delete --exclude '.godot' sqr_gd/ client/sqr_gd/ || exit 1
 echo "== 5/5 运行时加载检查"
-XDG_DATA_HOME="$PWD/.tmp_udata" GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+XDG_DATA_HOME="$PWD/.tmp_udata" GODOT_PROJECT=$PWD/client \
   ./tools/godot.sh --headless --script res://tests/check_sqr.gd 2>&1 \
   | grep -E "^(FAIL|=== 共)" 

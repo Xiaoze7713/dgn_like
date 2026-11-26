@@ -92,7 +92,7 @@ world_director.enter_town(key)
 
 ```bash
 export XDG_DATA_HOME="$PWD/.tmp_udata"
-export GODOT_PROJECT=/mnt/e/godot_proj/dnf_like
+export GODOT_PROJECT=$PWD/client
 ./tools/godot.sh --headless --script res://tests/world_smoke.gd   # 669 项：128 城镇全部 area
 ./tools/godot.sh --headless --script res://tests/world_entities.gd # 12 项：怪物/被动对象解析
 ./tools/godot.sh --headless --script res://tests/tile_frames.gd # 6 项：地砖 [IMAGE] 帧号（gent 5 帧）

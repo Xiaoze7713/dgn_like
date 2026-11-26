@@ -161,7 +161,7 @@ while true:
 python3 tools/make_test_pvf.py --out /tmp/pvf_test
 
 # 56 项断言：容器/路径/文档树/动画逐帧字段
-XDG_DATA_HOME="$PWD/.tmp_udata" GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+XDG_DATA_HOME="$PWD/.tmp_udata" GODOT_PROJECT=$PWD/client \
   ./tools/godot.sh --headless --script res://tests/test_pvf_loader.gd
 
 # 加整包：打开真实 1,460,792 条并计时
@@ -171,7 +171,7 @@ PVF_FULL=/mnt/e/dnf-sf/sf115/Script.pvf ... 同上
 当前结果：`56 通过 / 0 失败`，整包 `1460792 条，解密+建表 ~5.5 s`。
 
 > 新增/改名 `utils/` 下的脚本后，非编辑器模式不认新文件，先跑一次
-> `./tools/godot/godot --headless --path /mnt/e/godot_proj/dnf_like --editor --quit`
+> `./tools/godot/godot --headless --path client/ --editor --quit`
 
 ## 6. 中文显示：直接换 UTF-8 包（推荐）
 
@@ -202,7 +202,7 @@ python3 tools/pvf_to_utf8.py --dst build/Script.utf8.pvf
 - 换完之后 GDScript 侧什么都不用改，`decode_text()` 的 ASCII 快路径 + 自验 UTF-8 就够：
 
   ```bash
-  XDG_DATA_HOME="$PWD/.tmp_udata" GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+  XDG_DATA_HOME="$PWD/.tmp_udata" GODOT_PROJECT=$PWD/client \
     ./tools/godot.sh --headless --script res://tests/probe_utf8_pvf.gd
   #  条目 1460792，耗时 5107 ms
   #  [name] = 基本上衣

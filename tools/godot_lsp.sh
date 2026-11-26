@@ -13,8 +13,9 @@
 set -uo pipefail
 
 PORT=${GODOT_LSP_PORT:-6009}
-PROJECT=${GODOT_PROJECT:-/mnt/e/godot_proj/dnf_like}
-GODOT=${GODOT_BIN:-/home/sunmingze/dnf_like/tools/godot/godot}
+ROOT=$(cd "$(dirname "$0")/.." && pwd)
+PROJECT=${GODOT_PROJECT:-$ROOT/client}
+GODOT=${GODOT_BIN:-$ROOT/tools/godot/godot}
 LOG=${GODOT_LSP_LOG:-/tmp/godot_lsp.log}
 SESSION=godot_lsp
 
@@ -25,7 +26,7 @@ start() {
     tmux kill-session -t "$SESSION" 2>/dev/null
     tmux new-session -d -s "$SESSION" \
         "while :; do cd '$PROJECT' && '$GODOT' --headless --editor --path '$PROJECT' --no-window --lsp-port $PORT >> '$LOG' 2>&1; echo \"[godot_lsp] exited \$? at \$(date -Is), respawn...\" >> '$LOG'; sleep 3; done"
-    echo "[godot_lsp] 启动中（/mnt/e 上首次约 80s 才监听端口）"
+    echo "[godot_lsp] 启动中（首次约 20-80s 才监听端口）"
     echo "            tmux: $SESSION   日志: $LOG   端口: 127.0.0.1:$PORT"
     return 0
 }

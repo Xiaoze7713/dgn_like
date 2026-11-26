@@ -308,7 +308,7 @@ PY
 cd /home/sunmingze/dnf_like
 export DNF_NPK_LATEST="/mnt/d/WeGameApps/rail_apps/地下城与勇士：创新世纪(1)/ImagePacks2"
 export XDG_DATA_HOME="$PWD/.tmp_udata"
-export GODOT_PROJECT="/mnt/e/godot_proj/dnf_like"
+export GODOT_PROJECT="$PWD/client"
 WORLD_NO_DECO=1 WORLD_DEBUG_GRID=1 \
   ./tools/godot.sh --script res://tests/world_shot.gd -- \
   --out=/tmp/step2_tiles.png --town=town_hendonmyre.twn --area=1 --frames=35
@@ -417,7 +417,7 @@ WORLD_DEBUG_BOXES=1 ./tools/godot.sh --script res://tests/world_shot.gd -- \
 
 ```bash
 export XDG_DATA_HOME=$PWD/.tmp_udata
-export GODOT_PROJECT=/mnt/e/godot_proj/dnf_like
+export GODOT_PROJECT=$PWD/client
 ./tools/godot.sh --headless --script res://tests/dump_twn.gd -- \
   --town=town/gent.twn --out=/home/sunmingze/dnf_like/data/debug/gent
 ```
@@ -583,9 +583,9 @@ map/cataclysm/town/gent/animation/gent_dock/gent_sign.ani
 - 命令（两条都要真跑）：
 
 ```bash
-XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=$PWD/client \
   ./tools/godot.sh --headless --script res://tests/audit_towns.gd
-XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=$PWD/client \
   ./tools/godot.sh --headless --script res://tests/tile_width_audit.gd
 ```
 
@@ -754,7 +754,7 @@ XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
 验证命令：
 
 ```bash
-XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=$PWD/client \
   ./tools/godot.sh --script res://tests/world_shot.gd -- \
   --out=/tmp/hendon_area0.png --town=town_hendonmyre.twn --area=0 --debug=1 --frames=35
 ```
@@ -828,7 +828,7 @@ func rect_with_mode(raw: Rect2, mode: int) -> Rect2:
 ### 15.1 怎么跑
 
 ```bash
-XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=/mnt/e/godot_proj/dnf_like \
+XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=$PWD/client \
   ./tools/godot.sh --headless --script res://tests/movable_y_ab.gd
 ```
 
@@ -1005,7 +1005,7 @@ mode=bottom raw_center=(1588.0, 480.0) bottom_center=(1588.0, 0.0) raw_hit=false
 - 修复：`_dds_frame()` 先用 `Image.load_dds_from_buffer()`；DPX 压缩图先 `decompress()`，再 `convert(FORMAT_RGBA8)`，按帧矩形裁剪。
 - 修复后：build 282ms；全帧 471ms；Cloud 116ms（34ms）、Gear_Big 84ms（29ms）。
 - 复现：
-  `XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=/mnt/e/godot_proj/dnf_like ./tools/godot.sh --headless --script /tmp/wahrheit_probe.gd`
+  `XDG_DATA_HOME=$PWD/.tmp_udata GODOT_PROJECT=$PWD/client ./tools/godot.sh --headless --script /tmp/wahrheit_probe.gd`
   `... --script /tmp/wahrheit_anim_cost.gd`
 - 截图：`/tmp/wahrheit_native.png`（1600×1000）。
 
