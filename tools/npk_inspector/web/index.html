@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NPK Inspector · DNF 资源查看器</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <div class="logo" aria-hidden="true">
+      <svg viewBox="0 0 32 32" width="22" height="22">
+        <path d="M16 2 30 9.5 16 17 2 9.5 16 2Z" fill="#7dd3fc"/>
+        <path d="M2 15 16 22.5 30 15v4L16 26.5 2 19v-4Z" fill="#38bdf8" opacity=".75"/>
+        <path d="M2 22 16 29.5 30 22v3.2L16 32.5 2 25.2V22Z" fill="#0ea5e9" opacity=".6"/>
+      </svg>
+    </div>
+    <div class="brand-text">
+      <h1>NPK Inspector</h1>
+      <span class="sub">DNF 资源查看器 · v1/v2/v4/v5 + OGG</span>
+    </div>
+  </div>
+  <div class="filebar" id="filebar">
+    <span class="filechip" id="filechip" hidden></span>
+  </div>
+  <div class="top-actions">
+    <button class="btn primary" id="btnOpen">打开 NPK</button>
+    <button class="btn" id="btnFolder">打开文件夹</button>
+    <button class="btn ghost" id="btnHelp" title="帮助与快捷键">?</button>
+    <input type="file" id="fileInput" accept=".npk,.NPK,.img,.IMG,.ogg" hidden>
+    <input type="file" id="dirInput" webkitdirectory hidden>
+  </div>
+</header>
+
+<div class="app">
+  <aside class="sidebar" id="sidebar">
+    <div class="side-head">
+      <div class="search">
+        <svg viewBox="0 0 20 20" width="14" height="14"><circle cx="8.5" cy="8.5" r="5.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="m13 13 4 4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+        <input id="search" type="search" placeholder="搜索条目（支持路径片段）" spellcheck="false" autocomplete="off">
+      </div>
+      <div class="filters" id="filters">
+        <button data-filter="all" class="chip active">全部 <b>0</b></button>
+        <button data-filter="img" class="chip">IMG <b>0</b></button>
+        <button data-filter="ogg" class="chip">OGG <b>0</b></button>
+      </div>
+    </div>
+    <div class="list-wrap" id="listWrap">
+      <div class="list-spacer" id="listSpacer"></div>
+      <div class="list-rows" id="listRows"></div>
+      <div class="list-empty" id="listEmpty" hidden>没有匹配的条目</div>
+    </div>
+    <div class="side-foot" id="sideFoot">未打开文件</div>
+  </aside>
+
+  <main class="main" id="main">
+    <div class="entry-head">
+      <div class="entry-title">
+        <span class="type-pill" id="entryType">—</span>
+        <h2 id="entryName">未选择条目</h2>
+      </div>
+      <div class="entry-actions">
+        <button class="btn sm" id="btnExportRaw" disabled>导出原始文件</button>
+        <button class="btn sm" id="btnExportJson" disabled>结构 JSON</button>
+      </div>
+    </div>
+
+    <nav class="tabs" id="tabs">
+      <button data-tab="preview" class="active">预览</button>
+      <button data-tab="compose">拼装 · 导出</button>
+      <button data-tab="atlas">图集 · 切图<span class="tab-badge" id="atlasBadge" hidden></span></button>
+      <button data-tab="structure">结构</button>
+      <button data-tab="audio" id="tabAudio" disabled>音频</button>
+    </nav>
+
+    <section class="pane" id="pane-preview">
+      <div class="preview-grid">
+        <div class="preview-left">
+          <div class="toolbar" id="previewToolbar">
+            <div class="tb-group">
+              <button class="icon-btn" id="btnPrev" title="上一帧（←）">◀</button>
+              <button class="icon-btn play" id="btnPlay" title="播放/暂停（空格）">▶</button>
+              <button class="icon-btn" id="btnNext" title="下一帧（→）">▶︎</button>
+            </div>
+            <div class="tb-group grow">
+              <input type="range" id="frameSlider" min="0" max="0" value="0">
+              <div class="frame-num"><input id="frameInput" type="number" min="1" value="1"> <span id="frameTotal">/ 0</span></div>
+            </div>
+            <div class="tb-group">
+              <label class="mini">FPS <input id="fpsInput" type="number" min="1" max="60" value="8" step="1"></label>
+              <label class="mini check"><input id="loopChk" type="checkbox" checked><span>循环</span></label>
+            </div>
+            <div class="tb-group">
+              <select id="bgSel" title="背景">
+                <option value="checker">棋盘格</option>
+                <option value="dark">深色</option>
+                <option value="light">浅色</option>
+              </select>
+              <select id="zoomSel" title="缩放">
+                <option value="fit">适应窗口</option>
+                <option value="1">100%</option>
+                <option value="2" selected>200%</option>
+                <option value="4">400%</option>
+                <option value="8">800%</option>
+              </select>
+              <label class="mini check"><input id="canvasChk" type="checkbox" checked><span>画布框</span></label>
+              <label class="mini check"><input id="originChk" type="checkbox" checked><span>原点</span></label>
+            </div>
+          </div>
+          <div class="stage-wrap">
+            <div class="stage" id="stage"><canvas id="cv"></canvas><div class="stage-empty" id="stageEmpty">选择左侧条目开始查看</div></div>
+            <div class="stage-foot" id="stageFoot"></div>
+          </div>
+        </div>
+        <aside class="inspector" id="frameInfo"></aside>
+      </div>
+    </section>
+
+    <section class="pane" id="pane-compose" hidden>
+      <div class="preview-grid">
+        <div class="preview-left">
+          <div class="toolbar">
+            <div class="tb-group">
+              <button class="icon-btn" id="cPrev" title="上一帧（←）">◀</button>
+              <button class="icon-btn play" id="cPlay" title="播放/暂停（空格）">▶</button>
+              <button class="icon-btn" id="cNext" title="下一帧（→）">▶︎</button>
+            </div>
+            <div class="tb-group grow">
+              <input type="range" id="cSlider" min="0" max="0" value="0">
+              <div class="frame-num"><span id="cFrameNum">0 / 0</span></div>
+            </div>
+            <div class="tb-group">
+              <label class="mini">FPS <input id="cFps" type="number" min="1" max="60" value="8" step="1"></label>
+              <label class="mini check"><input id="cLoop" type="checkbox" checked><span>循环</span></label>
+            </div>
+          </div>
+          <div class="stage-wrap">
+            <div class="stage"><canvas id="cStage"></canvas></div>
+            <div class="stage-foot" id="cFoot"></div>
+          </div>
+        </div>
+        <aside class="inspector" id="compBody"></aside>
+      </div>
+    </section>
+
+    <section class="pane" id="pane-atlas" hidden>
+      <div class="atlas-body" id="atlasBody"></div>
+    </section>
+
+    <section class="pane" id="pane-structure" hidden>
+      <div class="struct-body" id="structBody"></div>
+    </section>
+
+    <section class="pane" id="pane-audio" hidden>
+      <div class="audio-body" id="audioBody"></div>
+    </section>
+  </main>
+</div>
+
+<div class="overlay" id="overlay" hidden>
+  <div class="modal">
+    <div class="modal-head">
+      <h3 id="modalTitle">打开 NPK</h3>
+      <button class="btn ghost sm" id="modalClose">×</button>
+    </div>
+    <div class="modal-body" id="modalBody"></div>
+  </div>
+</div>
+
+<div class="toasts" id="toasts"></div>
+
+<div class="drop-hint" id="dropHint" hidden><div>松开以打开 NPK</div><small>支持单个文件、多个文件或整个文件夹</small></div>
+
+<script src="../core/npk_core.js"></script>
+<script src="demo_data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

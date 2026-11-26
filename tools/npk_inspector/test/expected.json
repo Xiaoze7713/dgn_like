@@ -1,0 +1,11664 @@
+{
+"npks": {
+"vehicle": {
+"path": "/mnt/e/dnf-sf/sf85/老牛DNF客户端/ImagePacks2/sprite_monster_vehicle.NPK",
+"fileSize": 193932,
+"entries": [
+[
+"sprite/monster/vehicle/battle_ing_damage.img",
+3220,
+429
+],
+[
+"sprite/monster/vehicle/battlingram.img",
+3649,
+29056
+],
+[
+"sprite/monster/vehicle/battlingramparticle.img",
+32705,
+4396
+],
+[
+"sprite/monster/vehicle/cannonball.img",
+37101,
+304
+],
+[
+"sprite/monster/vehicle/catapult.img",
+37405,
+21963
+],
+[
+"sprite/monster/vehicle/catapultparticle.img",
+59368,
+3865
+],
+[
+"sprite/monster/vehicle/flamecatapult.img",
+63233,
+21960
+],
+[
+"sprite/monster/vehicle/flamecatapultparticle.img",
+85193,
+3884
+],
+[
+"sprite/monster/vehicle/lasercatapult.img",
+89077,
+21879
+],
+[
+"sprite/monster/vehicle/lasercatapultparticle.img",
+110956,
+3875
+],
+[
+"sprite/monster/vehicle/pushick.img",
+114831,
+57148
+],
+[
+"sprite/monster/vehicle/webcannon.img",
+171979,
+21953
+]
+]
+},
+"atlas": {
+"path": "/mnt/e/dnf-sf/sf115/人造神客户端/ImagePacks2/1A冥灵之塔补丁.NPK",
+"fileSize": 183212312,
+"entries": [
+[
+"sprite/interface2/gcontents/191128_weekdungeon/weekdungeon_town_loading.img",
+154228,
+958257
+],
+[
+"sprite/worldmap/minglinzhita.img",
+1112485,
+274789
+],
+[
+"sprite/map/bg1.img",
+1387274,
+1164781
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/giselle_1.img",
+2552055,
+5473974
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/giselle_2.img",
+8026029,
+955221
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/chainsawelec.img",
+8981250,
+102332
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/chainsawdodge.img",
+9083582,
+162133
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/chainsawnormal.img",
+9245715,
+98226
+],
+[
+"sprite/monster/luke_raid/buffon/hand.img",
+9343941,
+206215
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/drone1light.img",
+9550156,
+161345
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/drone1spark.img",
+9711501,
+159583
+],
+[
+"sprite/character/gunner/effect/atmagneticfield/casting02.img",
+9871084,
+25631
+],
+[
+"sprite/character/gunner/effect/atmagneticfield/casting01.img",
+9896715,
+7397
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/drone2flare.img",
+9904112,
+90738
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/drone2laser.img",
+9994850,
+159949
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/drone2light.img",
+10154799,
+42860
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/drone1wind01.img",
+10197659,
+147443
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/drone1wind02.img",
+10345102,
+60258
+],
+[
+"sprite/character/gunner/effect/atmagneticfield/shelldodge.img",
+10405360,
+13971
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/tagore.img",
+10419331,
+792759
+],
+[
+"sprite/monster/fiendwar_kr/named_buster/03beam_d.img",
+11212090,
+470865
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/dash02.img",
+11682955,
+76093
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/drillattack01.img",
+11759048,
+232872
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/cast03.img",
+11991920,
+63356
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/line01.img",
+12055276,
+9388
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/charge.img",
+12064664,
+185875
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/dust05.img",
+12250539,
+1307151
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/spark05.img",
+13557690,
+17268
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/dust06.img",
+13574958,
+441135
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/drillpiercing.img",
+14016093,
+525826
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/spark04.img",
+14541919,
+85037
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/cast02.img",
+14626956,
+80577
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/cast04.img",
+14707533,
+64517
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/spark02.img",
+14772050,
+11515
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/cast01.img",
+14783565,
+64979
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/spinkick01.img",
+14848544,
+106603
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/spinkick02.img",
+14955147,
+155218
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/endorbit.img",
+15110365,
+51493
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/dust04.img",
+15161858,
+18230
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/looporbit.img",
+15180088,
+303014
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/startorbit.img",
+15483102,
+341691
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/dash01.img",
+15824793,
+74648
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/deathlaserstart.img",
+15899441,
+885239
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/booster02.img",
+16784680,
+33529
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/booster01.img",
+16818209,
+44917
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/barrierbooster01.img",
+16863126,
+222315
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/knife.img",
+17085441,
+27836
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/knifeloop.img",
+17113277,
+2598
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/barrierbooster02.img",
+17115875,
+45876
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/groggyspark00.img",
+17161751,
+46884
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/1_body.img",
+17208635,
+1587849
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/traila.img",
+18796484,
+82950
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/sparka.img",
+18879434,
+41262
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/7_body_effect.img",
+18920696,
+201073
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/trailb.img",
+19121769,
+126585
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/sparkb.img",
+19248354,
+51368
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/masklighta.img",
+19299722,
+21932
+],
+[
+"sprite/character/gunblader/effect/exceed/startblackcircle.img",
+19321654,
+103943
+],
+[
+"sprite/character/gunblader/effect/exceed/readyblackcircle.img",
+19425597,
+42396
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/sparke.img",
+19467993,
+175546
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/handflamea.img",
+19643539,
+92529
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/handflameb.img",
+19736068,
+284546
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/gatherforceg.img",
+20020614,
+166162
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/gatherforcef.img",
+20186776,
+370321
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/bodyflamed.img",
+20557097,
+170854
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/bodyflameb.img",
+20727951,
+656563
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/bodyflamec.img",
+21384514,
+97054
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/handflamec.img",
+21481568,
+200202
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/kepadona/kepadona.img",
+21681770,
+336761
+],
+[
+"sprite/character/demoniclancer/effect/violentpierce/attackbigshot_07.img",
+22018531,
+141033
+],
+[
+"sprite/character/gunblader/effect/incredible/boom_dust.img",
+22159564,
+1300137
+],
+[
+"sprite/monster/kcontents2/theevildomwar/normal/change_over_rulcer/change_over_rulcer.img",
+23459701,
+432260
+],
+[
+"sprite/monster/gcontents/190307_preyraid/jardrakon/jardrakon.img",
+23891961,
+1023158
+],
+[
+"sprite/monster/gcontents/190307_preyraid/jardrakon/effect/firedust01.img",
+24915119,
+66408
+],
+[
+"sprite/monster/gcontents/190307_preyraid/jardrakon/effect/finalbody.img",
+24981527,
+19248
+],
+[
+"sprite/monster/gcontents/190307_preyraid/jardrakon/effect/eyelight.img",
+25000775,
+3608
+],
+[
+"sprite/monster/gcontents/190307_preyraid/jardrakon/effect/tailattack.img",
+25004383,
+17173
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/kugai_body.img",
+25021556,
+1024300
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/kugai_greenwing_dodge.img",
+26045856,
+139072
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/kugaislash02.img",
+26184928,
+167079
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/kugaidust.img",
+26352007,
+201148
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/kugaileaf01.img",
+26553155,
+89654
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/kugaislash01.img",
+26642809,
+82918
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/kugaisignal.img",
+26725727,
+347171
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/kugaislash04red.img",
+27072898,
+80529
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/kugaislash02red.img",
+27153427,
+117928
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/kugaislash01red.img",
+27271355,
+58447
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/reversal08.img",
+27329802,
+226201
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/reversal10.img",
+27556003,
+385178
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/reversal10_dodge.img",
+27941181,
+71510
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/kugaislash03.img",
+28012691,
+127885
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/reversal06.img",
+28140576,
+2238
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/reversal01.img",
+28142814,
+370999
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/kugai_body2.img",
+28513813,
+76382
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/kugai_body2_dodge.img",
+28590195,
+8483
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/add01red.img",
+28598678,
+389042
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/kugaislash03red.img",
+28987720,
+107006
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/kugaislash04.img",
+29094726,
+106953
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/kugaislash05.img",
+29201679,
+124266
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/kugaileaf02.img",
+29325945,
+51688
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/add01.img",
+29377633,
+477217
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/reversal05.img",
+29854850,
+438516
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/add02.img",
+30293366,
+168367
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/reversal07.img",
+30461733,
+13788
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/reversal05_dodge.img",
+30475521,
+9783
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/reversal04.img",
+30485304,
+57582
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/reversal02.img",
+30542886,
+133648
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/reversal03.img",
+30676534,
+592493
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/reversal03_dodge.img",
+31269027,
+111127
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/reversal09.img",
+31380154,
+286696
+],
+[
+"sprite/monster/stormofmetastasis/falls_to_the_sky/gasibok/gasi_1.img",
+31666850,
+147
+],
+[
+"sprite/monster/stormofmetastasis/falls_to_the_sky/gasibok/gasi_2.img",
+31666997,
+146
+],
+[
+"sprite/monster/gcontents/190307_preyraid/blossom/dark_boom1_dodge.img",
+31667143,
+622760
+],
+[
+"sprite/monster/gcontents/190307_preyraid/blossom/shock_wave_dark1.img",
+32289903,
+35092
+],
+[
+"sprite/monster/gcontents/190307_preyraid/jardrakon/effect/firefloor01.img",
+32324995,
+145389
+],
+[
+"sprite/monster/gcontents/190307_preyraid/jardrakon/effect/fireattackparticle02.img",
+32470384,
+50114
+],
+[
+"sprite/monster/gcontents/190307_preyraid/jardrakon/effect/firefloor02.img",
+32520498,
+220624
+],
+[
+"sprite/monster/gcontents/190307_preyraid/jardrakon/effect/tonadoattack.img",
+32741122,
+125960
+],
+[
+"sprite/monster/gcontents/190307_preyraid/jardrakon/effect/fireattackparticle01.img",
+32867082,
+31927
+],
+[
+"sprite/monster/gcontents/190307_preyraid/jardrakon/effect/fireattackparticle03.img",
+32899009,
+33
+],
+[
+"sprite/monster/gcontents/190307_preyraid/jardrakon/effect/finalattackparticle.img",
+32899042,
+33
+],
+[
+"sprite/character/fighter/effect/hurricanesp/turn03.img",
+32899075,
+35012
+],
+[
+"sprite/monster/gcontents/190307_preyraid/jardrakon/effect/finaldust.img",
+32934087,
+2591
+],
+[
+"sprite/monster/gcontents/190307_preyraid/jardrakon/effect/tailattackparticle02.img",
+32936678,
+19717
+],
+[
+"sprite/monster/gcontents/190307_preyraid/jardrakon/effect/tailattackparticle01.img",
+32956395,
+24247
+],
+[
+"sprite/monster/gcontents/190307_preyraid/jardrakon/effect/fireattack.img",
+32980642,
+256037
+],
+[
+"sprite/common/commoneffect/dust/dust05.img",
+33236679,
+339197
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/floor2.img",
+33575876,
+472091
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/floor.img",
+34047967,
+36613
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/reversal12.img",
+34084580,
+271255
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/castred.img",
+34355835,
+352884
+],
+[
+"sprite/monster/op_hope/sugarhill/bernardo/jump/jump_n.img",
+34708719,
+838978
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/stonedodge.img",
+35547697,
+38861
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/stonenormal.img",
+35586558,
+33
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/bombexplosiondodge.img",
+35586591,
+380666
+],
+[
+"sprite/common/commoneffect/smoke/smoke11b.img",
+35967257,
+137450
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/drone3mainlightning.img",
+36104707,
+120628
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/drone3sublightning.img",
+36225335,
+79100
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/drone3bottomlightning.img",
+36304435,
+517956
+],
+[
+"sprite/character/fighter/effect/poisonsnake/pc_crack.img",
+36822391,
+28895
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/drone1smoke01.img",
+36851286,
+1164456
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/drone1smoke02.img",
+38015742,
+428259
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/drone1elec.img",
+38444001,
+30109
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/drone1explosionsmoke03.img",
+38474110,
+319545
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/drone1explosionsmoke01.img",
+38793655,
+1285907
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/drone1explosionbottomelec.img",
+40079562,
+236393
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/drone1explosionsmoke02.img",
+40315955,
+518648
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/drone1cracknormal.img",
+40834603,
+92194
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/drone1crackdodge.img",
+40926797,
+16173
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/drone1embers1.img",
+40942970,
+17912
+],
+[
+"sprite/character/gunner/effect/bursterbeam/bursterbeam_06_explo_a.img",
+40960882,
+764732
+],
+[
+"sprite/monster/luke_raid/aslan_oblivion/phoenixexplosion.img",
+41725614,
+494659
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/target.img",
+42220273,
+383253
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/dust02.img",
+42603526,
+69197
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/dust03.img",
+42672723,
+157597
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/dust01.img",
+42830320,
+384603
+],
+[
+"sprite/common/commoneffect/dust/dust04.img",
+43214923,
+105066
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/endspark01.img",
+43319989,
+434592
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/endlaser.img",
+43754581,
+304562
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/startspark01.img",
+44059143,
+89314
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/loop0a.img",
+44148457,
+29604
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/loopspark03.img",
+44178061,
+600277
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/looplaser.img",
+44778338,
+65497
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/loopspark02.img",
+44843835,
+33555
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/loopspark01.img",
+44877390,
+128659
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/startspark03.img",
+45006049,
+522753
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/startlaser.img",
+45528802,
+77127
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/startspark02.img",
+45605929,
+33509
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/missile.img",
+45639438,
+1301
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/missileeffect01.img",
+45640739,
+116939
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/missileeffect03.img",
+45757678,
+336683
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/missiletarget.img",
+46094361,
+49187
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/lasersprak00.img",
+46143548,
+657369
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/deathlaser00.img",
+46800917,
+177089
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/deathlaserloop.img",
+46978006,
+1168635
+],
+[
+"sprite/monster/kcontents3/theevildomgathering/named/ikki_the_vikki/effect/mk-llpunchfire.img",
+48146641,
+33
+],
+[
+"sprite/common/commoneffect/smoke/smoke07.img",
+48146674,
+91824
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/loopdetail03.img",
+48238498,
+772112
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/backlaser.img",
+49010610,
+170810
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/backbeam.img",
+49181420,
+386116
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/loopdetail02.img",
+49567536,
+1132049
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/loopdetail01.img",
+50699585,
+357993
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/frontlaser.img",
+51057578,
+165064
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/frontbeam.img",
+51222642,
+1440384
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/number.img",
+52663026,
+67600
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/frontglow.img",
+52730626,
+1578646
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/red00.img",
+54309272,
+556884
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/normalshield.img",
+54866156,
+59583
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/loopdetail04.img",
+54925739,
+462283
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/normalshieldfloor.img",
+55388022,
+53041
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/attackshelter01.img",
+55441063,
+176242
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/attackshelter02.img",
+55617305,
+183193
+],
+[
+"sprite/interface2/specialdungeon/theevildomwar/keyinputgame/00_chip.img",
+55800498,
+255297
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/explosion3.img",
+56055795,
+798397
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/explosion2.img",
+56854192,
+504917
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/explosion1.img",
+57359109,
+1713860
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/explosion4.img",
+59072969,
+546087
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/glass1.img",
+59619056,
+934877
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/explosion0.img",
+60553933,
+73737
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/brokenglass.img",
+60627670,
+1185981
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/shocka.img",
+61813651,
+44267
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/sparkd.img",
+61857918,
+33228
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/gatherforced.img",
+61891146,
+316447
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/gatherforcec.img",
+62207593,
+117431
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/mask3expl.img",
+62325024,
+150179
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/3_blueface.img",
+62475203,
+23632
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/mask3flame.img",
+62498835,
+97813
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/mask5expl.img",
+62596648,
+139540
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/5_greenface.img",
+62736188,
+14902
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/mask5flame.img",
+62751090,
+88517
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/mask6expl.img",
+62839607,
+173069
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/6_greyface.img",
+63012676,
+14574
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/mask6flame.img",
+63027250,
+111696
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/2_redface.img",
+63138946,
+16288
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/mask2flame.img",
+63155234,
+150278
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/4_whiteface.img",
+63305512,
+14084
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/speedline.img",
+63319596,
+285200
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/mask3flamec.img",
+63604796,
+107455
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/mask3flameb.img",
+63712251,
+59121
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/mask6flamec.img",
+63771372,
+106124
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/mask6flameb.img",
+63877496,
+63272
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/mask5flamec.img",
+63940768,
+97690
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/mask5flameb.img",
+64038458,
+57719
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/mask2flamec.img",
+64096177,
+101913
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/mask2flameb.img",
+64198090,
+56801
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/mask4flamec.img",
+64254891,
+111509
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/mask4flameb.img",
+64366400,
+61660
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/summonmaska.img",
+64428060,
+211867
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/summonmaskb.img",
+64639927,
+74408
+],
+[
+"sprite/map/harlem/district9/object/barricade.img",
+64714335,
+10635
+],
+[
+"sprite/map/kcontents2/theevildomwar/subwayofthebleed/normal/wall2_object2_particle.img",
+64724970,
+1095
+],
+[
+"sprite/character/demoniclancer/effect/servantlanceassult/holdarea.img",
+64726065,
+701814
+],
+[
+"sprite/character/demoniclancer/effect/drillingneck/drillingneck07.img",
+65427879,
+108269
+],
+[
+"sprite/character/demoniclancer/effect/deadlymassacre/attack_flame.img",
+65536148,
+199402
+],
+[
+"sprite/character/demoniclancer/effect/deadlymassacre/attack_shock.img",
+65735550,
+225970
+],
+[
+"sprite/character/demoniclancer/effect/deadlymassacre/attack_spark.img",
+65961520,
+105822
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/kepadona/kepadona_punch.img",
+66067342,
+1368
+],
+[
+"sprite/monster/kcontents3/theevildomgathering/named/kepadonia/boomwave.img",
+66068710,
+44769
+],
+[
+"sprite/monster/kcontents3/theevildomgathering/named/kepadonia/boom.img",
+66113479,
+138819
+],
+[
+"sprite/monster/kcontents3/theevildomgathering/named/kepadonia/attack03.img",
+66252298,
+12531
+],
+[
+"sprite/monster/kcontents3/theevildomgathering/named/kepadonia/fire02.img",
+66264829,
+184763
+],
+[
+"sprite/monster/kcontents3/theevildomgathering/named/kepadonia/dustred.img",
+66449592,
+819861
+],
+[
+"sprite/yizhiyu/20220119/tubiao.img",
+67269453,
+988097
+],
+[
+"sprite/common/commoneffect/earthquakering.img",
+68257550,
+28228
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/despero_the_pure.img",
+68285778,
+847604
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/trail2.img",
+69133382,
+7947
+],
+[
+"sprite/monster/kcontents3/theevildomgathering/boss/workman/warp_gate_shock.img",
+69141329,
+389735
+],
+[
+"sprite/character/gunblader/effect/theninebarrel/boom03.img",
+69531064,
+18002
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/trail1.img",
+69549066,
+15434
+],
+[
+"sprite/monster/collosseumofempire/ripper/attack_timeslow_effect/010_smash_effect.img",
+69564500,
+36352
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/gatherforce.img",
+69600852,
+461954
+],
+[
+"sprite/common/commoneffect/focus/focus01.img",
+70062806,
+376676
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/centercasting.img",
+70439482,
+543234
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/darkenergynormal.img",
+70982716,
+145805
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/energyballgreen.img",
+71128521,
+15696
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/spinringnormal.img",
+71144217,
+409430
+],
+[
+"sprite/monster/kcontents2/theoculus/boss/rosebery/icecasting.img",
+71553647,
+82864
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/bluelight.img",
+71636511,
+150027
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/smallelectirc.img",
+71786538,
+21959
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/smallelectircnormal.img",
+71808497,
+8788
+],
+[
+"sprite/character/gunblader/effect/attractammunition/core_line.img",
+71817285,
+1255629
+],
+[
+"sprite/character/knight/effect/twilightunicorn/boom003.img",
+73072914,
+300648
+],
+[
+"sprite/monster/kcontents3/theevildomgathering/boss/workman/meteor_casting1.img",
+73373562,
+364446
+],
+[
+"sprite/monster/kcontents2/theoculus/boss/rosebery/dimensionfire00.img",
+73738008,
+24823
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/energylinenormal.img",
+73762831,
+528694
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/energylinedodgecolor.img",
+74291525,
+330998
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/dogheadabyss.img",
+74622523,
+330766
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/groundeffect.img",
+74953289,
+381657
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/energybottom.img",
+75334946,
+195072
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/shootingspark.img",
+75530018,
+127442
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/elecetricdodge.img",
+75657460,
+572416
+],
+[
+"sprite/monster/kcontents2/theoculus/boss/ezra/focusnomal.img",
+76229876,
+850902
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/attacksmall.img",
+77080778,
+70464
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bakira/slashsmoke01.img",
+77151242,
+176436
+],
+[
+"sprite/character/gunblader/effect/basicattack/dashattack01.img",
+77327678,
+79488
+],
+[
+"sprite/monster/collosseumofempire/morphling/effect/thorn_thunder02.img",
+77407166,
+31262
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/dash.img",
+77438428,
+130494
+],
+[
+"sprite/character/fighter/effect/atfinalextremestrike/movingdodge.img",
+77568922,
+126503
+],
+[
+"sprite/common/commoneffect/dust/dust07a.img",
+77695425,
+536651
+],
+[
+"sprite/common/commoneffect/dust/dust08.img",
+78232076,
+923540
+],
+[
+"sprite/common/commoneffect/dust/dust09.img",
+79155616,
+1374932
+],
+[
+"sprite/character/gunblader/effect/rollingmove/dusta.img",
+80530548,
+457110
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/spark.img",
+80987658,
+41038
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/trail4.img",
+81028696,
+330258
+],
+[
+"sprite/character/fighter/effect/atfinalextremestrike/movingnormal.img",
+81358954,
+33700
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/shootlance.img",
+81392654,
+153703
+],
+[
+"sprite/monster/kcontents2/theoculus/boss/ezra/wavewhite.img",
+81546357,
+442303
+],
+[
+"sprite/character/gunblader/effect/diffusionbust/smokea.img",
+81988660,
+696063
+],
+[
+"sprite/character/gunblader/effect/violentsmash/dusta.img",
+82684723,
+625653
+],
+[
+"sprite/character/priest/effect/atomicchopper/rockb.img",
+83310376,
+18436
+],
+[
+"sprite/character/priest/effect/atdismember/crack.img",
+83328812,
+208071
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/trail3.img",
+83536883,
+90375
+],
+[
+"sprite/character/priest/effect/atwillofinquisitor/3hitrock.img",
+83627258,
+23165
+],
+[
+"sprite/common/commoneffect/crack/crack02c.img",
+83650423,
+255074
+],
+[
+"sprite/common/commoneffect/crack/crack03a.img",
+83905497,
+947276
+],
+[
+"sprite/common/commoneffect/crack/crack01.img",
+84852773,
+272915
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/distancegreen.img",
+85125688,
+25801
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/swingspeedline.img",
+85151489,
+405495
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/thornelecloofdodge.img",
+85556984,
+63310
+],
+[
+"sprite/monster/kcontents3/crypt_of_pain/mandarin/lightningb.img",
+85620294,
+147152
+],
+[
+"sprite/monster/gcontents/190307_preyraid/eik/eik_lighting03.img",
+85767446,
+199738
+],
+[
+"sprite/character/gunblader/effect/energybounce/g1line.img",
+85967184,
+51139
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/shootingsparknormal.img",
+86018323,
+214706
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/elecetricnormal.img",
+86233029,
+320798
+],
+[
+"sprite/character/gunblader/effect/gbomb/dusta.img",
+86553827,
+422426
+],
+[
+"sprite/character/gunblader/effect/gwidow/dusta.img",
+86976253,
+462292
+],
+[
+"sprite/monster/gcontents/190307_preyraid/commoneffect/warningfloor_line.img",
+87438545,
+72825
+],
+[
+"sprite/character/gunblader/effect/rollingmove/dustb.img",
+87511370,
+1081536
+],
+[
+"sprite/monster/kcontents2/theoculus/boss/ezra/magiccircle06nomal.img",
+88592906,
+1618939
+],
+[
+"sprite/monster/kcontents2/theoculus/boss/ezra/grogynomal.img",
+90211845,
+440936
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/backcsmoke.img",
+90652781,
+444464
+],
+[
+"sprite/common/commoneffect/smoke/smoke08.img",
+91097245,
+543612
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/wideexplosion.img",
+91640857,
+444624
+],
+[
+"sprite/monster/kcontents2/theoculus/boss/ezra/endexdodge.img",
+92085481,
+1135378
+],
+[
+"sprite/monster/kcontents3/theevildomgathering/named/ruhm_thesummoner/effect/ruhm_shield_smoke.img",
+93220859,
+593819
+],
+[
+"sprite/monster/gcontents/190307_preyraid/zodiac/02_boom_front_dodge.img",
+93814678,
+1310545
+],
+[
+"sprite/monster/kcontents3/theevildomgathering/boss/workman/floor_dust_normal_f.img",
+95125223,
+650000
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/named/venta/venta_body.img",
+95775223,
+362009
+],
+[
+"sprite/character/swordman/effect/athiddenblade/new/jump02.img",
+96137232,
+53336
+],
+[
+"sprite/character/swordman/effect/athiddenblade/new/dash02.img",
+96190568,
+84297
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/named/venta/venta_body_back.img",
+96274865,
+191441
+],
+[
+"sprite/character/swordman/effect/athiddenblade/new/jump01.img",
+96466306,
+44864
+],
+[
+"sprite/character/swordman/effect/athiddenblade/new/effcet03.img",
+96511170,
+32488
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/named/venta/venta_casting1_object1.img",
+96543658,
+14773
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/named/venta/venta_casting1_object2.img",
+96558431,
+6591
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/named/venta/venta_casting1_object3.img",
+96565022,
+14877
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/named/venta/venta_casting1_object4.img",
+96579899,
+4989
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/named/venta/venta_casting3_object1.img",
+96584888,
+48397
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/named/venta/venta_casting3_object2.img",
+96633285,
+45183
+],
+[
+"sprite/character/priest/effect/atomicchopper/ringdust.img",
+96678468,
+573181
+],
+[
+"sprite/character/mage/effect/elementalquake/crack.img",
+97251649,
+1031154
+],
+[
+"sprite/character/swordman/effect/atscaffolt/boom02.img",
+98282803,
+132594
+],
+[
+"sprite/character/demoniclancer/effect/darkzone/darkstart07.img",
+98415397,
+265211
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/missileeffect02.img",
+98680608,
+302015
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/jet/eff/gatherforcea.img",
+98982623,
+95270
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/sarpoza/gatherforcef.img",
+99077893,
+727917
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/named/venta/venta_smog.img",
+99805810,
+34294
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/named/venta/venta_smog_back.img",
+99840104,
+44444
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/named/venta/venta_smog_02normal.img",
+99884548,
+277711
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/named/venta/venta_smog_01dodge.img",
+100162259,
+70466
+],
+[
+"sprite/monster/kcontents3/theevildomgathering/normal/barca_thewarrior/effect/jumpdust.img",
+100232725,
+73499
+],
+[
+"sprite/common/commoneffect/stone/stone02.img",
+100306224,
+137270
+],
+[
+"sprite/common/commoneffect/stone/stone06.img",
+100443494,
+108263
+],
+[
+"sprite/monster/kcontents2/siroco_raid/phase2/boss/siroco/effect/floor_dust_dodge_b_siroco.img",
+100551757,
+381111
+],
+[
+"sprite/monster/kcontents2/siroco_raid/phase2/boss/siroco/effect/floor_dust_dodge_f_siroco.img",
+100932868,
+630402
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/named/venta/venta_body_dodge.img",
+101563270,
+327893
+],
+[
+"sprite/monster/gcontents/190307_preyraid/commoneffect/warningfloor_circle500.img",
+101891163,
+562765
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/gatherforcee.img",
+102453928,
+34842
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/waveb.img",
+102488770,
+658833
+],
+[
+"sprite/common/commoneffect/dust/dust01.img",
+103147603,
+237168
+],
+[
+"sprite/monster/gcontents/190307_preyraid/commoneffect/warningfloor_circle200.img",
+103384771,
+159018
+],
+[
+"sprite/monster/gcontents/190307_preyraid/jardrakon/effect/firedust02.img",
+103543789,
+62310
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/desperosting.img",
+103606099,
+91951
+],
+[
+"sprite/character/demoniclancer/effect/quickpunto/quickpunto.img",
+103698050,
+6126
+],
+[
+"sprite/character/demoniclancer/effect/darkdivision/cast04.img",
+103704176,
+15392
+],
+[
+"sprite/monster/kcontents3/crypt_of_pain/mandarin/nenaura.img",
+103719568,
+238070
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/stingtrail.img",
+103957638,
+19290
+],
+[
+"sprite/character/demoniclancer/effect/darkdivision/b1.img",
+103976928,
+47811
+],
+[
+"sprite/monster/gcontents/190307_preyraid/isys/final01.img",
+104024739,
+225841
+],
+[
+"sprite/monster/collosseumofempire/mortuus/stone.img",
+104250580,
+93114
+],
+[
+"sprite/character/demoniclancer/effect/pinpointslash/dot01.img",
+104343694,
+3968
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/whitecircle.img",
+104347662,
+932024
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/topring2.img",
+105279686,
+345675
+],
+[
+"sprite/monster/fiendwar_kr/boss_catfiend/102_wideexplosion_n.img",
+105625361,
+1573097
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/explosionnormal.img",
+107198458,
+747413
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/explosiondodge.img",
+107945871,
+428503
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/blackcrashboomnormal.img",
+108374374,
+86247
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/blackcrashboomdodge.img",
+108460621,
+123110
+],
+[
+"sprite/monster/harlem/bordertown/cermak/cermak_floorguts.img",
+108583731,
+157901
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/crackdodge.img",
+108741632,
+2861
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/thornelectricloofnormal.img",
+108744493,
+286855
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/thorn.img",
+109031348,
+70938
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/aurawhite.img",
+109102286,
+152509
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/greenline.img",
+109254795,
+122255
+],
+[
+"sprite/character/knight/effect/shieldofcourage/aura_dodge.img",
+109377050,
+146679
+],
+[
+"sprite/monster/collosseumofempire/mortuus/greenheart_explosiona05.img",
+109523729,
+41091
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/crashboom.img",
+109564820,
+120895
+],
+[
+"sprite/monster/kcontents2/theoculus/boss/rosebery/dimensionlightning_09.img",
+109685715,
+66575
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/attackbackforce.img",
+109752290,
+90225
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/attackpierce.img",
+109842515,
+40354
+],
+[
+"sprite/character/gunner/effect/atstinger/shockwave.img",
+109882869,
+106051
+],
+[
+"sprite/character/swordman/effect/suddenstrikevs/attack03.img",
+109988920,
+9328
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/safetyline.img",
+109998248,
+6811
+],
+[
+"sprite/monster/kcontents2/siroco_raid/phase2/boss/leveche/effect/skirtdboom00.img",
+110005059,
+276233
+],
+[
+"sprite/monster/daybreak/molech/safetyarea02.img",
+110281292,
+97763
+],
+[
+"sprite/monster/daybreak/molech/safetyarea01.img",
+110379055,
+436688
+],
+[
+"sprite/common/commoneffect/wave/wave07.img",
+110815743,
+85675
+],
+[
+"sprite/common/commoneffect/glow/halfcircle.img",
+110901418,
+142016
+],
+[
+"sprite/monster/kcontents2/siroco_raid/phase1/boss/nex/small_aura_a.img",
+111043434,
+453613
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/smallauradodgeloof.img",
+111497047,
+79839
+],
+[
+"sprite/monster/kcontents3/darktemple/airak/pine_speedline.img",
+111576886,
+332668
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/energyballnormal.img",
+111909554,
+1165710
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/energyballdodge.img",
+113075264,
+469834
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/doghead/dogheadabyss04.img",
+113545098,
+208692
+],
+[
+"sprite/monster/luke_raid/sneijder/action08_back.img",
+113753790,
+113177
+],
+[
+"sprite/monster/gcontents/190307_preyraid/cumulonimbus/dragonhitb.img",
+113866967,
+130275
+],
+[
+"sprite/character/gunner/effect/atg5falcon/spark.img",
+113997242,
+17553
+],
+[
+"sprite/monster/collosseumofempire/parumeru/tonadobubble1_normal.img",
+114014795,
+28406
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/lightningfocus.img",
+114043201,
+159479
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/focusspark.img",
+114202680,
+170473
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/thornelectirc.img",
+114373153,
+349771
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/warningexplosionnormal.img",
+114722924,
+966233
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/warningexplosiondodge.img",
+115689157,
+402821
+],
+[
+"sprite/monster/luke_raid/anubis/anubis_dummy02.img",
+116091978,
+83654
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/groggy.img",
+116175632,
+83604
+],
+[
+"sprite/character/demoniclancer/effect/servantlanceassult/stopspearglow.img",
+116259236,
+64135
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/despero/twistspheregreen.img",
+116323371,
+59949
+],
+[
+"sprite/common/commoneffect/crack/crack02a.img",
+116383320,
+431597
+],
+[
+"sprite/character/swordman/effect/atjihad/ringdust.img",
+116814917,
+397039
+],
+[
+"sprite/monster/kcontents2/siroco_raid/phase1/boss/geoseuti/atk3smokea.img",
+117211956,
+1168084
+],
+[
+"sprite/character/fighter/effect/finalheaven/dust05.img",
+118380040,
+107570
+],
+[
+"sprite/monster/kcontents2/siroco_raid/phase1/boss/geoseuti/atk3booma.img",
+118487610,
+425787
+],
+[
+"sprite/monster/ancient_infinited/leshphon/the_wicked_disease_direzie/leshpon02_level00.img",
+118913397,
+49840
+],
+[
+"sprite/monster/ancient_infinited/leshphon/the_wicked_disease_direzie/leshpon02_level01.img",
+118963237,
+389214
+],
+[
+"sprite/monster/collosseumofempire/ripper/attack_timecut_effect/008_smash_dust.img",
+119352451,
+85331
+],
+[
+"sprite/character/gunblader/effect/tacticaloffensive/dust01.img",
+119437782,
+99670
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/sarpoza/shockwavea.img",
+119537452,
+359994
+],
+[
+"sprite/common/commoneffect/stone/stone03.img",
+119897446,
+295556
+],
+[
+"sprite/character/gunblader/effect/gctf/burna.img",
+120193002,
+196077
+],
+[
+"sprite/character/gunblader/effect/gctf/burnb.img",
+120389079,
+199270
+],
+[
+"sprite/character/gunblader/effect/gctf/burnf.img",
+120588349,
+68159
+],
+[
+"sprite/monster/kcontents2/siroco_raid/phase1/boss/geoseuti/cebottomnormala.img",
+120656508,
+2771760
+],
+[
+"sprite/monster/kcontents2/siroco_raid/phase1/boss/geoseuti/cetopdodgea.img",
+123428268,
+542899
+],
+[
+"sprite/monster/kcontents2/siroco_raid/phase1/boss/geoseuti/risingfluid001.img",
+123971167,
+2032350
+],
+[
+"sprite/character/demoniclancer/effect/encroach/smoke3dodge.img",
+126003517,
+158321
+],
+[
+"sprite/character/demoniclancer/effect/encroach/smoke3nomal.img",
+126161838,
+135659
+],
+[
+"sprite/character/demoniclancer/effect/encroach/smoke3glow.img",
+126297497,
+34850
+],
+[
+"sprite/monster/kcontents2/siroco_raid/phase1/boss/hanier/effect/bottomauraloop.img",
+126332347,
+1225230
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/named/venta/venta_casting2_object.img",
+127557577,
+9589
+],
+[
+"sprite/character/knight/effect/weepingwave/rock.img",
+127567166,
+18525
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/jet/eff/hondon.img",
+127585691,
+665200
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/boss/jet/eff/hondon2.img",
+128250891,
+323151
+],
+[
+"sprite/monster/kcontents3/abaddonimprisoned/hesiss/blacksmokeb.img",
+128574042,
+564087
+],
+[
+"sprite/monster/gcontents/190307_preyraid/gretta/grettaattack6projectile.img",
+129138129,
+462708
+],
+[
+"sprite/character/demoniclancer/effect/darkness/smokefloor.img",
+129600837,
+29566
+],
+[
+"sprite/monster/gcontents/190307_preyraid/blossom/circle1_grey.img",
+129630403,
+119198
+],
+[
+"sprite/monster/gcontents/190307_preyraid/blossom/s_magic_circle_grey.img",
+129749601,
+18984
+],
+[
+"sprite/monster/gcontents/190307_preyraid/blossom/grey_pillar1.img",
+129768585,
+72666
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/wordsworth/effect/attack4/skill4_aura_endbottom.img",
+129841251,
+135225
+],
+[
+"sprite/character/gunblader/effect/gbomb/dustb.img",
+129976476,
+1182303
+],
+[
+"sprite/character/gunblader/effect/diffusionbust/dusta.img",
+131158779,
+689956
+],
+[
+"sprite/character/gunblader/effect/gctf/explosiona2.img",
+131848735,
+562434
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/named/calling_jade/phase2/redcp1booma.img",
+132411169,
+362495
+],
+[
+"sprite/character/gunblader/effect/gctf/explosionb2.img",
+132773664,
+611804
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/named/calling_jade/phase2/redcp1boomb.img",
+133385468,
+364760
+],
+[
+"sprite/character/gunblader/effect/gctf/explosionc2.img",
+133750228,
+587369
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/named/calling_jade/phase2/redcp1boomc.img",
+134337597,
+353732
+],
+[
+"sprite/character/gunblader/effect/gwidow/flyingsmoke.img",
+134691329,
+1015866
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/mask4expl.img",
+135707195,
+203456
+],
+[
+"sprite/monster/kcontents2/blackpurgatory/named/calling_jade/phase2/redcp1glow.img",
+135910651,
+156930
+],
+[
+"sprite/monster/kcontents2/siroco_raid/phase1/boss/hanier/effect/bottomauraend.img",
+136067581,
+322006
+],
+[
+"sprite/monster/kcontents2/siroco_raid/phase1/boss/hanier/effect/bottomaurastart.img",
+136389587,
+603184
+],
+[
+"sprite/character/thief/effect/shadowbunsinsul/smoke.img",
+136992771,
+216867
+],
+[
+"sprite/monster/kcontents3/darktemple/rosenberg_possessedbykhazan/att0_circle.img",
+137209638,
+5963516
+],
+[
+"sprite/character/gunblader/effect/thelastattack/dust03.img",
+143173154,
+235766
+],
+[
+"sprite/character/swordman/effect/vajra/vajra_finish_eff.img",
+143408920,
+698322
+],
+[
+"sprite/common/commoneffect/smoke/smoke11a.img",
+144107242,
+630262
+],
+[
+"sprite/character/gunblader/effect/exceed/groundcrack.img",
+144737504,
+820879
+],
+[
+"sprite/common/commoneffect/dust/dust11b.img",
+145558383,
+1003383
+],
+[
+"sprite/common/commoneffect/dust/dust11a.img",
+146561766,
+1633230
+],
+[
+"sprite/common/commoneffect/wind/wind02.img",
+148194996,
+142681
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/mask2expl.img",
+148337677,
+197790
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/mask4flame.img",
+148535467,
+138748
+],
+[
+"sprite/monster/gcontents/190307_preyraid/commoneffect/warningfloor_sector.img",
+148674215,
+412002
+],
+[
+"sprite/common/commoneffect/glow/circle.img",
+149086217,
+89654
+],
+[
+"sprite/monster/gcontents/190307_preyraid/goldenwing/spark.img",
+149175871,
+18539
+],
+[
+"sprite/monster/gcontents/190307_preyraid/goldenwing/rockc.img",
+149194410,
+358556
+],
+[
+"sprite/monster/gcontents/190307_preyraid/goldenwing/aend.img",
+149552966,
+245497
+],
+[
+"sprite/monster/gcontents/190307_preyraid/goldenwing/alooplightning3.img",
+149798463,
+65976
+],
+[
+"sprite/monster/gcontents/190307_preyraid/goldenwing/alooplightning1.img",
+149864439,
+36352
+],
+[
+"sprite/monster/gcontents/190307_preyraid/goldenwing/alooplightning2.img",
+149900791,
+64353
+],
+[
+"sprite/monster/gcontents/190307_preyraid/goldenwing/attacka.img",
+149965144,
+171348
+],
+[
+"sprite/monster/gcontents/190307_preyraid/goldenwing/attackb.img",
+150136492,
+187122
+],
+[
+"sprite/monster/gcontents/190307_preyraid/goldenwing/speedline.img",
+150323614,
+212425
+],
+[
+"sprite/monster/gcontents/190307_preyraid/alexandra/alexandra_body.img",
+150536039,
+410021
+],
+[
+"sprite/monster/gcontents/190307_preyraid/alexandra/bur01.img",
+150946060,
+142476
+],
+[
+"sprite/monster/gcontents/190307_preyraid/alexandra/bur02.img",
+151088536,
+359742
+],
+[
+"sprite/monster/gcontents/190307_preyraid/alexandra/f04.img",
+151448278,
+121030
+],
+[
+"sprite/monster/gcontents/190307_preyraid/alexandra/f10.img",
+151569308,
+237423
+],
+[
+"sprite/monster/gcontents/190307_preyraid/alexandra/alexandra_arrow.img",
+151806731,
+1372
+],
+[
+"sprite/monster/gcontents/190307_preyraid/alexandra/f01.img",
+151808103,
+104036
+],
+[
+"sprite/monster/gcontents/190307_preyraid/alexandra/f02.img",
+151912139,
+171792
+],
+[
+"sprite/monster/gcontents/190307_preyraid/alexandra/f03.img",
+152083931,
+114057
+],
+[
+"sprite/monster/gcontents/190307_preyraid/alexandra/f09.img",
+152197988,
+140035
+],
+[
+"sprite/monster/gcontents/190307_preyraid/alexandra/f07.img",
+152338023,
+154391
+],
+[
+"sprite/monster/gcontents/190307_preyraid/alexandra/f06.img",
+152492414,
+167617
+],
+[
+"sprite/monster/gcontents/190307_preyraid/alexandra/f08.img",
+152660031,
+175811
+],
+[
+"sprite/monster/gcontents/190307_preyraid/gretta/grettaattack3slash.img",
+152835842,
+251778
+],
+[
+"sprite/monster/gcontents/190307_preyraid/goldenwing/rockbstartdustb.img",
+153087620,
+823064
+],
+[
+"sprite/monster/gcontents/190307_preyraid/goldenwing/rockblightningb.img",
+153910684,
+466839
+],
+[
+"sprite/monster/gcontents/190307_preyraid/goldenwing/rockdestroy.img",
+154377523,
+231654
+],
+[
+"sprite/monster/gcontents/190307_preyraid/goldenwing/lightning.img",
+154609177,
+79117
+],
+[
+"sprite/monster/gcontents/190307_preyraid/goldenwing/dustb.img",
+154688294,
+1175650
+],
+[
+"sprite/monster/gcontents/190307_preyraid/goldenwing/glow.img",
+155863944,
+24408
+],
+[
+"sprite/monster/gcontents/190307_preyraid/goldenwing/rockashock.img",
+155888352,
+40870
+],
+[
+"sprite/monster/gcontents/190307_preyraid/goldenwing/dusta.img",
+155929222,
+279964
+],
+[
+"sprite/character/thief/effect/ambitionofballacre/charge_dodge.img",
+156209186,
+68337
+],
+[
+"sprite/character/thief/effect/guillotine/guillotine_charge_normal.img",
+156277523,
+66518
+],
+[
+"sprite/monster/timegate/7shards_giselle.img",
+156344041,
+299948
+],
+[
+"sprite/creature/common/pig_part.img",
+156643989,
+21091
+],
+[
+"sprite/character/mage/effect/creatorfirehurricane/hurricane_fire.img",
+156665080,
+416555
+],
+[
+"sprite/common/commoneffect/glow/circlering.img",
+157081635,
+187532
+],
+[
+"sprite/common/commoneffect/wave/wave03.img",
+157269167,
+1298890
+],
+[
+"sprite/common/commoneffect/wave/wave05.img",
+158568057,
+223444
+],
+[
+"sprite/common/commoneffect/wave/wave01.img",
+158791501,
+259302
+],
+[
+"sprite/common/commoneffect/smoke/smoke04a.img",
+159050803,
+64868
+],
+[
+"sprite/common/commoneffect/wave/wave06.img",
+159115671,
+150748
+],
+[
+"sprite/character/swordman/effect/slashofboom/blackdust.img",
+159266419,
+274097
+],
+[
+"sprite/character/swordman/effect/slashofboom/blackexpl.img",
+159540516,
+176813
+],
+[
+"sprite/character/swordman/effect/slashofboom/expl.img",
+159717329,
+360658
+],
+[
+"sprite/common/commoneffect/gate/gatedown.img",
+160077987,
+77791
+],
+[
+"sprite/common/commoneffect/gate/gateup.img",
+160155778,
+219772
+],
+[
+"sprite/monster/stormofmetastasis/meltdown/old_town/ghost_mage/blueaura.img",
+160375550,
+54765
+],
+[
+"sprite/map/anton/battleship/missile_spin.img",
+160430315,
+299372
+],
+[
+"sprite/monster/anton/phase1/blacksmoke/blackstone/giga_smoke.img",
+160729687,
+363886
+],
+[
+"sprite/character/fighter/effect/typhoon/twist.img",
+161093573,
+490185
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/drone.img",
+161583758,
+305503
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/spark03.img",
+161889261,
+51659
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/spark00.img",
+161940920,
+23525
+],
+[
+"sprite/character/gunblader/effect/exceed/startdusta.img",
+161964445,
+1579945
+],
+[
+"sprite/character/mage/effect/transformflapperex/02crack.img",
+163544390,
+13899
+],
+[
+"sprite/common/commoneffect/smoke/smoke05a.img",
+163558289,
+332667
+],
+[
+"sprite/character/mage/effect/broomspin/g03.img",
+163890956,
+829543
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/kugaitornado02red.img",
+164720499,
+197750
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/kugaitornado02.img",
+164918249,
+306264
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/kugaislash05red.img",
+165224513,
+89160
+],
+[
+"sprite/common/commoneffect/dust/dust02.img",
+165313673,
+152281
+],
+[
+"sprite/character/knight/effect/charge/charge_finish_g.img",
+165465954,
+62217
+],
+[
+"sprite/character/gunblader/effect/incredible/boom1_normal.img",
+165528171,
+5734088
+],
+[
+"sprite/monster/gcontents/190307_preyraid/blossom/boom1_normal.img",
+171262259,
+456306
+],
+[
+"sprite/monster/gcontents/190307_preyraid/blossom/hit_dark_dodge.img",
+171718565,
+128816
+],
+[
+"sprite/monster/gcontents/190307_preyraid/blossom/hit_normal.img",
+171847381,
+117049
+],
+[
+"sprite/character/gunblader/effect/violentsmash/dustb.img",
+171964430,
+996953
+],
+[
+"sprite/common/commoneffect/smoke/smoke11c.img",
+172961383,
+437536
+],
+[
+"sprite/common/commoneffect/wind/wind01.img",
+173398919,
+65780
+],
+[
+"sprite/common/commoneffect/dust/dust06.img",
+173464699,
+309597
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/kugaitornado03red.img",
+173774296,
+134431
+],
+[
+"sprite/map/territorycombat/common/floor.img",
+173908727,
+68202
+],
+[
+"sprite/monster/devildom_beast/anne/statue_grounddustb.img",
+173976929,
+769881
+],
+[
+"sprite/monster/gcontents/190307_preyraid/gretta/ellipse01.img",
+174746810,
+390846
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/kugaitornado01.img",
+175137656,
+583661
+],
+[
+"sprite/monster/gcontents/190307_preyraid/kugai/kugaitornado01red.img",
+175721317,
+178350
+],
+[
+"sprite/monster/gcontents/190307_preyraid/isys/pt01s.img",
+175899667,
+981859
+],
+[
+"sprite/monster/heaven/mechanicgiselle/zx_99_sub_one.img",
+176881526,
+12937
+],
+[
+"sprite/monster/heaven/mechanicgiselle/zx_5.img",
+176894463,
+7243
+],
+[
+"sprite/monster/flyingmonstermark.img",
+176901706,
+579
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/tagore/spark01.img",
+176902285,
+16784
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/gatherforcea.img",
+176919069,
+93238
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/bombexplosionnormal.img",
+177012307,
+417476
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/gizel/drone1explosioncenterelec.img",
+177429783,
+591074
+],
+[
+"sprite/character/demoniclancer/effect/servantlanceassult/hitfront.img",
+178020857,
+108193
+],
+[
+"sprite/common/commoneffect/stone/stone05.img",
+178129050,
+303456
+],
+[
+"sprite/monster/luke_raid/luke/startup_dark.img",
+178432506,
+97623
+],
+[
+"sprite/common/commoneffect/stone/stone01.img",
+178530129,
+32
+],
+[
+"sprite/monster/kcontents2/theevildomwar/named/bernardo/sparkc.img",
+178530161,
+16531
+],
+[
+"sprite/character/demoniclancer/effect/drillingneck/drillingneck06.img",
+178546692,
+70228
+],
+[
+"sprite/monster/skeleton/summonbone.img",
+178616920,
+9688
+],
+[
+"sprite/character/swordman/effect/atmagicswordshot/atmagicswordshot_splash01.img",
+178626608,
+43181
+],
+[
+"sprite/common/commoneffect/smoke/smoke06.img",
+178669789,
+269501
+],
+[
+"sprite/common/commoneffect/smoke/smoke09.img",
+178939290,
+369372
+],
+[
+"sprite/common/commoneffect/smoke/smoke02.img",
+179308662,
+343989
+],
+[
+"sprite/common/commoneffect/smoke/smoke01.img",
+179652651,
+333062
+],
+[
+"sprite/character/fighter/effect/atruinrain/bigstone01.img",
+179985713,
+608383
+],
+[
+"sprite/monster/luke_raid/iron_beast/grounddust.img",
+180594096,
+107446
+],
+[
+"sprite/character/swordman/effect/handlingsword/handlingsword_finish_eff_g.img",
+180701542,
+149974
+],
+[
+"sprite/character/knight/effect/counterattack/counterattack01.img",
+180851516,
+95891
+],
+[
+"sprite/character/gunner/effect/g0/m_dodge.img",
+180947407,
+30456
+],
+[
+"sprite/character/gunner/effect/g0/m_nomal.img",
+180977863,
+404
+],
+[
+"sprite/character/gunner/effect/airraidex/updustparticlenormal200.img",
+180978267,
+54098
+],
+[
+"sprite/character/gunner/effect/airraidex/updustsmokenormallr.img",
+181032365,
+363641
+],
+[
+"sprite/character/gunner/effect/airraidex/upbottomnormal.img",
+181396006,
+16948
+],
+[
+"sprite/character/mage/effect/atviolentstorm/wind04.img",
+181412954,
+122763
+],
+[
+"sprite/character/mage/effect/atviolentstorm/wind03.img",
+181535717,
+107824
+],
+[
+"sprite/character/demoniclancer/effect/youdied/etc.img",
+181643541,
+155287
+],
+[
+"sprite/character/gunblader/effect/incredible/boom1_dodge.img",
+181798828,
+697014
+],
+[
+"sprite/monster/kruta/04_rage03.img",
+182495842,
+177461
+],
+[
+"sprite/monster/gcontents/180621_fiendwar/boss_humantraitor/u0009.img",
+182673303,
+162912
+],
+[
+"sprite/monster/ch_monsterface.img",
+182836215,
+76960
+],
+[
+"sprite/monster/flyingmonstermark.img",
+182913175,
+579
+],
+[
+"sprite/monster/flyingmonstermark2.img",
+182913754,
+8514
+],
+[
+"sprite/monster/monsterface_jp.img",
+182922268,
+25050
+],
+[
+"sprite/monster/monsterface_univ.img",
+182947318,
+4638
+],
+[
+"sprite/monster/summonmonstermark.img",
+182951956,
+4256
+],
+[
+"sprite/monster/wkingumtara.img",
+182956212,
+256100
+]
+]
+},
+"v1pack": {
+"path": "/mnt/e/dnf-sf/sf115/人造神客户端/ImagePacks2/!!!!!!!!!!!!!!!!!!整合的NPK.NPK",
+"fileSize": 91779934,
+"entries": [
+[
+"sprite/character/fighter/effect/dashpunchex/apply_dodge.img",
+114892,
+77050
+],
+[
+"sprite/map/minimap/act6.img",
+191942,
+86102
+],
+[
+"sprite/monster/luke_raid/luke/guard_normal.img",
+278044,
+23996
+],
+[
+"sprite/map/anton/mouth/bottom_deco.img",
+302040,
+6793
+],
+[
+"sprite/map/dimentiongate/cosmofiend/tile_deco.img",
+308833,
+4460
+],
+[
+"sprite/map/kcontents3/worldboss_evil/object/backwall_00.img",
+313293,
+318387
+],
+[
+"sprite/map/kcontents3/worldboss_evil/object/backwall_01.img",
+631680,
+249034
+],
+[
+"sprite/map/kcontents3/worldboss_evil/object/backwall_02.img",
+880714,
+457734
+],
+[
+"sprite/map/kcontents3/worldboss_evil/background/back_far.img",
+1338448,
+59683
+],
+[
+"sprite/monster/kcontents3/worldboss_evil/scar/glassobject.img",
+1398131,
+54048
+],
+[
+"sprite/map/kcontents3/worldboss_evil/object/fallslime.img",
+1452179,
+329416
+],
+[
+"sprite/map/event/chn_3kingdoms/fog_all.img",
+1781595,
+1940493
+],
+[
+"sprite/map/kcontents3/worldboss_evil/object/frontwall_00.img",
+3722088,
+1454444
+],
+[
+"sprite/map/kcontents3/worldboss_evil/object/frontwall_01.img",
+5176532,
+1225066
+],
+[
+"sprite/map/kcontents3/worldboss_evil/object/middle.img",
+6401598,
+36688
+],
+[
+"sprite/map/kcontents3/worldboss_evil/object/rock_00.img",
+6438286,
+42713
+],
+[
+"sprite/map/kcontents3/worldboss_evil/object/rock_01.img",
+6480999,
+78951
+],
+[
+"sprite/map/kcontents3/worldboss_evil/object/rock_02.img",
+6559950,
+2913
+],
+[
+"sprite/monster/kcontents2/theevildomwar/boss/sarpoza/sealinsidea.img",
+6562863,
+457767
+],
+[
+"sprite/map/kcontents3/worldboss_evil/object/swamp_00.img",
+7020630,
+18285
+],
+[
+"sprite/map/kcontents3/worldboss_evil/object/swamp_01.img",
+7038915,
+9827
+],
+[
+"sprite/map/kcontents3/worldboss_evil/object/swamp_02.img",
+7048742,
+4674
+],
+[
+"sprite/map/kcontents3/worldboss_evil/object/swamp_ob00.img",
+7053416,
+220762
+],
+[
+"sprite/map/kcontents3/worldboss_evil/object/swamp_ob01.img",
+7274178,
+111412
+],
+[
+"sprite/map/kcontents3/worldboss_evil/object/swamp_ob02.img",
+7385590,
+34876
+],
+[
+"sprite/map/kcontents3/worldboss_evil/object/tree_00.img",
+7420466,
+121538
+],
+[
+"sprite/map/kcontents3/worldboss_evil/object/tree_01.img",
+7542004,
+54803
+],
+[
+"sprite/map/kcontents3/worldboss_evil/ef/vapor.img",
+7596807,
+78042
+],
+[
+"sprite/map/kcontents3/worldboss_evil/tile/tile.img",
+7674849,
+53189
+],
+[
+"sprite/interface/monsterdialogface.img",
+7728038,
+10184107
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/burning_stone/burning_stone.img",
+17912145,
+198051
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/burning_stone/burning_stone_effect_02.img",
+18110196,
+270510
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/burning_stone/burning_stone_effect_03.img",
+18380706,
+459196
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/burning_stone/burning_stone_effect_04.img",
+18839902,
+566347
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/burning_stone/steam.img",
+19406249,
+97854
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/burning_stone/burning_stone_effect_01.img",
+19504103,
+167964
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/burning_stone/smoke.img",
+19672067,
+263232
+],
+[
+"sprite/monster/luke_raid/calvary/calvary.img",
+19935299,
+434276
+],
+[
+"sprite/monster/luke_raid/calvary/calvary_smash.img",
+20369575,
+138693
+],
+[
+"sprite/monster/luke_raid/calvary/calvary_glow02_back.img",
+20508268,
+50244
+],
+[
+"sprite/monster/luke_raid/calvary/calvary_rush01.img",
+20558512,
+336961
+],
+[
+"sprite/monster/luke_raid/calvary/calvary_splash01.img",
+20895473,
+45281
+],
+[
+"sprite/monster/luke_raid/calvary/dash_dust0001.img",
+20940754,
+166405
+],
+[
+"sprite/monster/luke_raid/calvary/calvary_splash02.img",
+21107159,
+50308
+],
+[
+"sprite/monster/luke_raid/calvary/calvary_glow02_front.img",
+21157467,
+138859
+],
+[
+"sprite/character/fighter/effect/typhoon/turn03_down_d.img",
+21296326,
+133282
+],
+[
+"sprite/character/fighter/effect/typhoon/turn02_up_d.img",
+21429608,
+12388
+],
+[
+"sprite/character/fighter/effect/typhoon/turn01_up_d.img",
+21441996,
+89630
+],
+[
+"sprite/character/mage/effect/strengthhandstrike/front.img",
+21531626,
+217137
+],
+[
+"sprite/character/swordman/effect/atmagicswordshot/atmagicswordshot_loop_light01.img",
+21748763,
+485026
+],
+[
+"sprite/character/swordman/effect/atmagicswordshot/atmagicswordshot_loop_elemental03.img",
+22233789,
+155013
+],
+[
+"sprite/character/thief/equipment/growtype/shadowdancer01.img",
+22388802,
+2139
+],
+[
+"sprite/monster/luke_raid/calvary/last_back.img",
+22390941,
+72043
+],
+[
+"sprite/monster/luke_raid/calvary/last_front.img",
+22462984,
+55529
+],
+[
+"sprite/monster/metrocenter/hideout_of_fear/domina/domina.img",
+22518513,
+165263
+],
+[
+"sprite/monster/metrocenter/hideout_of_fear/domina/domina_uphit.img",
+22683776,
+63769
+],
+[
+"sprite/character/demoniclancer/effect/extremekillarts/dust02.img",
+22747545,
+226631
+],
+[
+"sprite/monster/metrocenter/hideout_of_fear/domina/domina_lov.img",
+22974176,
+215773
+],
+[
+"sprite/monster/metrocenter/hideout_of_fear/domina/domina_hands.img",
+23189949,
+135849
+],
+[
+"sprite/character/thief/effect/phantomstrom/charge_normal.img",
+23325798,
+52608
+],
+[
+"sprite/monster/metrocenter/hideout_of_fear/domina/domina_blood.img",
+23378406,
+2526
+],
+[
+"sprite/character/swordman/effect/atmadness/madness_laser.img",
+23380932,
+12555
+],
+[
+"sprite/monster/wraith/flybat.img",
+23393487,
+1619
+],
+[
+"sprite/monster/luke_raid/golgotha/golgotha.img",
+23395106,
+363346
+],
+[
+"sprite/monster/luke_raid/golgotha/teleport_out.img",
+23758452,
+80515
+],
+[
+"sprite/monster/luke_raid/golgotha/spike.img",
+23838967,
+151009
+],
+[
+"sprite/monster/luke_raid/golgotha/hold_aura01.img",
+23989976,
+106713
+],
+[
+"sprite/monster/luke_raid/golgotha/hold_aura02.img",
+24096689,
+37202
+],
+[
+"sprite/monster/luke_raid/golgotha/golgotha_glow01.img",
+24133891,
+34674
+],
+[
+"sprite/monster/luke_raid/golgotha/hold_eyed.img",
+24168565,
+7548
+],
+[
+"sprite/monster/luke_raid/golgotha/hold_finish.img",
+24176113,
+219143
+],
+[
+"sprite/monster/luke_raid/golgotha/teleport_in.img",
+24395256,
+94234
+],
+[
+"sprite/monster/luke_raid/golgotha/golgotha_glow02_back.img",
+24489490,
+50204
+],
+[
+"sprite/monster/luke_raid/golgotha/golgotha_rush01.img",
+24539694,
+296278
+],
+[
+"sprite/monster/luke_raid/golgotha/golgotha_splash01.img",
+24835972,
+48410
+],
+[
+"sprite/monster/luke_raid/golgotha/golgotha_splash02.img",
+24884382,
+51462
+],
+[
+"sprite/monster/luke_raid/golgotha/golgotha_mad_front.img",
+24935844,
+65001
+],
+[
+"sprite/monster/luke_raid/golgotha/golgotha_glow02_front.img",
+25000845,
+136898
+],
+[
+"sprite/character/swordman/effect/atmagicswordshot/atmagicswordshot_loop_shadow.img",
+25137743,
+571773
+],
+[
+"sprite/character/swordman/effect/atmagicswordshot/atmagicswordshot_loop_elemental04.img",
+25709516,
+126041
+],
+[
+"sprite/character/demonicswordsman/effect/chargecrash/charge.img",
+25835557,
+275623
+],
+[
+"sprite/monster/luke_raid/golgotha/last_back.img",
+26111180,
+57297
+],
+[
+"sprite/monster/luke_raid/golgotha/last_front.img",
+26168477,
+45967
+],
+[
+"sprite/monster/metrocenter/canyon_of_beast/gragole_1.img",
+26214444,
+1104620
+],
+[
+"sprite/monster/metrocenter/canyon_of_beast/gragole_2.img",
+27319064,
+947837
+],
+[
+"sprite/character/fighter/effect/atnenmonster/tiger_hand_dodge.img",
+28266901,
+197312
+],
+[
+"sprite/character/fighter/effect/legsuplexex/bighitbottomdodge.img",
+28464213,
+39766
+],
+[
+"sprite/character/fighter/effect/legsuplexex/spinfrontdodge.img",
+28503979,
+91491
+],
+[
+"sprite/character/fighter/effect/legsuplexex/takedowndodge.img",
+28595470,
+116402
+],
+[
+"sprite/character/fighter/effect/nenmonster/whitetiger/rn.img",
+28711872,
+244229
+],
+[
+"sprite/character/fighter/effect/atholdup/holdup.img",
+28956101,
+19134
+],
+[
+"sprite/character/fighter/effect/atlegsuplex/dodge_floor_back.img",
+28975235,
+8347
+],
+[
+"sprite/character/fighter/effect/powerupondash/stem-front.img",
+28983582,
+38550
+],
+[
+"sprite/character/fighter/effect/risingupper/dust-2.img",
+29022132,
+1508
+],
+[
+"sprite/character/fighter/effect/shouldercharge/c_down_d.img",
+29023640,
+142605
+],
+[
+"sprite/character/fighter/effect/venommine/venomminedust.img",
+29166245,
+2023
+],
+[
+"sprite/character/fighter/effect/strongestlowkick/dust(normal).img",
+29168268,
+7979
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/iron_aim.img",
+29176247,
+1939477
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/iron_aim_sw1.img",
+31115724,
+270110
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/weaponcase.img",
+31385834,
+29479
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/iron_aim_sw2.img",
+31415313,
+253027
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/iron_aim_sw3.img",
+31668340,
+212389
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/e_normal.img",
+31880729,
+58547
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/e_dodge.img",
+31939276,
+125572
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/dust_front.img",
+32064848,
+214331
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/switchingtale.img",
+32279179,
+584928
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/taleoff.img",
+32864107,
+120827
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/tale_aa.img",
+32984934,
+46810
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/tale_bb.img",
+33031744,
+49079
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/tale_cc.img",
+33080823,
+38351
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/laser_a.img",
+33119174,
+217717
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/talemissile.img",
+33336891,
+248732
+],
+[
+"sprite/monster/impossible_bakal/bakal_attack.img",
+33585623,
+546815
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/burn/boomb.img",
+34132438,
+479725
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/taleoff_b.img",
+34612163,
+321462
+],
+[
+"sprite/monster/guild_dungeon/john.img",
+34933625,
+390877
+],
+[
+"sprite/monster/guild_dungeon/(18)assassination_cuta.img",
+35324502,
+117512
+],
+[
+"sprite/character/mage/effect/swingex/fire_dodge.img",
+35442014,
+161816
+],
+[
+"sprite/monster/guild_dungeon/blood_shot01.img",
+35603830,
+9140
+],
+[
+"sprite/monster/anton/phase1/strongleg/dumthaioric/energycircle_bottomb.img",
+35612970,
+151130
+],
+[
+"sprite/map/powerstation/trombe/obj/small_generator_lightning_effect.img",
+35764100,
+28556
+],
+[
+"sprite/character/swordman/effect/atgigaslash/atgigaslash_splash_c.img",
+35792656,
+21990
+],
+[
+"sprite/character/swordman/effect/atgigaslash/atgigaslash_slash_dodge.img",
+35814646,
+120866
+],
+[
+"sprite/monster/anton/phase2/blackvolcano/blackfirerok/barrier_normal.img",
+35935512,
+69333
+],
+[
+"sprite/monster/dragon_kurun_kor/dragon_kurun_kor_golemtwins/blazestone/eff_sphere_dodge.img",
+36004845,
+473000
+],
+[
+"sprite/monster/luke_raid/karina/karina.img",
+36477845,
+126858
+],
+[
+"sprite/monster/luke_raid/karina/claw01.img",
+36604703,
+17654
+],
+[
+"sprite/monster/luke_raid/karina/pollutionrelease03.img",
+36622357,
+57950
+],
+[
+"sprite/monster/luke_raid/karina/pollutionwave.img",
+36680307,
+20744
+],
+[
+"sprite/monster/luke_raid/karina/pollutionrelease02.img",
+36701051,
+84678
+],
+[
+"sprite/monster/luke_raid/karina/pollutionrelease01.img",
+36785729,
+86578
+],
+[
+"sprite/monster/newmonsters/castleofthedead/metalsbrakium/metalgear/metalgear.img",
+36872307,
+944428
+],
+[
+"sprite/monster/newmonsters/castleofthedead/metalsbrakium/metalgear/metalgear_waist.img",
+37816735,
+54929
+],
+[
+"sprite/monster/dragon_kurun_kor/dragon_kurun_kor_nateramwarden/dragonstonestatue/attack_dust.img",
+37871664,
+39489
+],
+[
+"sprite/monster/newmonsters/castleofthedead/metalsbrakium/metalgear/metalgear_b.img",
+37911153,
+317844
+],
+[
+"sprite/monster/newmonsters/castleofthedead/metalsbrakium/metalgear/bodyfire_dodge.img",
+38228997,
+36997
+],
+[
+"sprite/monster/anton/phase2/blackvolcano/blackfirerok/blackfire_area_back_dodge.img",
+38265994,
+36515
+],
+[
+"sprite/character/fighter/effect/atchargespear/7_dust_front_normal.img",
+38302509,
+84950
+],
+[
+"sprite/monster/heaven/mechanicgiselle/mechanicgiselle_dust.img",
+38387459,
+113011
+],
+[
+"sprite/character/gunner/effect/extruder/extruder_ball_thunder_none.img",
+38500470,
+19162
+],
+[
+"sprite/character/gunner/effect/extruder/extruder_ball_thunder_ldodge.img",
+38519632,
+128066
+],
+[
+"sprite/monster/newmonsters/castleofthedead/metalsbrakium/metalgear/metalgear_c.img",
+38647698,
+68477
+],
+[
+"sprite/monster/spider/spiderbossspark.img",
+38716175,
+31055
+],
+[
+"sprite/character/fighter/effect/atblockbuster/wind_dodge.img",
+38747230,
+9630
+],
+[
+"sprite/monster/metrocenter/time_plaza/norn/norn.img",
+38756860,
+412291
+],
+[
+"sprite/monster/metrocenter/time_plaza/norn/norn_efc.img",
+39169151,
+1202843
+],
+[
+"sprite/monster/metrocenter/time_plaza/norn/aura_norn_weapon.img",
+40371994,
+69802
+],
+[
+"sprite/monster/metrocenter/time_plaza/norn/casting_norn_black.img",
+40441796,
+283390
+],
+[
+"sprite/monster/metrocenter/time_plaza/norn/casting_norn_red.img",
+40725186,
+150428
+],
+[
+"sprite/monster/metrocenter/time_plaza/norn/casting_norn_blue.img",
+40875614,
+135632
+],
+[
+"sprite/monster/metrocenter/time_plaza/norn/aura_norn_front.img",
+41011246,
+136811
+],
+[
+"sprite/monster/metrocenter/time_plaza/norn/aura_norn_back.img",
+41148057,
+149035
+],
+[
+"sprite/monster/guild_dungeon/saya/saya.img",
+41297092,
+279142
+],
+[
+"sprite/monster/guild_dungeon/saya/spin.img",
+41576234,
+23426
+],
+[
+"sprite/monster/stormofmetastasis/behemoth/breedingplace/kentauros_effect_shout.img",
+41599660,
+57408
+],
+[
+"sprite/character/fighter/effect/typhoon/end_down_d.img",
+41657068,
+589363
+],
+[
+"sprite/monster/timegate/conflagration/windstrike.img",
+42246431,
+21288
+],
+[
+"sprite/common/commoneffect/blast1.img",
+42267719,
+446868
+],
+[
+"sprite/monster/guild_dungeon/saya/ball/iceparticledg.img",
+42714587,
+47782
+],
+[
+"sprite/monster/guild_dungeon/saya/ball/iceparticleno.img",
+42762369,
+99078
+],
+[
+"sprite/monster/guild_dungeon/saya/ball/dustice.img",
+42861447,
+188485
+],
+[
+"sprite/monster/timegate/timelord/g_disappear.img",
+43049932,
+28369
+],
+[
+"sprite/monster/guild_dungeon/sury/sper/hitfront.img",
+43078301,
+66714
+],
+[
+"sprite/monster/guild_dungeon/sury/sper/endshock.img",
+43145015,
+52059
+],
+[
+"sprite/monster/guild_dungeon/sury/sper/explosion.img",
+43197074,
+216035
+],
+[
+"sprite/monster/guild_dungeon/saya/buttom_ice/blizzard02.img",
+43413109,
+83602
+],
+[
+"sprite/monster/guild_dungeon/saya/buttom_ice/blizzard06.img",
+43496711,
+18380
+],
+[
+"sprite/monster/guild_dungeon/saya/buttom_ice/blizzard09.img",
+43515091,
+19843
+],
+[
+"sprite/monster/guild_dungeon/saya/buttom_ice/magiccircle.img",
+43534934,
+43295
+],
+[
+"sprite/monster/guild_dungeon/saya/buttom_ice/blizzard01.img",
+43578229,
+95756
+],
+[
+"sprite/monster/metrocenter/gust_zone/suparna.img",
+43673985,
+1030693
+],
+[
+"sprite/character/mage/effect/atwindiness/shield.img",
+44704678,
+82694
+],
+[
+"sprite/character/mage/effect/atstormstrikes/cast_a.img",
+44787372,
+92508
+],
+[
+"sprite/character/mage/effect/atstormstrikes/cast_b.img",
+44879880,
+77042
+],
+[
+"sprite/character/mage/effect/atwindiness/casting.img",
+44956922,
+54038
+],
+[
+"sprite/character/mage/effect/atstormstrikes/move_a02.img",
+45010960,
+82561
+],
+[
+"sprite/character/mage/effect/atstormstrikes/move_b01.img",
+45093521,
+188310
+],
+[
+"sprite/character/mage/effect/atstormstrikes/move_a04.img",
+45281831,
+62919
+],
+[
+"sprite/monster/newmonsters/castleofthedead/metalsbrakium/white_steam/white_steam.img",
+45344750,
+270390
+],
+[
+"sprite/monster/newmonsters/castleofthedead/metalsbrakium/white_steam/head_steam.img",
+45615140,
+97854
+],
+[
+"sprite/monster/stormofmetastasis/driftcave/dragon_seal/head-img.img",
+45712994,
+64112
+],
+[
+"sprite/monster/stormofmetastasis/driftcave/dragon_seal/cast01.img",
+45777106,
+38224
+],
+[
+"sprite/monster/stormofmetastasis/driftcave/dragon_seal/breath03.img",
+45815330,
+26222
+],
+[
+"sprite/monster/stormofmetastasis/driftcave/dragon_seal/eyeglow.img",
+45841552,
+1965
+],
+[
+"sprite/monster/stormofmetastasis/driftcave/dragon_seal/wind02.img",
+45843517,
+11316
+],
+[
+"sprite/monster/stormofmetastasis/driftcave/dragon_seal/wind01.img",
+45854833,
+52245
+],
+[
+"sprite/monster/goblin/body8.img",
+45907078,
+15410
+],
+[
+"sprite/monster/dragon_kurun_kor/dragon_kurun_kor_nateramwarden/dragonstonestatue/eye_dodge.img",
+45922488,
+107457
+],
+[
+"sprite/monster/slime/slime_frantic.img",
+46029945,
+14279
+],
+[
+"sprite/monster/slime/slime_frantic_p.img",
+46044224,
+1758
+],
+[
+"sprite/monster/timegate/conflagration/stun.img",
+46045982,
+9601
+],
+[
+"sprite/character/gunner/effect/flamethrower/fire_start.img",
+46055583,
+222577
+],
+[
+"sprite/character/fighter/effect/roarstunex/front.img",
+46278160,
+69668
+],
+[
+"sprite/common/commoneffect/magiccursor_new.img",
+46347828,
+55776
+],
+[
+"sprite/monster/anton/phase3/mateka/ice_text.img",
+46403604,
+7445
+],
+[
+"sprite/monster/anton/phase1/strongleg/agnes/distance.img",
+46411049,
+22389
+],
+[
+"sprite/common/commoneffect/terriblemagiccursor.img",
+46433438,
+64350
+],
+[
+"sprite/character/mage/effect/creatorfiremeteo/meteor_exp_normal.img",
+46497788,
+25323
+],
+[
+"sprite/character/mage/effect/creatorfiremeteo/meteor_exp.img",
+46523111,
+1459904
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/burning_stone/fire_stone_piece_.img",
+47983015,
+6415
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/burning_stone/fire_stone_d.img",
+47989430,
+22602
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/burning_stone/floor_dodge.img",
+48012032,
+10466
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/burning_stone/exp_floor.img",
+48022498,
+11702
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/micro_egg.img",
+48034200,
+2317
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/fire_ground.img",
+48036517,
+130787
+],
+[
+"sprite/monster/dragon_kurun_kor/dragon_kurun_kor_golemtwins/blazestone/dragon_bg_eff_fire.img",
+48167304,
+335315
+],
+[
+"sprite/monster/dragon_kurun_kor/dragon_kurun_kor_golemtwins/blazestone/dragon_bg_eff_fire2.img",
+48502619,
+115567
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/burn/fire_nova.img",
+48618186,
+14014
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/netmissile.img",
+48632200,
+632
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/netmissile_effect2.img",
+48632832,
+14054
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/ironnet02.img",
+48646886,
+90098
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/ironnet01.img",
+48736984,
+66726
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/netmissile_effect1.img",
+48803710,
+1339
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/sw2/wide_cannon.img",
+48805049,
+377410
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/sw2/wide_cannon2.img",
+49182459,
+4089
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/iron_aim/talemissileeff.img",
+49186548,
+1184067
+],
+[
+"sprite/monster/newmonsters/castleofthedead/metalsbrakium/white_steam/steam_normal.img",
+50370615,
+3205406
+],
+[
+"sprite/monster/newmonsters/castleofthedead/metalsbrakium/white_steam/steam_dodge.img",
+53576021,
+189170
+],
+[
+"sprite/character/fighter/effect/atcrashlowkick/charge_dodge.img",
+53765191,
+21237
+],
+[
+"sprite/character/mage/effect/disenchant/wblack_normal.img",
+53786428,
+20339
+],
+[
+"sprite/character/fighter/effect/atenergyfield/light_dodge.img",
+53806767,
+46517
+],
+[
+"sprite/monster/snowman/ball_dodge.img",
+53853284,
+18572
+],
+[
+"sprite/character/fighter/effect/atnenflower/end_fire_dodge.img",
+53871856,
+107363
+],
+[
+"sprite/monster/newmonsters/castleofthedead/metalsbrakium/metalgear/f-dodge.img",
+53979219,
+67107
+],
+[
+"sprite/monster/newmonsters/castleofthedead/metalsbrakium/metalgear/dust_loop_upper.img",
+54046326,
+20558
+],
+[
+"sprite/monster/newmonsters/castleofthedead/metalsbrakium/metalgear/dust_loop_under.img",
+54066884,
+15214
+],
+[
+"sprite/character/mage/effect/creatorfiremeteo/meteor_exp_shock.img",
+54082098,
+28415
+],
+[
+"sprite/monster/timegate/consciousness/bluecloud_normal.img",
+54110513,
+140017
+],
+[
+"sprite/monster/timegate/consciousness/blue_dodge.img",
+54250530,
+23456
+],
+[
+"sprite/character/priest/effect/hotcross/wave.img",
+54273986,
+7240
+],
+[
+"sprite/character/mage/effect/thunderstrike/wave.img",
+54281226,
+64207
+],
+[
+"sprite/creature/common/pig_part.img",
+54345433,
+21091
+],
+[
+"sprite/common/commoneffect/monstermagiccursor.img",
+54366524,
+11671
+],
+[
+"sprite/character/swordman/effect/hellbenter/split-n1.img",
+54378195,
+179019
+],
+[
+"sprite/character/swordman/effect/hellbenter/start-dodge.img",
+54557214,
+12128
+],
+[
+"sprite/character/swordman/effect/hellbenter/kaaa-d2.img",
+54569342,
+87348
+],
+[
+"sprite/character/swordman/effect/hellbenter/split-d.img",
+54656690,
+80405
+],
+[
+"sprite/character/mage/effect/aticeman/06_ice01_dodge.img",
+54737095,
+55187
+],
+[
+"sprite/character/mage/effect/aticeman/07_ice00_dodge.img",
+54792282,
+20012
+],
+[
+"sprite/character/mage/effect/aticearea/03_iceboom_dodge.img",
+54812294,
+105009
+],
+[
+"sprite/character/mage/effect/aticeman/10_icepeice_dodge.img",
+54917303,
+64989
+],
+[
+"sprite/character/mage/effect/aticeman/15_hand_dodge.img",
+54982292,
+16297
+],
+[
+"sprite/character/mage/effect/aticearea/00_mahojin_dodge.img",
+54998589,
+28726
+],
+[
+"sprite/monster/anton/phase3/heart/05_bloodagg_n.img",
+55027315,
+30113
+],
+[
+"sprite/monster/anton/phase3/heart/05_bloodagg_d.img",
+55057428,
+134796
+],
+[
+"sprite/monster/stormofmetastasis/meltdown/old_town/violent_plant/posion_floor.img",
+55192224,
+94501
+],
+[
+"sprite/monster/guild_dungeon/saya/00_icebottom_dodge.img",
+55286725,
+44174
+],
+[
+"sprite/monster/guild_dungeon/sury/5_e_dodge.img",
+55330899,
+95737
+],
+[
+"sprite/monster/guild_dungeon/saya/buttom_ice/05_particle_dodge.img",
+55426636,
+22354
+],
+[
+"sprite/monster/guild_dungeon/sury/10_iceboom_dodge.img",
+55448990,
+100857
+],
+[
+"sprite/character/mage/effect/creatoricerock/icerock_dodge.img",
+55549847,
+29998
+],
+[
+"sprite/monster/guild_dungeon/saya/00_maigic_dodge.img",
+55579845,
+29930
+],
+[
+"sprite/monster/stormofmetastasis/abnoba/ice/boss_jelluce/iceshield.img",
+55609775,
+116278
+],
+[
+"sprite/monster/stormofmetastasis/abnoba/ice/boss_jelluce/particle.img",
+55726053,
+18874
+],
+[
+"sprite/monster/guild_dungeon/saya/shock_back.img",
+55744927,
+157815
+],
+[
+"sprite/monster/guild_dungeon/saya/shock_front.img",
+55902742,
+173938
+],
+[
+"sprite/monster/impossible_blackearth/howling_pain/loop_skull_d.img",
+56076680,
+1044480
+],
+[
+"sprite/monster/impossible_blackearth/howling_pain/loop_col_d.img",
+57121160,
+554
+],
+[
+"sprite/monster/impossible_blackearth/howling_pain/loop_skull.img",
+57121714,
+768823
+],
+[
+"sprite/monster/guild_dungeon/sury/06_ice_dodge.img",
+57890537,
+59081
+],
+[
+"sprite/monster/guild_dungeon/sury/06_ice01_dodge.img",
+57949618,
+54983
+],
+[
+"sprite/monster/guild_dungeon/saya/snow.img",
+58004601,
+51241
+],
+[
+"sprite/map/timegate/snowv-big.img",
+58055842,
+4876
+],
+[
+"sprite/monster/spider/spiderbossmissilesmog.img",
+58060718,
+1643
+],
+[
+"sprite/monster/luke_raid/calvary/calvary_mad_back.img",
+58062361,
+70623
+],
+[
+"sprite/character/fighter/effect/roarstunex/middle.img",
+58132984,
+40770
+],
+[
+"sprite/monster/luke_raid/golgotha/golgotha_magiccircle.img",
+58173754,
+40799
+],
+[
+"sprite/monster/luke_raid/calvary/tossspike_01.img",
+58214553,
+204322
+],
+[
+"sprite/monster/luke_raid/calvary/tossspike_02.img",
+58418875,
+171007
+],
+[
+"sprite/monster/luke_raid/calvary/tossspike_03.img",
+58589882,
+22768
+],
+[
+"sprite/monster/luke_raid/calvary/tossspike_04.img",
+58612650,
+13175
+],
+[
+"sprite/monster/luke_raid/luke/guard_light.img",
+58625825,
+2058262
+],
+[
+"sprite/monster/luke_raid/golgotha/golgotha_mad_back.img",
+60684087,
+70723
+],
+[
+"sprite/monster/luke_raid/golgotha/hold_ground01.img",
+60754810,
+587496
+],
+[
+"sprite/monster/luke_raid/golgotha/hold_ground02.img",
+61342306,
+3041
+],
+[
+"sprite/monster/luke_raid/luke/guard_dark.img",
+61345347,
+1397677
+],
+[
+"sprite/monster/luke_raid/karina/userdebuff.img",
+62743024,
+32162
+],
+[
+"sprite/monster/luke_raid/karina/karinamadness.img",
+62775186,
+56397
+],
+[
+"sprite/monster/luke_raid/karina/claw02.img",
+62831583,
+54110
+],
+[
+"sprite/monster/luke_raid/karina/pollutionboom01.img",
+62885693,
+177175
+],
+[
+"sprite/monster/luke_raid/karina/debuffboom01.img",
+63062868,
+17312
+],
+[
+"sprite/monster/luke_raid/karina/debuffboom02.img",
+63080180,
+19128
+],
+[
+"sprite/monster/luke_raid/karina/pollutionui.img",
+63099308,
+1515
+],
+[
+"sprite/character/demonicswordsman/effect/dark_hadouken/dark_hadou_bot.img",
+63100823,
+21753
+],
+[
+"sprite/character/demonicswordsman/effect/dark_hadouken/dark_hadou_top.img",
+63122576,
+307857
+],
+[
+"sprite/character/fighter/effect/atvenommine/venom_dodge.img",
+63430433,
+259234
+],
+[
+"sprite/monster/luke_raid/karina/pollutionboom02.img",
+63689667,
+42070
+],
+[
+"sprite/monster/luke_raid/karina/pollutionswampdodge.img",
+63731737,
+48913
+],
+[
+"sprite/monster/luke_raid/karina/pollutionswampnormal.img",
+63780650,
+33245
+],
+[
+"sprite/monster/luke_raid/luke/hit_dark.img",
+63813895,
+56389
+],
+[
+"sprite/monster/luke_raid/luke/hit_light.img",
+63870284,
+68546
+],
+[
+"sprite/character/swordman/effect/atultimateblade/down_dust01.img",
+63938830,
+195598
+],
+[
+"sprite/character/swordman/effect/atultimateblade/down_dust03.img",
+64134428,
+132582
+],
+[
+"sprite/monster/metrocenter/gust_zone/normal.img",
+64267010,
+295867
+],
+[
+"sprite/monster/anton/phase1/blacksmoke/blackstone/giga_smoke.img",
+64562877,
+363886
+],
+[
+"sprite/monster/metrocenter/gust_zone/dodge.img",
+64926763,
+70502
+],
+[
+"sprite/monster/dragon_kurun_kor/dragon_kurun_kor_nateramwarden/boss_circleeffect/red_up.img",
+64997265,
+219702
+],
+[
+"sprite/monster/airsword/1_magic.img",
+65216967,
+46035
+],
+[
+"sprite/monster/airsword/17_glow_dodge.img",
+65263002,
+1442
+],
+[
+"sprite/monster/airsword/9_wave_dodge.img",
+65264444,
+24117
+],
+[
+"sprite/monster/airsword/3_crack_dodge.img",
+65288561,
+21641
+],
+[
+"sprite/monster/airsword/8_groundwave_dodge.img",
+65310202,
+21842
+],
+[
+"sprite/monster/airsword/12_beem.img",
+65332044,
+715
+],
+[
+"sprite/monster/airsword/2_crack_normal.img",
+65332759,
+18447
+],
+[
+"sprite/monster/airsword/15_lbeem_dodge.img",
+65351206,
+4099
+],
+[
+"sprite/monster/airsword/16_nova_normal.img",
+65355305,
+5415
+],
+[
+"sprite/monster/airsword/11_affear_dodge.img",
+65360720,
+15602
+],
+[
+"sprite/monster/airsword/6_lsword_normal.img",
+65376322,
+3502
+],
+[
+"sprite/monster/airsword/7_lsword_dodge.img",
+65379824,
+10862
+],
+[
+"sprite/monster/metrocenter/gust_zone/ant_hell/holetrap.img",
+65390686,
+7963
+],
+[
+"sprite/monster/metrocenter/gust_zone/ant_hell/ant_hell.img",
+65398649,
+54488
+],
+[
+"sprite/monster/apc/sand_doll/sand_obj_eff.img",
+65453137,
+122724
+],
+[
+"sprite/map/disguiser/eyeblink1.img",
+65575861,
+3153
+],
+[
+"sprite/map/act8/background/ghost_closefog.img",
+65579014,
+327400
+],
+[
+"sprite/map/act8/background/ghost_farfog.img",
+65906414,
+234608
+],
+[
+"sprite/map/guild_dungeon/blue_curtain.img",
+66141022,
+100336
+],
+[
+"sprite/character/swordman/effect/atpunishment/att_eff.img",
+66241358,
+403894
+],
+[
+"sprite/character/swordman/effect/tombstoneex/explosiondodge125.img",
+66645252,
+762088
+],
+[
+"sprite/character/swordman/effect/tombstoneex/explosionnormal125.img",
+67407340,
+88574
+],
+[
+"sprite/character/swordman/effect/tombstoneex/stone1normal_particle.img",
+67495914,
+12204
+],
+[
+"sprite/character/swordman/effect/tombstoneex/stone2normal_particle.img",
+67508118,
+4290
+],
+[
+"sprite/character/swordman/effect/tombstoneex/stone3normal_particle.img",
+67512408,
+13469
+],
+[
+"sprite/character/swordman/effect/tombstoneex/explosionwavenormal200.img",
+67525877,
+2132
+],
+[
+"sprite/character/mage/effect/atelementalstrikeex/fire/07_4-f_dodge.img",
+67528009,
+57554
+],
+[
+"sprite/character/mage/effect/atelementalstrikeex/fire/14_5-f-ex_dodge.img",
+67585563,
+344418
+],
+[
+"sprite/monster/metrocenter/time_plaza/norn/explosion_fire_a.img",
+67929981,
+378246
+],
+[
+"sprite/monster/metrocenter/time_plaza/norn/explosion_fire_b.img",
+68308227,
+572816
+],
+[
+"sprite/monster/metrocenter/time_plaza/norn/explosion_fire_c.img",
+68881043,
+25849
+],
+[
+"sprite/character/mage/effect/atmagiccannon/magic_circle2.img",
+68906892,
+119956
+],
+[
+"sprite/character/mage/effect/atelementalstrikeex/water/07_4-w_dodge.img",
+69026848,
+64890
+],
+[
+"sprite/character/mage/effect/atelementalstrikeex/water/14_5-w-ex_dodge.img",
+69091738,
+361320
+],
+[
+"sprite/monster/metrocenter/time_plaza/norn/explosion_ice_a.img",
+69453058,
+411021
+],
+[
+"sprite/monster/metrocenter/time_plaza/norn/explosion_ice_b.img",
+69864079,
+576155
+],
+[
+"sprite/monster/metrocenter/time_plaza/norn/explosion_ice_c.img",
+70440234,
+21563
+],
+[
+"sprite/character/mage/effect/atmagiccannon/magic_circle3.img",
+70461797,
+82253
+],
+[
+"sprite/monster/timegate/timelord/g_stay.img",
+70544050,
+14162
+],
+[
+"sprite/interface2/tutorial.img",
+70558212,
+778174
+],
+[
+"sprite/map/kcontents3/themineofabyss/object/box.img",
+71336386,
+32324
+],
+[
+"sprite/map/kcontents3/themineofabyss/object/floorob3_text.img",
+71368710,
+289877
+],
+[
+"sprite/map/kcontents3/themineofabyss/object/floorobj.img",
+71658587,
+16934
+],
+[
+"sprite/map/kcontents3/themineofabyss/object/fog.img",
+71675521,
+300331
+],
+[
+"sprite/map/kcontents3/themineofabyss/pathgate/gate_top.img",
+71975852,
+19651
+],
+[
+"sprite/map/kcontents3/themineofabyss/pathgate/gate_top_light.img",
+71995503,
+22882
+],
+[
+"sprite/map/kcontents3/themineofabyss/object/pickaxe.img",
+72018385,
+2756
+],
+[
+"sprite/map/kcontents3/themineofabyss/object/pipe.img",
+72021141,
+2542
+],
+[
+"sprite/map/kcontents3/themineofabyss/object/safety_hat.img",
+72023683,
+472
+],
+[
+"sprite/map/kcontents3/themineofabyss/object/shovel.img",
+72024155,
+819
+],
+[
+"sprite/map/kcontents3/themineofabyss/object/stoneobj.img",
+72024974,
+16333
+],
+[
+"sprite/map/kcontents3/themineofabyss/object/stoneobj_big.img",
+72041307,
+79822
+],
+[
+"sprite/map/kcontents3/themineofabyss/object/wall.img",
+72121129,
+367450
+],
+[
+"sprite/map/kcontents3/themineofabyss/object/woodboard.img",
+72488579,
+7128
+],
+[
+"sprite/map/kcontents3/themineofabyss/tile/tile.img",
+72495707,
+27956
+],
+[
+"sprite/map/kcontents3/themineofabyss/tile/tile_ex.img",
+72523663,
+9711
+],
+[
+"sprite/map/kcontents3/themineofabyss/object/barrel.img",
+72533374,
+7497
+],
+[
+"sprite/map/kcontents3/themineofabyss/object/fence.img",
+72540871,
+1686
+],
+[
+"sprite/character/swordman/effect/bladephantom/finish_line2.img",
+72542557,
+77955
+],
+[
+"sprite/character/swordman/effect/vajra/vajra_circlecloud.img",
+72620512,
+1605975
+],
+[
+"sprite/character/swordman/effect/bloodriven/riven_hurricane00.img",
+74226487,
+1057447
+],
+[
+"sprite/character/swordman/effect/flashcut/ld_start.img",
+75283934,
+109814
+],
+[
+"sprite/character/swordman/effect/bloodriven/riven_backblood.img",
+75393748,
+235388
+],
+[
+"sprite/character/swordman/effect/bloodriven/riven_boomline.img",
+75629136,
+160896
+],
+[
+"sprite/character/swordman/effect/bloodriven/riven_glowall.img",
+75790032,
+31768
+],
+[
+"sprite/character/swordman/effect/bloodriven/riven_bblood.img",
+75821800,
+43158
+],
+[
+"sprite/character/swordman/effect/bloodriven/riven_boomglow.img",
+75864958,
+120584
+],
+[
+"sprite/character/swordman/effect/bloodriven/riven_dust_dodge.img",
+75985542,
+4909
+],
+[
+"sprite/character/fighter/effect/hurricanesp/wind_f.img",
+75990451,
+64313
+],
+[
+"sprite/character/fighter/effect/chaindestruction/00_shock.img",
+76054764,
+37444
+],
+[
+"sprite/character/fighter/effect/chaindestruction/01_burst.img",
+76092208,
+92027
+],
+[
+"sprite/character/fighter/effect/tigerstrike/tigerstrike_00.img",
+76184235,
+213520
+],
+[
+"sprite/character/fighter/effect/hurricanesp/wind_t.img",
+76397755,
+27462
+],
+[
+"sprite/character/mage/effect/atfrozenland/twinkle04.img",
+76425217,
+75517
+],
+[
+"sprite/character/mage/effect/atjudekatheeternal/4_iceglow.img",
+76500734,
+239993
+],
+[
+"sprite/character/mage/effect/atjudekatheeternal/arroweffect.img",
+76740727,
+220160
+],
+[
+"sprite/character/gunner/effect/grenade/boom/fire_air_dodge.img",
+76960887,
+56078
+],
+[
+"sprite/character/demonicswordsman/effect/bloodyrave/lslash-normal.img",
+77016965,
+222
+],
+[
+"sprite/character/demonicswordsman/effect/bloodyrave/lslash-dodge.img",
+77017187,
+334829
+],
+[
+"sprite/character/thief/effect/ballacreadvent/bg02.img",
+77352016,
+37696
+],
+[
+"sprite/character/thief/effect/ballacreadvent/bg01.img",
+77389712,
+269642
+],
+[
+"sprite/character/thief/effect/ballacreadvent/bg04.img",
+77659354,
+110645
+],
+[
+"sprite/character/thief/effect/ballacreadvent/bg03.img",
+77769999,
+6333
+],
+[
+"sprite/character/thief/effect/accellinks/dodge02.img",
+77776332,
+52005
+],
+[
+"sprite/character/thief/effect/gotohell/finish2_eff2_normal1.img",
+77828337,
+173439
+],
+[
+"sprite/character/demoniclancer/effect/demonicinferno/atkd_00_slashblack.img",
+78001776,
+266607
+],
+[
+"sprite/character/demoniclancer/effect/demoniclancerelease/demoniclancerelease_aura.img",
+78268383,
+1415082
+],
+[
+"sprite/character/demoniclancer/effect/extremekillarts/dust01.img",
+79683465,
+295913
+],
+[
+"sprite/character/demoniclancer/effect/youdied/slash1.img",
+79979378,
+85208
+],
+[
+"sprite/character/demoniclancer/effect/youdied/slashline.img",
+80064586,
+1634
+],
+[
+"sprite/character/fighter/atequipment/growtype/onepunch_a.img",
+80066220,
+361704
+],
+[
+"sprite/character/fighter/effect/atbreakdown/shock.img",
+80427924,
+23896
+],
+[
+"sprite/character/fighter/effect/atruinrain/bigstone01.img",
+80451820,
+1074686
+],
+[
+"sprite/character/fighter/effect/attyphoon/06_no_dust.img",
+81526506,
+92426
+],
+[
+"sprite/character/fighter/effect/finalheaven/finalheaven_hurricane_fire.img",
+81618932,
+181571
+],
+[
+"sprite/character/fighter/effect/groundkick/particle_ston.img",
+81800503,
+2936
+],
+[
+"sprite/character/gunner/effect/flamethrowerboost/fire_end.img",
+81803439,
+162433
+],
+[
+"sprite/character/gunner/effect/flamethrowerboost/fire_loop.img",
+81965872,
+282852
+],
+[
+"sprite/character/gunner/effect/flamethrowerboost/fire_start.img",
+82248724,
+177427
+],
+[
+"sprite/monster/luke_raid/iron_beast/speedline3.img",
+82426151,
+99679
+],
+[
+"sprite/character/mage/effect/atcheekit/dusta.img",
+82525830,
+201201
+],
+[
+"sprite/character/mage/effect/atfireroad/02_cast_noraml.img",
+82727031,
+12469
+],
+[
+"sprite/character/mage/effect/aticechakram/06_icecollect_dodge.img",
+82739500,
+88698
+],
+[
+"sprite/character/mage/effect/aticecraft/explosion.img",
+82828198,
+255128
+],
+[
+"sprite/character/mage/effect/aticeorb/03_icemarble_normal.img",
+83083326,
+11078
+],
+[
+"sprite/character/mage/effect/aticeorb/04_icemarble_dodge.img",
+83094404,
+20689
+],
+[
+"sprite/character/swordman/effect/atbreaksworddance/finish_boom.img",
+83115093,
+366167
+],
+[
+"sprite/character/swordman/effect/icewaveex/ice_apply_dodge.img",
+83481260,
+18946
+],
+[
+"sprite/character/swordman/effect/icewaveex/ice_dodge_middle.img",
+83500206,
+36238
+],
+[
+"sprite/character/swordman/effect/sayaex/back.img",
+83536444,
+74045
+],
+[
+"sprite/character/swordman/effect/sayaex/bottomdodge.img",
+83610489,
+9443
+],
+[
+"sprite/character/swordman/effect/sayaex/wingdodge.img",
+83619932,
+70861
+],
+[
+"sprite/common/commoneffect/monstermagiccursor2.img",
+83690793,
+4089
+],
+[
+"sprite/item/throwitem/blackoil.img",
+83694882,
+7472
+],
+[
+"sprite/monster/anton/phase1/blacksmoke/ulf/laser_middle.img",
+83702354,
+38511
+],
+[
+"sprite/monster/anton/phase1/blacksmoke/ulf/lastshoothands_ef.img",
+83740865,
+79010
+],
+[
+"sprite/monster/anton/phase1/blacksmoke/ulf/shootinhaledenergy_00_dodge.img",
+83819875,
+511461
+],
+[
+"sprite/monster/anton/phase1/blacksmoke/ulf/shootinhaledenergy_01_dodge.img",
+84331336,
+114310
+],
+[
+"sprite/monster/anton/phase1/blacksmoke/ulf/shoottwister_dodge.img",
+84445646,
+176329
+],
+[
+"sprite/monster/anton/phase1/blacksmoke/ulf/shoottwister_normal.img",
+84621975,
+143233
+],
+[
+"sprite/monster/anton/phase1/blacksmoke/ulf/tier02_ballunioncomplete.img",
+84765208,
+117349
+],
+[
+"sprite/monster/anton/phase1/blacksmoke/ulf/tier02_charge_dodge.img",
+84882557,
+1172317
+],
+[
+"sprite/monster/anton/phase1/blacksmoke/ulf/tier02_current_shot_dodge.img",
+86054874,
+803818
+],
+[
+"sprite/monster/anton/phase2/abyssmedel/cast_normal.img",
+86858692,
+49690
+],
+[
+"sprite/monster/anton/phase3/mateka/ice_glow.img",
+86908382,
+6065
+],
+[
+"sprite/monster/anton/phase3/medel/blueline.img",
+86914447,
+4490
+],
+[
+"sprite/monster/anton/phase3/rugenic/wave-d.img",
+86918937,
+429431
+],
+[
+"sprite/monster/impossible_bakal/magiccirclebase.img",
+87348368,
+3697574
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/micro_aim/bottom.img",
+91045942,
+158948
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/micro_aim/concentrate.img",
+91204890,
+81296
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/micro_aim/flash.img",
+91286186,
+4325
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/micro_aim/ground.img",
+91290511,
+353213
+],
+[
+"sprite/monster/newmonsters/castleofthedead/brazierofsalamander/micro_aim/micro_aim.img",
+91643724,
+69217
+],
+[
+"sprite/monster/newmonsters/castleofthedead/metalsbrakium/metalgear/bullet1/01_bullet_normal.img",
+91712941,
+15377
+],
+[
+"sprite/monster/newmonsters/castleofthedead/metalsbrakium/metalgear/bullet1/02_bullet_normal.img",
+91728318,
+397
+],
+[
+"sprite/monster/newmonsters/castleofthedead/metalsbrakium/metalgear/bullet1/03_bullet_dodge.img",
+91728715,
+5132
+],
+[
+"sprite/monster/newmonsters/castleofthedead/metalsbrakium/metalgear/bullet2/bullet.img",
+91733847,
+45700
+],
+[
+"sprite/monster/newmonsters/castleofthedead/metalsbrakium/metalgear/bullet2/steyrbullet.img",
+91779547,
+387
+]
+]
+}
+},
+"imgs": {
+"vehicle": {
+"path": "/mnt/e/dnf-sf/sf85/老牛DNF客户端/ImagePacks2/sprite_monster_vehicle.NPK",
+"entry": "sprite/monster/vehicle/battlingram.img",
+"size": 29056,
+"version": 2,
+"frameCount": 12,
+"paletteSizes": [],
+"dds": [],
+"frames": [
+{
+"type": 14,
+"compressed": 6,
+"w": 156,
+"h": 94,
+"x": 21,
+"y": 35,
+"cw": 250,
+"ch": 150,
+"length": 2549,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 156,
+"oh": 94,
+"sha256": "ad9b6d6c966ed92d88bc6706455347dc5ad870dee407179d2e60af2ff9855ffb"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 155,
+"h": 93,
+"x": 21,
+"y": 36,
+"cw": 250,
+"ch": 150,
+"length": 2530,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 155,
+"oh": 93,
+"sha256": "a65d2356852fa390a5823377bd9226306200079a856e193bf5f7eadf562be53f"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 221,
+"h": 96,
+"x": 22,
+"y": 33,
+"cw": 250,
+"ch": 150,
+"length": 2942,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 221,
+"oh": 96,
+"sha256": "3b4239239f86a5318b827020af8d84e90b93960e61ff2d1bd80a7d33e773a1bd"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 194,
+"h": 93,
+"x": 22,
+"y": 36,
+"cw": 250,
+"ch": 150,
+"length": 2866,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 194,
+"oh": 93,
+"sha256": "bc6ecc2205cc4a0ecb52e64d4462c77e2e6990537e55a37f6b9ff2d711dcf517"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 153,
+"h": 93,
+"x": 21,
+"y": 36,
+"cw": 250,
+"ch": 150,
+"length": 2530,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 153,
+"oh": 93,
+"sha256": "15244f98011dacabb13016c7d14df514f6e977eb1f1ae9c3317ac8349b1245fa"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 156,
+"h": 94,
+"x": 21,
+"y": 35,
+"cw": 250,
+"ch": 150,
+"length": 2554,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 156,
+"oh": 94,
+"sha256": "61a8234afa730bc8f3adc888767b60c00a20d5afdb7ee0bb4dd7df232ce23e4f"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 155,
+"h": 93,
+"x": 20,
+"y": 36,
+"cw": 250,
+"ch": 150,
+"length": 2530,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 155,
+"oh": 93,
+"sha256": "c1a8888ae5aacdf32707d288efa6cadc608b6690ac7035572d1d434df2cdaa36"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 153,
+"h": 93,
+"x": 20,
+"y": 36,
+"cw": 250,
+"ch": 150,
+"length": 2514,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 153,
+"oh": 93,
+"sha256": "3fba889d2cb1b483522a671dbac2e0bf28419e497f83867d653559c9bdf8b3dc"
+},
+{
+"type": 17,
+"compressed": 0,
+"w": 0,
+"h": 0,
+"x": 0,
+"y": 0,
+"cw": 0,
+"ch": 0,
+"length": 0,
+"ref": 5,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 156,
+"oh": 94,
+"sha256": "61a8234afa730bc8f3adc888767b60c00a20d5afdb7ee0bb4dd7df232ce23e4f"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 157,
+"h": 93,
+"x": 21,
+"y": 36,
+"cw": 250,
+"ch": 150,
+"length": 2571,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 157,
+"oh": 93,
+"sha256": "9492b45649ebe248a00c57fdfe37bc61fc58428c411d870485f37ed0d9afd1e6"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 156,
+"h": 92,
+"x": 21,
+"y": 37,
+"cw": 250,
+"ch": 150,
+"length": 2498,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 156,
+"oh": 92,
+"sha256": "0f09c2c0d7a08b1f758509d252358f137681554734f135e0787409ff6f1698bb"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 155,
+"h": 93,
+"x": 21,
+"y": 36,
+"cw": 250,
+"ch": 150,
+"length": 2536,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 155,
+"oh": 93,
+"sha256": "dc7b8d6b856f7bb6287d525e79c09b4c9be9dc0167088cf9d1660715396de921"
+}
+]
+},
+"pushick": {
+"path": "/mnt/e/dnf-sf/sf85/老牛DNF客户端/ImagePacks2/sprite_monster_vehicle.NPK",
+"entry": "sprite/monster/vehicle/pushick.img",
+"size": 57148,
+"version": 2,
+"frameCount": 10,
+"paletteSizes": [],
+"dds": [],
+"frames": [
+{
+"type": 16,
+"compressed": 6,
+"w": 54,
+"h": 26,
+"x": 154,
+"y": 132,
+"cw": 320,
+"ch": 240,
+"length": 1326,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 54,
+"oh": 26,
+"sha256": "b5991ffc6e0cb0cef2009e0f1e3c09eed7b68860ae72a55cdc7ee280311edcf8"
+},
+{
+"type": 16,
+"compressed": 6,
+"w": 84,
+"h": 43,
+"x": 125,
+"y": 115,
+"cw": 320,
+"ch": 240,
+"length": 3188,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 84,
+"oh": 43,
+"sha256": "3831bc08c14d23162e73b5a992e4ca8863c3edbd57ac81b338b1ee0adbd7d8e0"
+},
+{
+"type": 16,
+"compressed": 6,
+"w": 117,
+"h": 75,
+"x": 91,
+"y": 95,
+"cw": 320,
+"ch": 240,
+"length": 8574,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 117,
+"oh": 75,
+"sha256": "95100a19997bf20ed018f54445fd0ff55f411cdf52819252a4e1529dca01146f"
+},
+{
+"type": 16,
+"compressed": 6,
+"w": 161,
+"h": 114,
+"x": 62,
+"y": 64,
+"cw": 320,
+"ch": 240,
+"length": 11323,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 161,
+"oh": 114,
+"sha256": "78feb57080200af152a5afb0a8f5611720e1182dedd38bb53f88aec48918e163"
+},
+{
+"type": 16,
+"compressed": 6,
+"w": 147,
+"h": 114,
+"x": 61,
+"y": 57,
+"cw": 320,
+"ch": 240,
+"length": 9627,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 147,
+"oh": 114,
+"sha256": "1d699d96f73b0633df23947b3a4423d1b2ee4ee42ea7664a300802bf2933934c"
+},
+{
+"type": 16,
+"compressed": 6,
+"w": 151,
+"h": 113,
+"x": 57,
+"y": 56,
+"cw": 320,
+"ch": 240,
+"length": 6995,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 151,
+"oh": 113,
+"sha256": "442082e9f9f836e9f11bdc2f25e0c02b8b28cefdd5ab9bbd2e3423e7231636b7"
+},
+{
+"type": 16,
+"compressed": 6,
+"w": 112,
+"h": 88,
+"x": 96,
+"y": 76,
+"cw": 320,
+"ch": 240,
+"length": 5397,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 112,
+"oh": 88,
+"sha256": "d24da41b8c625f70dcb42d0fca22ebdd6a5e2ffda3db12a9a2b0691a10634fe7"
+},
+{
+"type": 16,
+"compressed": 6,
+"w": 124,
+"h": 95,
+"x": 83,
+"y": 67,
+"cw": 320,
+"ch": 240,
+"length": 4228,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 124,
+"oh": 95,
+"sha256": "801986b34c18ddeaea9d77a5baa750db88ecfd8b7b5a428f05522990b3697433"
+},
+{
+"type": 16,
+"compressed": 6,
+"w": 101,
+"h": 65,
+"x": 107,
+"y": 96,
+"cw": 320,
+"ch": 240,
+"length": 1857,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 101,
+"oh": 65,
+"sha256": "bbe9f5312d7ff1027223cd9d91e0bdfad91da711a5eed75001e3e58fab7ca638"
+},
+{
+"type": 16,
+"compressed": 6,
+"w": 58,
+"h": 58,
+"x": 0,
+"y": 0,
+"cw": 58,
+"ch": 58,
+"length": 4241,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 58,
+"oh": 58,
+"sha256": "cfcb9267f856737b59a925cca70f441caefebf60e1548bce4d8ac55d15fe7be9"
+}
+]
+},
+"cannonball": {
+"path": "/mnt/e/dnf-sf/sf85/老牛DNF客户端/ImagePacks2/sprite_monster_vehicle.NPK",
+"entry": "sprite/monster/vehicle/cannonball.img",
+"size": 304,
+"version": 2,
+"frameCount": 2,
+"paletteSizes": [],
+"dds": [],
+"frames": [
+{
+"type": 14,
+"compressed": 6,
+"w": 18,
+"h": 18,
+"x": 0,
+"y": 0,
+"cw": 18,
+"ch": 18,
+"length": 100,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 18,
+"oh": 18,
+"sha256": "e795af7dae61727d92036d4ada1738382ca817749fe2b246356f1e18a761da95"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 18,
+"h": 18,
+"x": 0,
+"y": 0,
+"cw": 18,
+"ch": 18,
+"length": 100,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 18,
+"oh": 18,
+"sha256": "d852522c9f7fc2f24eeb28461ea8c2a96d94f045a3faac3ae1673d835017c399"
+}
+]
+},
+"face_atlas": {
+"path": "/mnt/e/dnf-sf/sf115/人造神客户端/ImagePacks2/1A冥灵之塔补丁.NPK",
+"entry": "sprite/monster/ch_monsterface.img",
+"size": 76960,
+"version": 5,
+"frameCount": 235,
+"paletteSizes": [
+0
+],
+"dds": [
+{
+"title": 1,
+"pixel_format": 18,
+"full_length": 51727,
+"length": 60608,
+"width": 504,
+"height": 240
+},
+{
+"title": 1,
+"pixel_format": 18,
+"full_length": 327,
+"length": 8320,
+"width": 128,
+"height": 128
+},
+{
+"title": 1,
+"pixel_format": 18,
+"full_length": 345,
+"length": 416,
+"width": 24,
+"height": 24
+},
+{
+"title": 1,
+"pixel_format": 18,
+"full_length": 347,
+"length": 416,
+"width": 24,
+"height": 24
+}
+],
+"frames": [
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 23,
+"x": 0,
+"y": 1,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+264,
+168,
+288,
+191
+],
+"ow": 24,
+"oh": 23,
+"sha256": "094b6a19902627283176851736dc343a18486067d8b47c65ad428df3d02f5a6f"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+332,
+0,
+356,
+24
+],
+"ow": 24,
+"oh": 24,
+"sha256": "4729a0f0618dc4ceef7849e1734789aa881d86a9ba3d6f3deeb2e37acf31d325"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+408,
+168,
+432,
+192
+],
+"ow": 24,
+"oh": 24,
+"sha256": "a62d2dff487422991c685e88f14e3ced64ed2266e1476a7879d6bed67bc297dd"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+0,
+120,
+24,
+144
+],
+"ow": 24,
+"oh": 24,
+"sha256": "ca117abdbd1473f70ec8eeb4fe45f33738771f82a4d287ac6aca0da5b54a18f9"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+192,
+168,
+216,
+192
+],
+"ow": 24,
+"oh": 24,
+"sha256": "550ce78eb3f357ccd3610c620f959ee0e81d575da135789fd21f39fff5a8a3b2"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+360,
+144,
+384,
+168
+],
+"ow": 24,
+"oh": 24,
+"sha256": "617e17ee3aa38a3aa66a615ef42198e63e0944a4651c5e29d73b756c7de253b0"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+48,
+96,
+72,
+120
+],
+"ow": 24,
+"oh": 24,
+"sha256": "353f0ec7932942338f981fb0d18cd438e2404c01d803b88cad59012d0b6d6afe"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+0,
+72,
+24,
+96
+],
+"ow": 24,
+"oh": 24,
+"sha256": "12912e15a7fc1407d265d30ac24ad7b3eeeb4430159b41494eca21cf8825eeb8"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+92,
+48,
+116,
+72
+],
+"ow": 24,
+"oh": 24,
+"sha256": "287b1c2720e8c72b218f9e6d9489ea7843e457e131d8232fa7bfe4af35bc2169"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+284,
+24,
+308,
+48
+],
+"ow": 24,
+"oh": 24,
+"sha256": "2a52f180a71716831c84e35b14a1ab6a8ead9adf045b5e38c856923ff58c58e8"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+0,
+168,
+24,
+192
+],
+"ow": 24,
+"oh": 24,
+"sha256": "d069c0a2adf2e7917fc776159b63b0b834426d9d22d6b34e36aab2d0203b9276"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+428,
+48,
+452,
+72
+],
+"ow": 24,
+"oh": 24,
+"sha256": "adbbe5fe72e7096cd4638500515fc171ca6eb784de46fa14a8f38133ad95f21d"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+216,
+216,
+240,
+240
+],
+"ow": 24,
+"oh": 24,
+"sha256": "02ffb344bb468ebd6fcea75dbabdb6b30c8574605b59ac8aa6a984fc380119ad"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+236,
+24,
+260,
+48
+],
+"ow": 24,
+"oh": 24,
+"sha256": "c04c12ccb44530d01f3e840353a2ebf52c0fc967870a5116a1380b9a8c339479"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+140,
+24,
+164,
+48
+],
+"ow": 24,
+"oh": 24,
+"sha256": "9c3f2176709ef8baf96274ee755b91f86df1cda25df9fa13364eb5712c824ea4"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+144,
+216,
+168,
+240
+],
+"ow": 24,
+"oh": 24,
+"sha256": "d5a6e08df12c1b99c60fb54b70fc201573d1d6720e06a9b557147f84f0cbb2e3"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+452,
+0,
+476,
+24
+],
+"ow": 24,
+"oh": 24,
+"sha256": "e1ea92c313a4d35c855036c5e16d20e9b70f6c77c915ece7ae32a2657cf7052e"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+384,
+144,
+408,
+168
+],
+"ow": 24,
+"oh": 24,
+"sha256": "538817701bba0df5332ff185467768929b9a01b6acb76ef1879fd44af57fff24"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+140,
+48,
+164,
+72
+],
+"ow": 24,
+"oh": 24,
+"sha256": "1267f6be5dfe6f9405aea00cd0af7f3c19406357cc7a330ec81202ee1b886634"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+44,
+24,
+68,
+48
+],
+"ow": 24,
+"oh": 24,
+"sha256": "39675f418a07bf8464baf4c963b56918b8710cf4e64967fba0bf81abea277e9a"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+192,
+120,
+216,
+144
+],
+"ow": 24,
+"oh": 24,
+"sha256": "345d4c08ee67df524b3a0750d865663f354ab948f68cde0f82d3c7b27eff2ecd"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+216,
+72,
+240,
+96
+],
+"ow": 24,
+"oh": 24,
+"sha256": "c66ed5eff8820a82930b7ecf7c0d5dffaa363fc491f00f0a5b29f5604a7dc1bd"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+288,
+192,
+312,
+216
+],
+"ow": 24,
+"oh": 24,
+"sha256": "661eba10ad6dafa39fea4ec2f44c27fb3395a77959c2201a650779eb9df58cba"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+120,
+72,
+144,
+96
+],
+"ow": 24,
+"oh": 24,
+"sha256": "538f3205d1eda1a5d5d52ae4455befdf9cb997b490b60ade484d25e9e54ac977"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+408,
+144,
+432,
+168
+],
+"ow": 24,
+"oh": 24,
+"sha256": "5840c678daa545d18771ecd6a947e9efadabf8842ce106a0613bef97c5e2113a"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+116,
+24,
+140,
+48
+],
+"ow": 24,
+"oh": 24,
+"sha256": "a2d80e995f0f824d7f3b816a3a778c142c0bcbe6b1f2d07941c8a33c0f40bfff"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+456,
+192,
+480,
+216
+],
+"ow": 24,
+"oh": 24,
+"sha256": "a3c4034e46092e6764576f24e47db32e0b3a18bd5d6e44e1447a055996a63f71"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 23,
+"h": 24,
+"x": 1,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+240,
+168,
+263,
+192
+],
+"ow": 23,
+"oh": 24,
+"sha256": "2e67f485a4be1c5bcbd55608b59c3f8b2429d85f4435e5e47ee63afc69b11b81"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+192,
+96,
+216,
+120
+],
+"ow": 24,
+"oh": 24,
+"sha256": "d4b989dd60bd7a0efcf228b5326153bd883c357fc7a13eef023ce904e011b4f5"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+288,
+216,
+312,
+240
+],
+"ow": 24,
+"oh": 24,
+"sha256": "b881fb9df23d06f607250f3b015852f5b755d00fc3521d0a3e430419949c3486"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 22,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+96,
+192,
+118,
+216
+],
+"ow": 22,
+"oh": 24,
+"sha256": "85246e16ff3df0a3f31d591707db33eb21469cee98c993e18ba546be34620398"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 23,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 1,
+"crop": [
+0,
+0,
+23,
+24
+],
+"ow": 23,
+"oh": 24,
+"sha256": "c0133662cc05b25bf14aab776e0f45b71077422cf6b4718cfe20ea55c011b156"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+380,
+0,
+404,
+24
+],
+"ow": 24,
+"oh": 24,
+"sha256": "f4ef028e2f65c0109e6b130f6b81378364355823d8db3e9102925e5d3c72a43b"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+312,
+168,
+336,
+192
+],
+"ow": 24,
+"oh": 24,
+"sha256": "eef520aff838ebc0f1bebd4673ad744aec212fe6c97a01dec896929280e77352"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+360,
+216,
+384,
+240
+],
+"ow": 24,
+"oh": 24,
+"sha256": "ed438067cf9fbdaa41e3772e6ca8132bd24a23fe14c84c41b36a6a1d8dfb33f7"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 23,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+96,
+72,
+119,
+96
+],
+"ow": 23,
+"oh": 24,
+"sha256": "797dcd019770d6c8689e39ecb5bb9fdc94262b4fc7dce010817ed9861de857ad"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 23,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+0,
+96,
+23,
+120
+],
+"ow": 23,
+"oh": 24,
+"sha256": "46be1a29d2b271b11dc7601b9a1a6344d87a8e958126d507d0740be1b500eca6"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 23,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+24,
+72,
+47,
+96
+],
+"ow": 23,
+"oh": 24,
+"sha256": "481bcd3e1d6490a113f298098e06a90271621bd7339301aad6d4d75eb64fe2fe"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+240,
+192,
+264,
+216
+],
+"ow": 24,
+"oh": 24,
+"sha256": "3ac67c3bf710cb58b19ecc5d34ec2b643691689528381d2025263f2d2d5bd38d"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+48,
+168,
+72,
+192
+],
+"ow": 24,
+"oh": 24,
+"sha256": "e328bf733ef7639540737bfd5fee5fbd11234bc8ed956d4923eead3b4df2b4ad"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+476,
+0,
+500,
+24
+],
+"ow": 24,
+"oh": 24,
+"sha256": "09b213d918108c7affd64f0ba92402bb867a13ea6c12abef236819751316b307"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+240,
+216,
+264,
+240
+],
+"ow": 24,
+"oh": 24,
+"sha256": "e1ae3fc668cbdfa973105f008772d470d2dbfda370591f17a8b5a6c85eea4fe1"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+380,
+24,
+404,
+48
+],
+"ow": 24,
+"oh": 24,
+"sha256": "3eba6864e354f2308bc812cf267552abcda6bd8a08e598984c48909bdfb85d45"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+0,
+144,
+24,
+168
+],
+"ow": 24,
+"oh": 24,
+"sha256": "7fde354ff77c1a63deee81dce502707025c70c690e950fb0c9b9e3d5b1913aa3"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+408,
+72,
+432,
+96
+],
+"ow": 24,
+"oh": 24,
+"sha256": "72c9c59ad6a7d4e6cffffd5b3ac2d453bf7ac64cf4f9352bef5b4ca0c788b934"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+120,
+120,
+144,
+144
+],
+"ow": 24,
+"oh": 24,
+"sha256": "7f2c345dd71eafedf1723a570b85a2dd6b8c2768acbf4a887d0700206b515811"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+312,
+216,
+336,
+240
+],
+"ow": 24,
+"oh": 24,
+"sha256": "5b099d23a8bc17d99b7d25efc7f09e7336731a2d541ba2c7bea180ec69c2a071"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+240,
+72,
+264,
+96
+],
+"ow": 24,
+"oh": 24,
+"sha256": "e059fdbb35d35315b2b7b96d3d9f7a5177b04638cd355197b2ab62d27335af07"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+404,
+24,
+428,
+48
+],
+"ow": 24,
+"oh": 24,
+"sha256": "42f4585b9121c4335365e12dd7c7961dc81623d69530bcb0f1841b6988db79c5"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+336,
+144,
+360,
+168
+],
+"ow": 24,
+"oh": 24,
+"sha256": "1bef1433ec987a42f2a7458f1ab5d5a4dd337e22ba56a61c84bf646857b1a5ac"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+68,
+24,
+92,
+48
+],
+"ow": 24,
+"oh": 24,
+"sha256": "3b0978cd859413ce1b7183548dcd30a5efb5493c5af4c9b8a56d83e7802d7cf5"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+288,
+168,
+312,
+192
+],
+"ow": 24,
+"oh": 24,
+"sha256": "f9ccc6c590f116bcaa17b635de6229c60736cbeea081932365f5f1e96bbea73a"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 23,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+192,
+144,
+215,
+168
+],
+"ow": 23,
+"oh": 24,
+"sha256": "c6887d03a47ec8469fa12ec1749d346c5c04af3abba8a02b1fb4eaf65e447b6b"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+428,
+24,
+452,
+48
+],
+"ow": 24,
+"oh": 24,
+"sha256": "c0c4c3a89ac5224c5de9e8700a21afd29ccffdf25cdea08e5794b7cc5aeb4781"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+480,
+72,
+504,
+96
+],
+"ow": 24,
+"oh": 24,
+"sha256": "da9a8c2d87471e15b86ceda3fa5a35778846f20dd73b584f0ac436e287acaafd"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+476,
+48,
+500,
+72
+],
+"ow": 24,
+"oh": 24,
+"sha256": "484261f70577080d1567604db51bb66bef9f37a25d45fd26e0f4034dce974f73"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+288,
+96,
+312,
+120
+],
+"ow": 24,
+"oh": 24,
+"sha256": "c935f16ecb965b58e3559874543535f1de183a3eb39b661638e43349fafed720"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+384,
+216,
+408,
+240
+],
+"ow": 24,
+"oh": 24,
+"sha256": "50e2545ef626898ce03b2bc8dfec3b38f983cb5228112912cda57f5ccc694bff"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+432,
+192,
+456,
+216
+],
+"ow": 24,
+"oh": 24,
+"sha256": "cdf4ec54f1eb35be02755acc46d1e8de9952d08e0b1d666720c0fff11c856c5e"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+432,
+168,
+456,
+192
+],
+"ow": 24,
+"oh": 24,
+"sha256": "e2bcd822892b9e44682016aba33c3c3c9a9cd2825afdddd098acd6eeb1ecae77"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 23,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+312,
+144,
+335,
+168
+],
+"ow": 23,
+"oh": 24,
+"sha256": "15c44cd9751000b2b8b0edd06ac99cd32d4a33e65a7f071831ff1680503517ec"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+92,
+0,
+116,
+24
+],
+"ow": 24,
+"oh": 24,
+"sha256": "860252e1989b07ed43572cd4ba49723712bdf805f86328300c6eefd64af17570"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+164,
+24,
+188,
+48
+],
+"ow": 24,
+"oh": 24,
+"sha256": "c1ea52ffeba09f3ce2e568f1728ce8730e13ffab27e2a29bb0dcff8839ee8719"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+240,
+96,
+264,
+120
+],
+"ow": 24,
+"oh": 24,
+"sha256": "a8b3a798175972c71c0a3e542a457a30f181944cf7de4d1517074d2ab6c639e3"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+164,
+0,
+188,
+24
+],
+"ow": 24,
+"oh": 24,
+"sha256": "95ec05a73da2c646b120abfdce22261caeb2953fd287c875180defff8a89b581"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+120,
+216,
+144,
+240
+],
+"ow": 24,
+"oh": 24,
+"sha256": "24ab13df4c20d737c83f0adadc5d338033e42e64ff6aca47bd80ed525c6694f1"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+120,
+192,
+144,
+216
+],
+"ow": 24,
+"oh": 24,
+"sha256": "ac661418c2cf0677bb03c782b88c1ef3fdd4d337f1c44364cce574a31dc17669"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+404,
+0,
+428,
+24
+],
+"ow": 24,
+"oh": 24,
+"sha256": "75a6471bfe3c1331993e515ea3104af0a622ce5890646a69d4f6b85779a97a3e"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+212,
+0,
+236,
+24
+],
+"ow": 24,
+"oh": 24,
+"sha256": "2a421bed2ac110ddeb799c15bafcd26fa22a374495ddc4e2698d0d563f93a664"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+384,
+120,
+408,
+144
+],
+"ow": 24,
+"oh": 24,
+"sha256": "f49d61a0d38ae0d15b39ae7635caa07e1947e0b7bd9f5377e75a5bc9212ad91f"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+336,
+216,
+360,
+240
+],
+"ow": 24,
+"oh": 24,
+"sha256": "2a3f393d0f30701725922262b230eb2fb80ab272f229f6c251c51eaf5013eb8d"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+432,
+96,
+456,
+120
+],
+"ow": 24,
+"oh": 24,
+"sha256": "81107756593f7e6465ce163422ecad466903e47ea31f590edbc864ce4acb3149"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 22,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+212,
+48,
+234,
+72
+],
+"ow": 22,
+"oh": 24,
+"sha256": "152053661ba71069fcfea237f56d53e8b6a938b6a2d9865af77009a8273839cf"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+0,
+192,
+24,
+216
+],
+"ow": 24,
+"oh": 24,
+"sha256": "f568714c525880d9618a6712f6c425718d044ba0c26a0671266fc013926d3bc0"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+68,
+0,
+92,
+24
+],
+"ow": 24,
+"oh": 24,
+"sha256": "eea052bedd493f4a8a3687e9c0d77d55753c17db9ed0365fbc78922581ba8c0e"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+332,
+24,
+356,
+48
+],
+"ow": 24,
+"oh": 24,
+"sha256": "73ed27aaf433e91edd43c3c1a8aff0fe32fd775949e1c5a7aead3f445e12771c"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+92,
+24,
+116,
+48
+],
+"ow": 24,
+"oh": 24,
+"sha256": "35fd4da9e68e2bc1fc61787a7d19ce004c0d09bb352b06ec65ea1a34260f4308"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+96,
+144,
+120,
+168
+],
+"ow": 24,
+"oh": 24,
+"sha256": "f94744cb1b85e05da5bdcea51c1765e769e4a73f16316ee9b7662e4a4588df1e"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+312,
+96,
+336,
+120
+],
+"ow": 24,
+"oh": 24,
+"sha256": "0a7cff95b410caddf2c9040ea76cc5c4e3dca05f3f3201d7b51fc9bdfa534705"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 22,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+264,
+72,
+286,
+96
+],
+"ow": 22,
+"oh": 24,
+"sha256": "578dce618f486037e8b71730b9d7b8d95b1e434cb693205644a7f65c0a690d83"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+284,
+48,
+308,
+72
+],
+"ow": 24,
+"oh": 24,
+"sha256": "c87ada14c40cc91953cd7c2de8a5677e03f4f362beea5ede9b3b4d950415ea54"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 2,
+"crop": [
+0,
+0,
+24,
+24
+],
+"ow": 24,
+"oh": 24,
+"sha256": "519722ec8bb2b4d85305ff68705cfaf7b9670b208f08e7a3595e8bd51b682fd6"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+336,
+72,
+360,
+96
+],
+"ow": 24,
+"oh": 24,
+"sha256": "15eb813fe9b1cc99c90ff46c9958173795055c3d27b982fb34cd331055b074fd"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+192,
+192,
+216,
+216
+],
+"ow": 24,
+"oh": 24,
+"sha256": "a6812153394c0cf448ac273b2b7a908ffd77a6746d7f2107be1b7ad8a5e4ddd4"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+216,
+96,
+240,
+120
+],
+"ow": 24,
+"oh": 24,
+"sha256": "b17cff1cdd2dd9cc1d161b9b7d69bb237dbf7fe95373324f2879be57e5d4a908"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+168,
+120,
+192,
+144
+],
+"ow": 24,
+"oh": 24,
+"sha256": "ea6d58b275ce51627a6d9ab6e898a0ed4d5271565e20d30ab86dea9a167c2148"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+144,
+96,
+168,
+120
+],
+"ow": 24,
+"oh": 24,
+"sha256": "411b1b9add9040cdaadb1abc511b6437c014ac4c77dc92df2b797ef5af97db71"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+24,
+120,
+48,
+144
+],
+"ow": 24,
+"oh": 24,
+"sha256": "a3b68723770202b2a8ea2e7f939f074810fbeb2093b7e007c5fbb622c38c2cbd"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+144,
+168,
+168,
+192
+],
+"ow": 24,
+"oh": 24,
+"sha256": "bd243f93fb02612d0eee2fb517d8d63ce6853598865828b1ad011b584cf49483"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+96,
+120,
+120,
+144
+],
+"ow": 24,
+"oh": 24,
+"sha256": "a4ec1b57d3a674cce64861cf7fa9f0a0a3bb2f0d1b97a97afa839385e9cec927"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+288,
+120,
+312,
+144
+],
+"ow": 24,
+"oh": 24,
+"sha256": "9bf1405a9278b9ec290650be0e526d938f0edcfdf64cfb3e5cda4b7e4b542458"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+212,
+24,
+236,
+48
+],
+"ow": 24,
+"oh": 24,
+"sha256": "30720132d511fa26dac6822d6a56df1f2c4ea71f89290733983478b91c3e1600"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+216,
+120,
+240,
+144
+],
+"ow": 24,
+"oh": 24,
+"sha256": "a3dd8932a2edb3239a50309c2057b2c2080d347855bb7b4744fa070089a99cfb"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+432,
+120,
+456,
+144
+],
+"ow": 24,
+"oh": 24,
+"sha256": "fd34923e73e77cf189c75ebdcb4ae7d30ec753b9895589bdf77c218db36857ba"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 20,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+0,
+24,
+20,
+48
+],
+"ow": 20,
+"oh": 24,
+"sha256": "fb14623b25301fa87515ebe9708a8b81078b79b094c8060452be478387dc6c04"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 20,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+20,
+44,
+44,
+64
+],
+"ow": 24,
+"oh": 20,
+"sha256": "bdc3e63af89db2d0a6a3a28e7d8bed8c1ced34e1edf541c0c6e30937c8fafdfb"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+356,
+24,
+380,
+48
+],
+"ow": 24,
+"oh": 24,
+"sha256": "19d16a8780e30b26fcbfc2fff8a7e10352f23bde345174dc9fc291b0d002fb19"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+264,
+96,
+288,
+120
+],
+"ow": 24,
+"oh": 24,
+"sha256": "5cdfde8eb1d4ba90e76e998fbae4a9cf23b682eab6be3a2b9b5a8aae16cdc5ef"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+336,
+120,
+360,
+144
+],
+"ow": 24,
+"oh": 24,
+"sha256": "7d146f5d8f202a97ce83188a6dbb08c91e6430f105ea88e0a7041613f55b32ef"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+120,
+144,
+144,
+168
+],
+"ow": 24,
+"oh": 24,
+"sha256": "90c93f7328b21ee99cd2f58b409d80008c0b936cfc68ca163c69c19fe9220611"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 23,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+164,
+48,
+187,
+72
+],
+"ow": 23,
+"oh": 24,
+"sha256": "8663353c9ad533ad3647cebfbf72a512b724a9711368554f1eaf648fcf5d74b0"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 23,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+24,
+144,
+47,
+168
+],
+"ow": 23,
+"oh": 24,
+"sha256": "e1f3cff54dce0abf75cf5eef2e6509e0a15d64e6b4e5898be957fdd2bf7d7b5b"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 23,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+404,
+48,
+427,
+72
+],
+"ow": 23,
+"oh": 24,
+"sha256": "d90bf9c1ac5105baacad78197c786166416eff14cb9808b08df1ead9678a0bfe"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 23,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+264,
+192,
+287,
+216
+],
+"ow": 23,
+"oh": 24,
+"sha256": "3bb582155fa2450cb75d12af28be657164b7ee4b8dd5c7e9a7098bfc222c894c"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+480,
+216,
+504,
+240
+],
+"ow": 24,
+"oh": 24,
+"sha256": "6c8f8002120a40d603fd7b085844cd2c43dc228924b28ef8aba3b117338abf28"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+308,
+0,
+332,
+24
+],
+"ow": 24,
+"oh": 24,
+"sha256": "34108a2d2b63d9ab6fb84c52fb87ebdcfb0f71d1fa4f3bb8e61bd9d6968e3094"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 23,
+"x": 0,
+"y": 1,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+168,
+192,
+192,
+215
+],
+"ow": 24,
+"oh": 23,
+"sha256": "5c13b1d679489ff71196104cca448ad332eb94087179453d56a174f21aeaa35e"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+408,
+96,
+432,
+120
+],
+"ow": 24,
+"oh": 24,
+"sha256": "fe29ec3f0a31ef85edbec4cb1e1d80f29a9782483e47307e724f349c3745ef0d"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 23,
+"x": 0,
+"y": 1,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+260,
+24,
+284,
+47
+],
+"ow": 24,
+"oh": 23,
+"sha256": "7e18b1b87b58b40e1eb4c9ea28d23fa3c1797b68109507ed1f5fb16da813b88f"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 23,
+"x": 0,
+"y": 1,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+260,
+48,
+284,
+71
+],
+"ow": 24,
+"oh": 23,
+"sha256": "f0c8d9215e6ac28371753a355a6d505326e768fed2a25d2a55d6881ecc3c2410"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+312,
+72,
+336,
+96
+],
+"ow": 24,
+"oh": 24,
+"sha256": "e1c24d4a99a1c8d87375f49fdd67f380e669dbc4c52764aa833537a18b50756d"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+24,
+0,
+48,
+24
+],
+"ow": 24,
+"oh": 24,
+"sha256": "8ab066d22f44398b8f542311b5e6d2962bce91322030f0096ff23d445ac82484"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+168,
+96,
+192,
+120
+],
+"ow": 24,
+"oh": 24,
+"sha256": "89c444363c2c5d0c00df9a6d440aa029413faffeae09992af662e4d88cd8ac78"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 23,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+408,
+216,
+431,
+240
+],
+"ow": 23,
+"oh": 24,
+"sha256": "af43e60b8286bf2164cb3fb74ec2c113bb4b5ea6d2a4f0570fda60afdcc369f7"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+432,
+144,
+456,
+168
+],
+"ow": 24,
+"oh": 24,
+"sha256": "1a8bc6eb4774913bba5cc6c8162567804f912a53b63f1ef7c09b7e54bdcdfa04"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+428,
+48,
+452,
+72
+],
+"ow": 24,
+"oh": 24,
+"sha256": "adbbe5fe72e7096cd4638500515fc171ca6eb784de46fa14a8f38133ad95f21d"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+236,
+0,
+260,
+24
+],
+"ow": 24,
+"oh": 24,
+"sha256": "3b29ff93c9aa3ea7c9c259cfb39fc8be6eccf715c0cc210c368dbf5b9c0f6326"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+188,
+0,
+212,
+24
+],
+"ow": 24,
+"oh": 24,
+"sha256": "e6aa3e815bfab80ab8119c41a9cb4a50e681c15bc1e48305adb882ee66d577b9"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+96,
+168,
+120,
+192
+],
+"ow": 24,
+"oh": 24,
+"sha256": "b3bf7f02fdaba7081e605d5477522f1cb28048fca6bdb30e9cf4e572ea5ddd65"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+336,
+96,
+360,
+120
+],
+"ow": 24,
+"oh": 24,
+"sha256": "92a56503798c0c4ad017273aeaa863d0672f412afa6fd19d425cfa3f1a051e63"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+408,
+120,
+432,
+144
+],
+"ow": 24,
+"oh": 24,
+"sha256": "74adcc6ec102d707056154f5d3136430169afacf6763be648940222a36f8a2db"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+236,
+48,
+260,
+72
+],
+"ow": 24,
+"oh": 24,
+"sha256": "1125ff4a78db695f44b0e8528a74713207af7cae5cf3ba58acb1a5a68192d9d4"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+192,
+72,
+216,
+96
+],
+"ow": 24,
+"oh": 24,
+"sha256": "9f360b5e74eb9b082340f3946b3843574b152221e5578d26b231c0f892e6fed8"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+312,
+120,
+336,
+144
+],
+"ow": 24,
+"oh": 24,
+"sha256": "98eee494ca09f8edb196f64ddba246a4ec4bcb9229a6bdbbce95cf81069dd43d"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+408,
+192,
+432,
+216
+],
+"ow": 24,
+"oh": 24,
+"sha256": "8c3fc4853deebb0d9ae9241c5109088c1bb321d144898ab168fd6ff1ece5168a"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+456,
+168,
+480,
+192
+],
+"ow": 24,
+"oh": 24,
+"sha256": "0141491207833fa531bb1cb243313ea19c165a816eb7242243520e6de5f8cbd7"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+456,
+144,
+480,
+168
+],
+"ow": 24,
+"oh": 24,
+"sha256": "4cf9e1c7fd8fc127be9f997424261d60664fe49238ae403d3fe85ebd934c3235"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 23,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+48,
+120,
+71,
+144
+],
+"ow": 23,
+"oh": 24,
+"sha256": "eb6c342b965461293540e085fad331438fad8a323f5f02025ed3f8e5fbd6c338"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+384,
+72,
+408,
+96
+],
+"ow": 24,
+"oh": 24,
+"sha256": "72f5b204556da768b635e2e514699e2a8b2c148fe653b46dcec1fe9f888a8f39"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 3,
+"crop": [
+0,
+0,
+24,
+24
+],
+"ow": 24,
+"oh": 24,
+"sha256": "c412f6d08e7fa5c9dfd1e815dd5adb14bf016e3cfc279d97da6c3ba21aac1a89"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+168,
+144,
+192,
+168
+],
+"ow": 24,
+"oh": 24,
+"sha256": "6dd7ee75b780a2450d7e630b4966321b0baaa1b3e879cb786ef088062d1277cc"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+480,
+168,
+504,
+192
+],
+"ow": 24,
+"oh": 24,
+"sha256": "b04f19b0583afb1a3fc9fbcbe2f9aa9e9438e565062bb43e684cd1ed10b88a39"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+168,
+168,
+192,
+192
+],
+"ow": 24,
+"oh": 24,
+"sha256": "deeb5fed4b9619358a4786a8ed68ae7ee217757c79a513d7a8ceb1550a3c9c6a"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+48,
+72,
+72,
+96
+],
+"ow": 24,
+"oh": 24,
+"sha256": "3c2d33de012c883c0e1c691fbbeb08ce2e3fe494feff4d9a41c1dc188f25ae5f"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+264,
+216,
+288,
+240
+],
+"ow": 24,
+"oh": 24,
+"sha256": "1b824ad65578a10ed9d9218ef68845ca523194c63c374cc4e351422362fd3c55"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+288,
+72,
+312,
+96
+],
+"ow": 24,
+"oh": 24,
+"sha256": "f698b2be6d46c061912ccaa975b914607a30d02c31adb74ad322a865d3174606"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+96,
+216,
+120,
+240
+],
+"ow": 24,
+"oh": 24,
+"sha256": "dd4837cc59c8d3f98bbb94cef998d9c4d036451c8407070ac38d6ac9b8d8dc17"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+96,
+96,
+120,
+120
+],
+"ow": 24,
+"oh": 24,
+"sha256": "d3e2c919fc045622dfa109074c09d7094baf2a4b06948062076366537ed7a191"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+264,
+144,
+288,
+168
+],
+"ow": 24,
+"oh": 24,
+"sha256": "56f2eb1c00f041a545e6466c3d2c151d58ed5a360244a81b79deba0ed389c7f9"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+72,
+72,
+96,
+96
+],
+"ow": 24,
+"oh": 24,
+"sha256": "00c218b8c792f4d219f46845b4474cf6d2e61ec3f2689ff2613cf6da27178958"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+192,
+216,
+216,
+240
+],
+"ow": 24,
+"oh": 24,
+"sha256": "939ce2418bfe4241f3c577dfa400933e25f18025d4d3b30aa883cff80130b2c9"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+144,
+192,
+168,
+216
+],
+"ow": 24,
+"oh": 24,
+"sha256": "384d97de1cfa35b410a126ef0614f606110f9938d1adcb14e206c21f5c77c82e"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 23,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+116,
+0,
+139,
+24
+],
+"ow": 23,
+"oh": 24,
+"sha256": "25fc75f80a91885c8b80d9e556f2ec1a8f135352b2a7f52e07034d7460de1cdd"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+480,
+144,
+504,
+168
+],
+"ow": 24,
+"oh": 24,
+"sha256": "12fbe667b71d06a05b3d7e8d3b49dfeebe6ac34727d58995d39ae14d946428c2"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+360,
+72,
+384,
+96
+],
+"ow": 24,
+"oh": 24,
+"sha256": "36b4b9a1db663fd39f9c883da2e1232765c9267863c388773687c412547f5bb9"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+432,
+216,
+456,
+240
+],
+"ow": 24,
+"oh": 24,
+"sha256": "db3ae6b6a624dd8bb253ddf58de210e699a0099158b01be330adea79600441f1"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+312,
+192,
+336,
+216
+],
+"ow": 24,
+"oh": 24,
+"sha256": "7d79c9530ff2b10670080c67d0907c726e25d3289ccf0207d43a95bcd5dbad75"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+72,
+216,
+96,
+240
+],
+"ow": 24,
+"oh": 24,
+"sha256": "d561265102bf40db1ec8569756066a24b1d529b7e2ab5798c4f694a25fcfa484"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 21,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+216,
+192,
+237,
+216
+],
+"ow": 21,
+"oh": 24,
+"sha256": "dfce831a9e514ae85353b105aa8db51facfe8c4254fe73c56a7c5c30a633c161"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+72,
+144,
+96,
+168
+],
+"ow": 24,
+"oh": 24,
+"sha256": "a394100ca933e76e44c79f0344bf04f5d0171ec3f680cb65930bb23662cafd48"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+384,
+96,
+408,
+120
+],
+"ow": 24,
+"oh": 24,
+"sha256": "d5127609dd9f368d9a74cea6d81af287cf23814d878628cf0266bb2899c3dae3"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+456,
+72,
+480,
+96
+],
+"ow": 24,
+"oh": 24,
+"sha256": "7d2d4a07f7fe47762651721e2cde12494a08e58a87ea848d546aa542454168ab"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+456,
+216,
+480,
+240
+],
+"ow": 24,
+"oh": 24,
+"sha256": "067b682a43fdfc07078c7977c01b53684c0d07f9ff5ea055479722f4869b61f1"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+240,
+120,
+264,
+144
+],
+"ow": 24,
+"oh": 24,
+"sha256": "3962c32dcf9c772380a4073baeff14b89b3d5bbe6ee9dcc2abc05e7d927e7a34"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+432,
+72,
+456,
+96
+],
+"ow": 24,
+"oh": 24,
+"sha256": "1d06f58b07f623162be8c321475c70f8874a9567d74a855b59f8c140ad576b9e"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+24,
+192,
+48,
+216
+],
+"ow": 24,
+"oh": 24,
+"sha256": "c30a0719e3ca99ac66dd00e1132f417d6bc24b75807cfc14f99baf9d3fe03742"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+380,
+48,
+404,
+72
+],
+"ow": 24,
+"oh": 24,
+"sha256": "0d44898097cea7a635023f11421e46eca5b9762238aa276270a81c7c3cc03ac7"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+480,
+120,
+504,
+144
+],
+"ow": 24,
+"oh": 24,
+"sha256": "4445d8eb3292a2f315b6bfa249414d3f7f5cdee70ed0f68c2c154d4d35adfbeb"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+48,
+192,
+72,
+216
+],
+"ow": 24,
+"oh": 24,
+"sha256": "44c2f3c6d84c493fc34a722b77452305431b79db553ab0e77e7d25b517fffb68"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 23,
+"x": 0,
+"y": 1,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+44,
+48,
+68,
+71
+],
+"ow": 24,
+"oh": 23,
+"sha256": "47209f405d894662934bfcb389aa5f9e3d0b0793b6aa7c7e6db7d8f45e17b363"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+480,
+96,
+504,
+120
+],
+"ow": 24,
+"oh": 24,
+"sha256": "f58432b920ae40585a64cadba665b31ead70677bc66bca5cad2dc9913d63cd39"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+456,
+96,
+480,
+120
+],
+"ow": 24,
+"oh": 24,
+"sha256": "72602f33b22e2a36b6c23896fbb70d9187142177497d651453c77f16bad82541"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 23,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+360,
+120,
+383,
+144
+],
+"ow": 23,
+"oh": 24,
+"sha256": "06ab9eae71208f7788fa8cfe4a8cfe2c304769e87c8df5ab08ca2a79b9e1b72c"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 23,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+332,
+48,
+355,
+72
+],
+"ow": 23,
+"oh": 24,
+"sha256": "b46e4c7a904e3ee0c7b65b29a81b63aaa08fd3b6faae87ff5769d416d5809d7e"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 23,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+120,
+96,
+143,
+120
+],
+"ow": 23,
+"oh": 24,
+"sha256": "c6181d43cc49685466a9d57f8f6bb0f9fe6c985d02d56cc420c0a6f0400a2713"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+0,
+216,
+24,
+240
+],
+"ow": 24,
+"oh": 24,
+"sha256": "f3727e372a968e59de1a59f6bd1f4e55e7f93adb77fd2aa08c28ef7568d71669"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+188,
+48,
+212,
+72
+],
+"ow": 24,
+"oh": 24,
+"sha256": "115d1ed3b94df2689b063777d91b399d59bef03e5c492845d6232592c84358da"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 23,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+360,
+168,
+383,
+192
+],
+"ow": 23,
+"oh": 24,
+"sha256": "5d2ebe8db1b1e94bd4bda4f9532d640adfe318a7fc112817d14f6d02a591fce5"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+72,
+192,
+96,
+216
+],
+"ow": 24,
+"oh": 24,
+"sha256": "621a0275c266ec8930f1e4a2fcabf55de75fd721e8b80a4cf3fb44bc4ad0e799"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+452,
+48,
+476,
+72
+],
+"ow": 24,
+"oh": 24,
+"sha256": "e8559b4680a58cbb86c6c5af37e646912ea9da71afb0bfa12bf3480fc63418be"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+452,
+24,
+476,
+48
+],
+"ow": 24,
+"oh": 24,
+"sha256": "21f7401d2b7dbd50547be97447f80d918c68580af4a364d7e5779b14fc67d7c9"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 23,
+"x": 0,
+"y": 1,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+116,
+48,
+140,
+71
+],
+"ow": 24,
+"oh": 23,
+"sha256": "d63745baec054459222036c4ecb18c6645310f0fa221e7f51e191a08c8933447"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 23,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+144,
+120,
+167,
+144
+],
+"ow": 23,
+"oh": 24,
+"sha256": "67ba62fc5eb0bf0238f6f8a546d2e50a1cce726d58047b2c0afec3fb96ce7600"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+68,
+48,
+92,
+72
+],
+"ow": 24,
+"oh": 24,
+"sha256": "4f22c1fce40748cf76d2aef3b76f3a59ca3da6d9ba6f39bac72fab4b3bc8f5ae"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+336,
+168,
+360,
+192
+],
+"ow": 24,
+"oh": 24,
+"sha256": "ed2886e9b2d981ea37f154949cb18bc4c8fec8cbff077b5405b2ad597382b0bf"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+216,
+144,
+240,
+168
+],
+"ow": 24,
+"oh": 24,
+"sha256": "89ffb79772c0f812df820216d1a91d746941484c7ab72939e6d7a103720d12b4"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+188,
+24,
+212,
+48
+],
+"ow": 24,
+"oh": 24,
+"sha256": "eb9ba5b4d41ff73667541390cbf3c06d9bba5e23000d53f882ee177e19a5ab34"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+384,
+168,
+408,
+192
+],
+"ow": 24,
+"oh": 24,
+"sha256": "9f8b9ea9fd6a9363249479d3225926c674dc6e49051755991ee78e7f4fd1a2d5"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+168,
+216,
+192,
+240
+],
+"ow": 24,
+"oh": 24,
+"sha256": "d11ab323e816fb5c4a13fa14bae7f87b26dafffffe91b34f734d7e2a9e9c5319"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+284,
+0,
+308,
+24
+],
+"ow": 24,
+"oh": 24,
+"sha256": "71da3ee6d88349181035ade2d71812afa29ec6ab89f7833abc449431cd063092"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+168,
+72,
+192,
+96
+],
+"ow": 24,
+"oh": 24,
+"sha256": "96bc75dfb719529942dde7689659117505342891414e491df174ba36bd429757"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+356,
+0,
+380,
+24
+],
+"ow": 24,
+"oh": 24,
+"sha256": "c0a3fd3bbd37792414f40408d30cef635349dcd596299bbc49ced03a694181e4"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+216,
+168,
+240,
+192
+],
+"ow": 24,
+"oh": 24,
+"sha256": "e53c79273beada9835fd143deb8463d7e56345afd4f0746331ba0172793a4a70"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+428,
+0,
+452,
+24
+],
+"ow": 24,
+"oh": 24,
+"sha256": "448f9a66be5b3b8d28ac9c18eeedbf4d26bfc289b264011080a428678bf9475b"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+288,
+144,
+312,
+168
+],
+"ow": 24,
+"oh": 24,
+"sha256": "366105029742468cb149a08282623a3ce8f9e051f39e16ce481799b077662aca"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+24,
+168,
+48,
+192
+],
+"ow": 24,
+"oh": 24,
+"sha256": "df4662ec0657fe31475e07f4831564353dde6e687237ec197f3ecc10b5e75973"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 23,
+"x": 0,
+"y": 1,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+240,
+144,
+264,
+167
+],
+"ow": 24,
+"oh": 23,
+"sha256": "bd6c10e1d140b277a4025fc2390052c66f47b5c727d2ca0a61060435606c9b31"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+144,
+72,
+168,
+96
+],
+"ow": 24,
+"oh": 24,
+"sha256": "889bfd0835248ac341131620957f0ac708dfcc7e48e0347d721caa251d7e0ea3"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+360,
+192,
+384,
+216
+],
+"ow": 24,
+"oh": 24,
+"sha256": "47671b562e5f617a386c45063addfef3252b07cd643fa1b46abdb724f7d029d9"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+264,
+120,
+288,
+144
+],
+"ow": 24,
+"oh": 24,
+"sha256": "e4aa27f9e9034cba83b86cf3e40c64d7ce137b12c66d57dca7bf829c677d12c9"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 22,
+"h": 23,
+"x": 0,
+"y": 1,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+48,
+144,
+70,
+167
+],
+"ow": 22,
+"oh": 23,
+"sha256": "66223f86349e28adea196a6d9a240297304c10f4738a385f9278aebd073ffdee"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+384,
+192,
+408,
+216
+],
+"ow": 24,
+"oh": 24,
+"sha256": "9c8303af7f87ebddbc95e44c5dc15e33f12f1d7d0814826e983f237e5ec09c21"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+456,
+120,
+480,
+144
+],
+"ow": 24,
+"oh": 24,
+"sha256": "0d592c6d47a1d58c8d9762c8e6d4ed3796497b3641e3ffc24dfab5abcf610b55"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 23,
+"x": 0,
+"y": 1,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+308,
+24,
+332,
+47
+],
+"ow": 24,
+"oh": 23,
+"sha256": "6ba89bd80c32df549d83e96c78ce94b1a465bf86d8254c893fb35adf7f35e5e9"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 23,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+24,
+96,
+47,
+120
+],
+"ow": 23,
+"oh": 24,
+"sha256": "4889d66a8839c17337f83271c1f0389570684062d2afdffaad73087f89a6e8ec"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+72,
+96,
+96,
+120
+],
+"ow": 24,
+"oh": 24,
+"sha256": "cd9bba514919f391640e3ef1d70d20b91c1b08d52b7d156c589212d78c22164b"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+356,
+48,
+380,
+72
+],
+"ow": 24,
+"oh": 24,
+"sha256": "8e9092ed5a1ae1cd183b9a8f92ba982f73f31749bebf9b56f7f4fd30cdab7579"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+360,
+96,
+384,
+120
+],
+"ow": 24,
+"oh": 24,
+"sha256": "a8fe1ce48bb9fdd3b125748e8747891e6bd1467af753a07a3534a09c5b10026b"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 23,
+"x": 0,
+"y": 1,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+336,
+192,
+360,
+215
+],
+"ow": 24,
+"oh": 23,
+"sha256": "7e1e4f25623c180d5eff423cd3bb94aa2b260f5ffc55215e37c1f58c6d356d39"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+140,
+0,
+164,
+24
+],
+"ow": 24,
+"oh": 24,
+"sha256": "b752b0b98258d9bffd6c84cccfdae5606211a862a121d06cbddf162c2e7295b3"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+476,
+24,
+500,
+48
+],
+"ow": 24,
+"oh": 24,
+"sha256": "18e4aa6a9a2f9f1b645468fe1dc78ff1c3f8b8b0ee52f3990b25b498025f2003"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+72,
+120,
+96,
+144
+],
+"ow": 24,
+"oh": 24,
+"sha256": "bd8b304cfdbb1702a5a22f7c0565a40898e300c13eb34a0c2bb0b1b8dbd2f974"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+144,
+144,
+168,
+168
+],
+"ow": 24,
+"oh": 24,
+"sha256": "9f46446b4cd3088ec6bcf27b0d82957f316b405a43c0d14acf68d8a2c4b24e60"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+48,
+216,
+72,
+240
+],
+"ow": 24,
+"oh": 24,
+"sha256": "9f064e8255aa8b0871fe2964df4c7a42636a4a3cfc699735e25d5fedd1675942"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+308,
+48,
+332,
+72
+],
+"ow": 24,
+"oh": 24,
+"sha256": "36ece1e182e16ca0b0d896adbabd9d70bef268759209bb7b4d529a819c81147d"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+120,
+168,
+144,
+192
+],
+"ow": 24,
+"oh": 24,
+"sha256": "cd14e75e18dc7ff784c88f74c9119e4277f6fee00f1a2443f9c17a065a47c578"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+24,
+216,
+48,
+240
+],
+"ow": 24,
+"oh": 24,
+"sha256": "abf03cdd0b3780aeeb9bea0bb7c43614b287f470dd2e25646fb3cc9db57ca0f8"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+260,
+0,
+284,
+24
+],
+"ow": 24,
+"oh": 24,
+"sha256": "7f58dd20f67f76ebddae42ee8ecaf114bfd28b9919e8fb3041d017baaac80158"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 21,
+"x": 0,
+"y": 3,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+480,
+192,
+504,
+213
+],
+"ow": 24,
+"oh": 21,
+"sha256": "ce140330a1478e83d2a9329cef24670513fd8656b9ec31dc0e2f70b250432caa"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 20,
+"x": 0,
+"y": 4,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+20,
+24,
+44,
+44
+],
+"ow": 24,
+"oh": 20,
+"sha256": "7c152667aa1f4fe14d1b51c99c6fc0ce769c41a75e9622a4f0dd17debc011e2c"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+0,
+0,
+24,
+24
+],
+"ow": 24,
+"oh": 24,
+"sha256": "2cf932a0406450c2ccb391e32a2c202097ae59c351ba00dbca31509eb05ef5de"
+},
+{
+"type": 18,
+"compressed": 7,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+72,
+168,
+96,
+192
+],
+"ow": 24,
+"oh": 24,
+"sha256": "a2a63cd79747196dc8e8694013ea2eace66fcc8aaba50005649f364ee62ac357"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 461,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 24,
+"oh": 24,
+"sha256": "b10550491a027d658717b0de9cf010af0e364536fdd3209dc63bfff99645fd43"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 393,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 24,
+"oh": 24,
+"sha256": "8431dd160abe5c1f685e06f1b1804fcecc0127f174cb37f5281e2bd9e01cf72b"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 400,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 24,
+"oh": 24,
+"sha256": "c64840544dd73b8269a0091a5a34259c69cba589f43f362eb1264530a593c9bf"
+},
+{
+"type": 16,
+"compressed": 6,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 1738,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 24,
+"oh": 24,
+"sha256": "4a08ff289e90c4dd04e5087fc66b1cff4d90532eb62f667499c4e9865a967e7e"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 448,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 24,
+"oh": 24,
+"sha256": "f55180ec814fdd84449cc681e13004c67f98d041f90c61a37d877ec05c6d0ce0"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 381,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 24,
+"oh": 24,
+"sha256": "c8bdef5d6f1251f466abebe94a53ca3f0b3f65c9852c59d194c5424da8f22280"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 516,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 24,
+"oh": 24,
+"sha256": "39fbfdcd991e7fa58e89b9f565a1e8cf21605e33de839ad56f35dfccada03abb"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 385,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 24,
+"oh": 24,
+"sha256": "8c441e140fcfe0de96f0d4995f2604a8f011ac00b8b83df6eb39d28b17a4dc68"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 370,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 24,
+"oh": 24,
+"sha256": "632d7641ba8d7cb92d9f7193ef732b3152fa9970300c6b4ea83a9e668069f720"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 304,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 24,
+"oh": 24,
+"sha256": "60e09eb30037291097b3cbf9d367dce4df19161633c6a309d28ed2a7b94ec222"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 345,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 24,
+"oh": 24,
+"sha256": "33a6538d9bd5856038876e145ff746854dc186b2ac0759c1ba92e4c0b9787fdd"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 327,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 24,
+"oh": 24,
+"sha256": "67aaf0c083abd4cee5610d6dfc0f8ad0a6b9110b2cb0b06cb23a9a8585388e46"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 359,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 24,
+"oh": 24,
+"sha256": "644726be4d03ad3cdd09b4b6cb5c14c3ca19e31350af03a64b7a15ad9f039076"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 383,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 24,
+"oh": 24,
+"sha256": "f75638de4f44a61bc2e5a8f11869424ebdbdf5999f91afb42b8aa6208175f6e2"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 345,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 24,
+"oh": 24,
+"sha256": "55742dc4392a57102e754c2ef2d7282a93be02a1aa09e1ad2781cd1bd4dc6ec6"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 333,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 24,
+"oh": 24,
+"sha256": "cb2f4b49cbdc7108aa39d5657f1c531309079ece87145b452402adab6ccb6c87"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 334,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 24,
+"oh": 24,
+"sha256": "c57c2c00977977a08e52c77e068355d88a25b5d8b21e38a0db150a7a6b791b08"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 337,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 24,
+"oh": 24,
+"sha256": "8e0c90194a247d569fa57b858bd0b00e02fe768429d6f52210a3f22740d43d54"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 309,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 24,
+"oh": 24,
+"sha256": "4061e21cc1d127945f587f5426f10e39be9e82977480562feb8c64559a234b1a"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 241,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 24,
+"oh": 24,
+"sha256": "6f04a492edf0b2151ece84a53f742efba3d17b73cd2647c7f324a6cfb26b154f"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 237,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 24,
+"oh": 24,
+"sha256": "160eeb4fafb94cbd9aa0dceb8db78ffd869584cc9856a7c618d97854d9b87855"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 526,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 24,
+"oh": 24,
+"sha256": "cd05b5fe6ecccbb5b978b6de5c4e666bbd5b222c89f22686cce7bbd6731baf13"
+},
+{
+"type": 14,
+"compressed": 6,
+"w": 24,
+"h": 24,
+"x": 0,
+"y": 0,
+"cw": 24,
+"ch": 24,
+"length": 190,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 24,
+"oh": 24,
+"sha256": "ed29e73bc1332165b668748c9dabeaffdd9e43680e38e1e9f14f2f93ed265ecb"
+}
+]
+},
+"sysfont": {
+"path": "/mnt/e/dnf-sf/sf115/人造神客户端/ImagePacks2/!                                                       sprite_common_digit_tp.NPK",
+"entry": "red_systemfont.img",
+"size": 2817,
+"version": 5,
+"frameCount": 11,
+"paletteSizes": [
+0
+],
+"dds": [
+{
+"title": 1,
+"pixel_format": 14,
+"full_length": 33,
+"length": 140,
+"width": 7,
+"height": 10
+},
+{
+"title": 1,
+"pixel_format": 14,
+"full_length": 27,
+"length": 100,
+"width": 5,
+"height": 10
+},
+{
+"title": 1,
+"pixel_format": 14,
+"full_length": 38,
+"length": 140,
+"width": 7,
+"height": 10
+},
+{
+"title": 1,
+"pixel_format": 14,
+"full_length": 40,
+"length": 140,
+"width": 7,
+"height": 10
+},
+{
+"title": 1,
+"pixel_format": 14,
+"full_length": 50,
+"length": 140,
+"width": 7,
+"height": 10
+},
+{
+"title": 1,
+"pixel_format": 14,
+"full_length": 39,
+"length": 140,
+"width": 7,
+"height": 10
+},
+{
+"title": 1,
+"pixel_format": 14,
+"full_length": 37,
+"length": 140,
+"width": 7,
+"height": 10
+},
+{
+"title": 1,
+"pixel_format": 14,
+"full_length": 34,
+"length": 140,
+"width": 7,
+"height": 10
+},
+{
+"title": 1,
+"pixel_format": 14,
+"full_length": 32,
+"length": 140,
+"width": 7,
+"height": 10
+},
+{
+"title": 1,
+"pixel_format": 14,
+"full_length": 39,
+"length": 140,
+"width": 7,
+"height": 10
+},
+{
+"title": 1,
+"pixel_format": 16,
+"full_length": 1392,
+"length": 13500,
+"width": 75,
+"height": 45
+}
+],
+"frames": [
+{
+"type": 14,
+"compressed": 7,
+"w": 7,
+"h": 10,
+"x": 0,
+"y": 0,
+"cw": 7,
+"ch": 10,
+"length": 0,
+"ref": -1,
+"dds": 0,
+"crop": [
+0,
+0,
+7,
+10
+],
+"ow": 7,
+"oh": 10,
+"sha256": "35bff9d5f577116575f24a9c4d121cd09d0cc6197f050515a21b6b4ca281d046"
+},
+{
+"type": 14,
+"compressed": 7,
+"w": 5,
+"h": 10,
+"x": 0,
+"y": 0,
+"cw": 7,
+"ch": 10,
+"length": 0,
+"ref": -1,
+"dds": 1,
+"crop": [
+0,
+0,
+5,
+10
+],
+"ow": 5,
+"oh": 10,
+"sha256": "8ff48c62d7ae5241614ac347f3d32842c7acb93c1252f81c1161d8b12794c715"
+},
+{
+"type": 14,
+"compressed": 7,
+"w": 7,
+"h": 10,
+"x": 0,
+"y": 0,
+"cw": 7,
+"ch": 10,
+"length": 0,
+"ref": -1,
+"dds": 2,
+"crop": [
+0,
+0,
+7,
+10
+],
+"ow": 7,
+"oh": 10,
+"sha256": "f0f71a07dbcee3ee1716be1810e241e5d40bb5f3bb71efbd736e104117331cc2"
+},
+{
+"type": 14,
+"compressed": 7,
+"w": 7,
+"h": 10,
+"x": 0,
+"y": 0,
+"cw": 7,
+"ch": 10,
+"length": 0,
+"ref": -1,
+"dds": 3,
+"crop": [
+0,
+0,
+7,
+10
+],
+"ow": 7,
+"oh": 10,
+"sha256": "edfad026ddc70c13f0570e9b17e59249a2d731331f6cb99e41cac3ecb1e71695"
+},
+{
+"type": 14,
+"compressed": 7,
+"w": 7,
+"h": 10,
+"x": 0,
+"y": 0,
+"cw": 7,
+"ch": 10,
+"length": 0,
+"ref": -1,
+"dds": 4,
+"crop": [
+0,
+0,
+7,
+10
+],
+"ow": 7,
+"oh": 10,
+"sha256": "eb0ca9e2f9e9390a9b11e6af4239978f2c9aadf0c183d15b10cf8b7c0254564d"
+},
+{
+"type": 14,
+"compressed": 7,
+"w": 7,
+"h": 10,
+"x": 0,
+"y": 0,
+"cw": 7,
+"ch": 10,
+"length": 0,
+"ref": -1,
+"dds": 5,
+"crop": [
+0,
+0,
+7,
+10
+],
+"ow": 7,
+"oh": 10,
+"sha256": "b2df70155342a576ed29219d6cba09ff0b94b6cb597d219f415bcac28da23b82"
+},
+{
+"type": 14,
+"compressed": 7,
+"w": 7,
+"h": 10,
+"x": 0,
+"y": 0,
+"cw": 7,
+"ch": 10,
+"length": 0,
+"ref": -1,
+"dds": 6,
+"crop": [
+0,
+0,
+7,
+10
+],
+"ow": 7,
+"oh": 10,
+"sha256": "c7c2968e2e1b143ed9346c91d39c8d843a979f675c250d5baa8ead413449acce"
+},
+{
+"type": 14,
+"compressed": 7,
+"w": 7,
+"h": 10,
+"x": 0,
+"y": 0,
+"cw": 7,
+"ch": 10,
+"length": 0,
+"ref": -1,
+"dds": 7,
+"crop": [
+0,
+0,
+7,
+10
+],
+"ow": 7,
+"oh": 10,
+"sha256": "033e368a3a6a1344e4bc3b213c5df3a90b92cf9f328801bf5e4af4a4fbea75e2"
+},
+{
+"type": 14,
+"compressed": 7,
+"w": 7,
+"h": 10,
+"x": 0,
+"y": 0,
+"cw": 7,
+"ch": 10,
+"length": 0,
+"ref": -1,
+"dds": 8,
+"crop": [
+0,
+0,
+7,
+10
+],
+"ow": 7,
+"oh": 10,
+"sha256": "b54031996fda5cb8bcce29a9f91b8ee3cfcb2f2437b0159bd4073a429ff781a3"
+},
+{
+"type": 14,
+"compressed": 7,
+"w": 7,
+"h": 10,
+"x": 0,
+"y": 0,
+"cw": 7,
+"ch": 10,
+"length": 0,
+"ref": -1,
+"dds": 9,
+"crop": [
+0,
+0,
+7,
+10
+],
+"ow": 7,
+"oh": 10,
+"sha256": "01d8cc94207b15baf24632595707cb3c543f24d0d1354c044646fabfc12ac497"
+},
+{
+"type": 16,
+"compressed": 7,
+"w": 75,
+"h": 45,
+"x": 1,
+"y": 5,
+"cw": 75,
+"ch": 45,
+"length": 0,
+"ref": -1,
+"dds": 10,
+"crop": [
+0,
+0,
+75,
+45
+],
+"ow": 75,
+"oh": 45,
+"sha256": "ab542532af447d388a7fc2dc5fe14351a3824874cfba0caf403daf22ea60300b"
+}
+]
+},
+"blast_v1": {
+"path": "/mnt/e/dnf-sf/sf115/人造神客户端/ImagePacks2/!!!!!!!!!!!!!!!!!!整合的NPK.NPK",
+"entry": "sprite/common/commoneffect/blast1.img",
+"size": 446868,
+"version": 1,
+"frameCount": 15,
+"paletteSizes": [],
+"dds": [],
+"frames": [
+{
+"type": 16,
+"compressed": 6,
+"w": 92,
+"h": 47,
+"x": 135,
+"y": 485,
+"cw": 375,
+"ch": 600,
+"length": 3901,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 92,
+"oh": 47,
+"sha256": "a1798e87b1bf021ac1ab5891822ad0cb66f6d1446863136358f987fb535bc5d0"
+},
+{
+"type": 16,
+"compressed": 6,
+"w": 92,
+"h": 29,
+"x": 135,
+"y": 515,
+"cw": 375,
+"ch": 600,
+"length": 8553,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 92,
+"oh": 29,
+"sha256": "c4e012b556b4bc261ee8d74467f851d3fc0b9e34864a90273c733ce8d9b256b1"
+},
+{
+"type": 16,
+"compressed": 6,
+"w": 92,
+"h": 358,
+"x": 135,
+"y": 174,
+"cw": 375,
+"ch": 600,
+"length": 5575,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 92,
+"oh": 358,
+"sha256": "df838e4dbc0d24e2f022b8f969f021e364c03789383035eabcb50f269e26f09f"
+},
+{
+"type": 16,
+"compressed": 6,
+"w": 101,
+"h": 335,
+"x": 135,
+"y": 197,
+"cw": 375,
+"ch": 600,
+"length": 6734,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 101,
+"oh": 335,
+"sha256": "87395cfb2da9ea79bd04eda3997c2c53fa5d6ed4cb837df41fc45dcbd8da4edc"
+},
+{
+"type": 16,
+"compressed": 6,
+"w": 179,
+"h": 552,
+"x": 95,
+"y": 0,
+"cw": 375,
+"ch": 600,
+"length": 39913,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 179,
+"oh": 552,
+"sha256": "f1e4c6bddb3f170c722a68340f0c14c3ddffbdec27097c1cb45370a69680fa19"
+},
+{
+"type": 16,
+"compressed": 6,
+"w": 215,
+"h": 562,
+"x": 78,
+"y": 0,
+"cw": 375,
+"ch": 600,
+"length": 43028,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 215,
+"oh": 562,
+"sha256": "ee965198b32ec789962ed140daa1c4c9eb4fd4f9a0b529ddb95a40bbaedc20cc"
+},
+{
+"type": 16,
+"compressed": 6,
+"w": 219,
+"h": 561,
+"x": 72,
+"y": 0,
+"cw": 375,
+"ch": 600,
+"length": 36656,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 219,
+"oh": 561,
+"sha256": "7b5464b63506d5bd227cfc528e0de85bbece6b60d0635598fe9a5b02d7b6d7fe"
+},
+{
+"type": 16,
+"compressed": 6,
+"w": 269,
+"h": 568,
+"x": 52,
+"y": 0,
+"cw": 375,
+"ch": 600,
+"length": 67343,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 269,
+"oh": 568,
+"sha256": "df5e49e609e4f34be9b3a920e99f85b44f409cf6ef8a3392f9e79002e2dd006c"
+},
+{
+"type": 16,
+"compressed": 6,
+"w": 312,
+"h": 588,
+"x": 19,
+"y": 0,
+"cw": 375,
+"ch": 600,
+"length": 82381,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 312,
+"oh": 588,
+"sha256": "bc67899c4dc2552d60d167ab35405551820cc58763503334ffa80c68be4af1bb"
+},
+{
+"type": 16,
+"compressed": 6,
+"w": 313,
+"h": 580,
+"x": 26,
+"y": 0,
+"cw": 375,
+"ch": 600,
+"length": 74771,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 313,
+"oh": 580,
+"sha256": "3025303785f7a11f4b338423146d9f8e1351cc1dc99731df8ac1cdf1f1a221e5"
+},
+{
+"type": 16,
+"compressed": 6,
+"w": 359,
+"h": 530,
+"x": 5,
+"y": 65,
+"cw": 375,
+"ch": 600,
+"length": 53421,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 359,
+"oh": 530,
+"sha256": "0e34c39a078150a5921f55566aafc5b33a08ca24c0dae68cf801d0aeb2e40949"
+},
+{
+"type": 16,
+"compressed": 6,
+"w": 92,
+"h": 390,
+"x": 135,
+"y": 148,
+"cw": 375,
+"ch": 600,
+"length": 15130,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 92,
+"oh": 390,
+"sha256": "3694644e97c631510e6e46c4b9f4f5bdd19de125a7fa9dff8ba956fa9e296346"
+},
+{
+"type": 16,
+"compressed": 6,
+"w": 92,
+"h": 17,
+"x": 135,
+"y": 515,
+"cw": 375,
+"ch": 600,
+"length": 3363,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 92,
+"oh": 17,
+"sha256": "2f231eecf9e11ada3e618389394cc42a16f2574b21b548e8880fb584106cc822"
+},
+{
+"type": 16,
+"compressed": 6,
+"w": 92,
+"h": 17,
+"x": 135,
+"y": 515,
+"cw": 375,
+"ch": 600,
+"length": 2793,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 92,
+"oh": 17,
+"sha256": "01af94fbb48c1e3c36ddb4b490ed88bfa00392f10c69fc317d30d2ef04abae92"
+},
+{
+"type": 16,
+"compressed": 6,
+"w": 92,
+"h": 17,
+"x": 135,
+"y": 515,
+"cw": 375,
+"ch": 600,
+"length": 2734,
+"ref": -1,
+"dds": -1,
+"crop": [
+0,
+0,
+0,
+0
+],
+"ow": 92,
+"oh": 17,
+"sha256": "aa8cbf57c0cf76917235ebdad2029c654f0e9e4c2a9793332ff3fb350fc083fa"
+}
+],
+"align": true
+}
+},
+"oggs": {
+"ui_acc": {
+"path": "/mnt/e/dnf-sf/sf115/人造神客户端/SoundPacks/! sounds_equip_acc.npk",
+"entry": "sounds/equip/acc/assist_touch.ogg",
+"size": 8035,
+"channels": 1,
+"sampleRate": 44100,
+"sha256": "009a569cf0943ee12c2979c7deaf1f42ca86e756b9956331166be096f7a34788"
+},
+"pet": {
+"path": "/mnt/e/dnf-sf/sf115/人造神客户端/SoundPacks/sounds_pet.npk",
+"entry": "sounds/pet/falcon_hit.ogg",
+"size": 10400,
+"channels": 1,
+"sampleRate": 44100,
+"sha256": "0d1552079b85a1387899d498a1364f33722a6a249016abcf8ad51c50ebf4d65e"
+}
+},
+"v4pack": {
+"path": "/mnt/e/dnf-sf/sf85/老牛DNF客户端/ImagePacks2/sprite_character_demoniclancer_equipment_avatar_belt.NPK",
+"size": 2278701
+}
+}

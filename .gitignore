@@ -1,0 +1,62 @@
+# ============================================================
+# 资源 / 生成物：暂时不上传（2026-11-26 首次入库时定的边界）
+# 原则：只收「人写的源码 / 配置 / 文档」，不收游戏原始数据、
+#      解包导出、截图、构建产物、第三方发行包。
+# ============================================================
+
+# —— 原始游戏数据 & 解包导出 ——
+/Script.pvf
+/data/
+/build/
+/export/
+/logs/
+/analysis/**
+!/analysis/**/
+!/analysis/*.md
+!/analysis/**/*.md
+
+# —— 纯图片产物 ——
+/dnf_demo/
+/ui_preview/
+
+# —— tools 里的大件 / 第三方 / 构建产物 ——
+/tools/godot/
+/tools/pvf_python/
+/tools/smoke/build/
+/tools/npk_inspector/dist/
+/tools/npk_inspector/web/demo_data.js
+/tools/npk_inspector/test/samples/
+**/__pycache__/
+*.pyc
+
+# —— 备份 / 临时 / 本机环境 ——
+/.venv/
+/.tmp_*/
+/.ui_dev/
+/.agent-teams/
+/.vscode/
+/sqr_gd_bak/
+/sqr_src/
+/src/
+/scripts/
+/pass.txt
+/*.zip
+*.bak*
+*~
+**/.godot/
+**/.tmp_udata*/
+**/.tmp_udata_real/
+**/data/debug/
+
+# —— 指向仓库外的软链（克隆后没有意义）——
+/dnf85
+/dnf_latest
+/DNF_Extractor
+/dnf_like
+/dnf_like.code-workspace
+/docs/dnf-agent-collaboration
+/docs/decision-log.md
+
+# 已排除：Squirrel 翻译/源码（2026-11-26 用户决定不留）
+/sqr_gd/
+/sqr_src_utf8/

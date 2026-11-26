@@ -1,0 +1,992 @@
+{
+ "source": "Script.pvf:clientonly/hotkeysystem_ver3.co",
+ "client_version": "34.3.13.22",
+ "note": "默认键位在客户端是可配置项，本表从数据里导出的是空；default_key 恒为空字符串。",
+ "count": 123,
+ "entries": [
+  {
+   "id": "C03",
+   "name": "召唤/解除召唤",
+   "scope": "character",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "C04",
+   "name": "骑乘/解除骑乘",
+   "scope": "character",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I01",
+   "name": "移动 (↑)",
+   "scope": "character",
+   "side": "left",
+   "type": "NormalType",
+   "default_key": ""
+  },
+  {
+   "id": "I02",
+   "name": "移动 (←)",
+   "scope": "character",
+   "side": "left",
+   "type": "NormalType",
+   "default_key": ""
+  },
+  {
+   "id": "I03",
+   "name": "移动 (↓)",
+   "scope": "character",
+   "side": "left",
+   "type": "NormalType",
+   "default_key": ""
+  },
+  {
+   "id": "I04",
+   "name": "移动 (→)",
+   "scope": "character",
+   "side": "left",
+   "type": "NormalType",
+   "default_key": ""
+  },
+  {
+   "id": "I06",
+   "name": "跳跃",
+   "scope": "character",
+   "side": "left",
+   "type": "NormalType",
+   "default_key": ""
+  },
+  {
+   "id": "I10",
+   "name": "个人信息",
+   "scope": "character",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I11",
+   "name": "技能栏",
+   "scope": "character",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I12",
+   "name": "装备栏",
+   "scope": "character",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I18",
+   "name": "宠物栏",
+   "scope": "character",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I19",
+   "name": "[详细/简要说明]转换",
+   "scope": "character",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I20",
+   "name": "任务手册",
+   "scope": "character",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I33",
+   "name": "物品快捷键 1",
+   "scope": "character",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I34",
+   "name": "物品快捷键 2",
+   "scope": "character",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I35",
+   "name": "物品快捷键 3",
+   "scope": "character",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I36",
+   "name": "物品快捷键 4",
+   "scope": "character",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I37",
+   "name": "物品快捷键 5",
+   "scope": "character",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I38",
+   "name": "物品快捷键 6",
+   "scope": "character",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I42",
+   "name": "[其它类别的技能说明]转换",
+   "scope": "character",
+   "side": "hide",
+   "type": "AradRoyalRumbleCommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I65",
+   "name": "副职业",
+   "scope": "character",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I69",
+   "name": "查看战绩",
+   "scope": "character",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I80",
+   "name": "套装属性/流派装备/普通属性说明",
+   "scope": "character",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "IA4",
+   "name": "誓约物品栏",
+   "scope": "character",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K00",
+   "name": "更改技能栏",
+   "scope": "character",
+   "side": "right",
+   "type": "CreatorType",
+   "default_key": ""
+  },
+  {
+   "id": "K14",
+   "name": "畅玩任务",
+   "scope": "character",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K27",
+   "name": "同时查看誓约属性",
+   "scope": "character",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I05",
+   "name": "普通攻击/决斗场准备",
+   "scope": "dungeon",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I07",
+   "name": "技能",
+   "scope": "dungeon",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I08",
+   "name": "技能2",
+   "scope": "dungeon",
+   "side": "left",
+   "type": "NormalType",
+   "default_key": ""
+  },
+  {
+   "id": "I09",
+   "name": "宠物技能指令",
+   "scope": "dungeon",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I21",
+   "name": "技能快捷键 1",
+   "scope": "dungeon",
+   "side": "left",
+   "type": "NormalType",
+   "default_key": ""
+  },
+  {
+   "id": "I22",
+   "name": "技能快捷键 2",
+   "scope": "dungeon",
+   "side": "left",
+   "type": "NormalType",
+   "default_key": ""
+  },
+  {
+   "id": "I23",
+   "name": "技能快捷键 3",
+   "scope": "dungeon",
+   "side": "left",
+   "type": "NormalType",
+   "default_key": ""
+  },
+  {
+   "id": "I24",
+   "name": "技能快捷键 4",
+   "scope": "dungeon",
+   "side": "left",
+   "type": "NormalType",
+   "default_key": ""
+  },
+  {
+   "id": "I25",
+   "name": "技能快捷键 5",
+   "scope": "dungeon",
+   "side": "left",
+   "type": "NormalType",
+   "default_key": ""
+  },
+  {
+   "id": "I26",
+   "name": "技能快捷键 6",
+   "scope": "dungeon",
+   "side": "left",
+   "type": "NormalType",
+   "default_key": ""
+  },
+  {
+   "id": "I27",
+   "name": "扩展技能快捷键 1",
+   "scope": "dungeon",
+   "side": "right",
+   "type": "NormalType",
+   "default_key": ""
+  },
+  {
+   "id": "I28",
+   "name": "扩展技能快捷键 2",
+   "scope": "dungeon",
+   "side": "right",
+   "type": "NormalType",
+   "default_key": ""
+  },
+  {
+   "id": "I29",
+   "name": "扩展技能快捷键 3",
+   "scope": "dungeon",
+   "side": "right",
+   "type": "NormalType",
+   "default_key": ""
+  },
+  {
+   "id": "I30",
+   "name": "扩展技能快捷键 4",
+   "scope": "dungeon",
+   "side": "right",
+   "type": "NormalType",
+   "default_key": ""
+  },
+  {
+   "id": "I31",
+   "name": "扩展技能快捷键 5",
+   "scope": "dungeon",
+   "side": "right",
+   "type": "NormalType",
+   "default_key": ""
+  },
+  {
+   "id": "I32",
+   "name": "扩展技能快捷键 6",
+   "scope": "dungeon",
+   "side": "right",
+   "type": "NormalType",
+   "default_key": ""
+  },
+  {
+   "id": "I39",
+   "name": "查看物品名称",
+   "scope": "dungeon",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I40",
+   "name": "隐藏界面/显示",
+   "scope": "dungeon",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I82",
+   "name": "再次挑战地下城",
+   "scope": "dungeon",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I83",
+   "name": "选择其它地下城",
+   "scope": "dungeon",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I84",
+   "name": "返回城镇",
+   "scope": "dungeon",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I95",
+   "name": "结算画面 开/关",
+   "scope": "dungeon",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I96",
+   "name": "开始下个任务",
+   "scope": "dungeon",
+   "side": "hide",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I99",
+   "name": "装备属性指令",
+   "scope": "dungeon",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K02",
+   "name": "地下城特殊键1",
+   "scope": "dungeon",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K12",
+   "name": "精锐角色模式 / 攻坚战特殊键",
+   "scope": "dungeon",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K35",
+   "name": "地下城特殊键2",
+   "scope": "dungeon",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "C00",
+   "name": "活动日历",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "C02",
+   "name": "麦克风设置",
+   "scope": "system",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I13",
+   "name": "游戏设置窗口",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I15",
+   "name": "装扮栏",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I16",
+   "name": "商城",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I17",
+   "name": "城镇地图/地下城地图",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I41",
+   "name": "角色名显示类型变换",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I44",
+   "name": "视频录制开始/停止",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I49",
+   "name": "关闭全部菜单/窗口",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I50",
+   "name": "决斗场",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I52",
+   "name": "队伍信息",
+   "scope": "system",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I53",
+   "name": "社交",
+   "scope": "system",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I54",
+   "name": "公会",
+   "scope": "system",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I59",
+   "name": "拍卖行",
+   "scope": "system",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I60",
+   "name": "哥布林密保",
+   "scope": "system",
+   "side": "left",
+   "type": "AradRoyalRumbleCommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I61",
+   "name": "快捷键设置",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I67",
+   "name": "活动技能",
+   "scope": "system",
+   "side": "hide",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I81",
+   "name": "称号簿",
+   "scope": "system",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I85",
+   "name": "阿拉德冒险团",
+   "scope": "system",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I86",
+   "name": "百科辞典",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I88",
+   "name": "邮件箱",
+   "scope": "system",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I90",
+   "name": "鼠标相关设置",
+   "scope": "system",
+   "side": "right",
+   "type": "CreatorType",
+   "default_key": ""
+  },
+  {
+   "id": "I91",
+   "name": "转换为副武器",
+   "scope": "system",
+   "side": "left",
+   "type": "NormalType",
+   "default_key": ""
+  },
+  {
+   "id": "I97",
+   "name": "史诗图鉴",
+   "scope": "system",
+   "side": "hide",
+   "type": "AradRoyalRumbleCommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I98",
+   "name": "频道选择窗口",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "IA0",
+   "name": "冒险指南",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "IA1",
+   "name": "打开全部菜单",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "IA2",
+   "name": "星蕴石图鉴",
+   "scope": "system",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "IA3",
+   "name": "星蕴石交换",
+   "scope": "system",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "IA5",
+   "name": "佣兵团讨伐委托",
+   "scope": "system",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "J00",
+   "name": "金币寄售",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K04",
+   "name": "攻坚商店",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K05",
+   "name": "语音聊天",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K06",
+   "name": "表情",
+   "scope": "system",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K07",
+   "name": "麦克风",
+   "scope": "system",
+   "side": "hide",
+   "type": "AradRoyalRumbleCommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K08",
+   "name": "人物辞典",
+   "scope": "system",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K13",
+   "name": "隐藏物品信息栏",
+   "scope": "system",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K15",
+   "name": "查看初始技能等级",
+   "scope": "system",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K16",
+   "name": "组合键1",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K17",
+   "name": "组合键2",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K18",
+   "name": "鼠标切换",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K19",
+   "name": "鼠标移动 (上)",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K20",
+   "name": "鼠标移动 (下)",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K21",
+   "name": "鼠标移动 (左)",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K22",
+   "name": "鼠标移动 (右)",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K23",
+   "name": "鼠标左键",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K24",
+   "name": "鼠标右键",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K25",
+   "name": "鼠标滚轮移动 (上)",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K26",
+   "name": "鼠标滚轮移动 (下)",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K29",
+   "name": "彩漆喷雾",
+   "scope": "system",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K30",
+   "name": "冒险图鉴",
+   "scope": "system",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K34",
+   "name": "瞬移至赛丽亚旅馆",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K36",
+   "name": "整体音量开启/关闭",
+   "scope": "system",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K37",
+   "name": "冒险团 - 玩法信息",
+   "scope": "system",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K39",
+   "name": "截图",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K40",
+   "name": "状况面板 / 修炼道场召唤",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K41",
+   "name": "装备库",
+   "scope": "system",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K42",
+   "name": "变装",
+   "scope": "system",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "K43",
+   "name": "观战进入/结束/选择对象",
+   "scope": "system",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I70",
+   "name": "自定义聊天 1",
+   "scope": "quickchat",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I71",
+   "name": "自定义聊天 2",
+   "scope": "quickchat",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I72",
+   "name": "自定义聊天 3",
+   "scope": "quickchat",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I73",
+   "name": "自定义聊天 4",
+   "scope": "quickchat",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I74",
+   "name": "自定义聊天 5",
+   "scope": "quickchat",
+   "side": "left",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I75",
+   "name": "自定义聊天 6",
+   "scope": "quickchat",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I76",
+   "name": "自定义聊天 7",
+   "scope": "quickchat",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I77",
+   "name": "自定义聊天 8",
+   "scope": "quickchat",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I78",
+   "name": "自定义聊天 9",
+   "scope": "quickchat",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  },
+  {
+   "id": "I79",
+   "name": "自定义聊天 10",
+   "scope": "quickchat",
+   "side": "right",
+   "type": "CommonType",
+   "default_key": ""
+  }
+ ]
+}

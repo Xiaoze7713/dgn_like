@@ -1,0 +1,10 @@
+# 文本统一 LF；二进制不转换
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.ico binary
+*.pvf binary
+*.npk binary
+*.zip binary
+*.ttf binary
+*.dds binary
